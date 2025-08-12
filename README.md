@@ -1,37 +1,62 @@
-<!-- Typing header -->
+<!-- Centered typing header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+YOUR_NAME;Full-stack+%7C+AI+%7C+Security;I+build+clean%2C+practical+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Muneeb+Anjum;Full-stack+%7C+AI+%7C+Security;I+build+clean%2C+practical+things" alt="Typing SVG" />
 </p>
 
-<!-- Badges -->
-<p align="center">
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge" />
+### 🌸 Data Science Aficionado | AI Enthusiast
+I’m a developer from Pakistan who enjoys building practical systems across AI, web, and backend.
+
+- 🌱 I’m currently learning **LangGraph**
+- 👨‍💻 I’m currently working on **AI Agents**
+- 💬 Ask me about **AI, LLMs, Automation, DevOps, Data, Backend, Cloud**
+- 📫 How to reach me:
+
+<p>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
-<!-- Skills -->
-<p align="center">
+---
+
+## 🛠️ Languages and Tools
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,tailwind,cs,dotnet,cpp,python,sqlite,postgres,azure,git" />
+    <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,cpp,cs,dotnet,python,sqlite,postgres,mysql,git,github,linux,azure,postman,vercel&perline=11" />
   </a>
 </p>
 
-<!-- Stats (lightweight, cached images) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=transparent" height="165" />
+---
+
+## 🏆 Trophies
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=muneeb-anjum0&theme=dracula&no-frame=true&row=1&column=8&margin-w=10&margin-h=10" />
 </p>
 
-<!-- Top languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent" />
+---
+
+## 📊 Statistics
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muneeb-anjum0&show_icons=true&theme=transparent" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=muneeb-anjum0&theme=transparent" />
 </p>
 
-<!-- Snake (auto-updates via GitHub Actions below) -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb-anjum0&layout=compact&theme=transparent" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muneeb-anjum0/muneeb-anjum0/output/github-snake-dark.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/muneeb-anjum0/muneeb-anjum0/output/github-snake.svg" />
   </picture>
+</p>
+
+<!-- Badges row -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/muneeb-anjum0?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/muneeb-anjum0?affiliations=OWNER&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=muneeb-anjum0&style=for-the-badge" />
 </p>
