@@ -2,20 +2,21 @@ name: Spotify
 on:
   schedule: [{ cron: "*/15 * * * *" }]
   workflow_dispatch:
+permissions:
+  contents: write
 jobs:
   now-playing:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Generate card
-        uses: kittinan/spotify-github-profile@v1
+      - uses: kittinan/spotify-github-profile@v1
         with:
           user_id: brfb521mpf0dqp6evccbcynoz
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
-      - name: Commit
+      - name: Commit card
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
