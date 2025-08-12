@@ -1,0 +1,21 @@
+name: 3D Contrib Graph
+on:
+  schedule: [{cron: "0 1 * * *"}]
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        with:
+          USERNAME: muneeb-anjum0
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mkdir -p ./3d
+          mv ./profile-3d-contrib/* ./3d/
+          git add ./3d
+          git commit -m "Update 3D contrib graph"
+          git push
