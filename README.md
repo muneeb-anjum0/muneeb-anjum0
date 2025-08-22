@@ -1,11 +1,15 @@
-<!-- ===== HERO (Liquid Glass) ===== -->
+<!-- ===== HERO (Liquid Glass) with light/dark auto swap ===== -->
 <p align="center">
-  <img src="assets/hero-liquid-glass.svg" alt="Liquid Glass Banner" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-liquid-glass-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/hero-liquid-glass-light.svg">
+    <img src="assets/hero-liquid-glass-light.svg" alt="Liquid Glass Banner" width="100%">
+  </picture>
 </p>
 
 <h1 align="center">Muneeb Anjum — Full-Stack Engineer (MERN + .NET)</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&center=true&vCenter=true&width=900&height=40&duration=3000&lines=Pixel-perfect.+Clean.+Fast.;Exact-as-design+frontends+%7C+Solid+APIs+%7C+Perf+passes" alt="typing">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=900&center=true&vCenter=true&width=920&height=40&duration=2800&lines=Pixel-perfect.+Clean.+Fast.;Exact-as-design+frontends+%7C+Solid+APIs+%7C+Perf+passes" alt="typing">
 </p>
 
 <p align="center">
@@ -13,15 +17,19 @@
     <img src="https://komarev.com/ghpvc/?username=muneeb-anjum0&style=flat-square" alt="views"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/ASP.NET-blue?logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />
 </p>
 
-<!-- ===== Terminal Card (SVG, not a code fence) ===== -->
+<!-- ===== Terminal Card (SVG, not a code fence) with light/dark auto swap ===== -->
 <p align="center">
-  <img src="assets/terminal-card.svg" alt="macOS Terminal Card" width="920">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-card-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/terminal-card-light.svg">
+    <img src="assets/terminal-card-light.svg" alt="macOS Terminal Card" width="920">
+  </picture>
 </p>
 
 ## About
