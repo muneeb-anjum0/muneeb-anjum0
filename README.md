@@ -1,4 +1,4 @@
-<!-- ===== HERO (Liquid Glass) with light/dark auto swap ===== -->
+<!-- HERO with light/dark auto swap -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero-liquid-glass-dark.svg">
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />
 </p>
 
-<!-- ===== Terminal Card (SVG, not a code fence) with light/dark auto swap ===== -->
+<!-- Terminal card (SVG, not code fence) -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-card-dark.svg">
