@@ -1,0 +1,53 @@
+<svg width="1400" height="320" viewBox="0 0 1400 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgd" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="g1d" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#60a5fa" stop-opacity="0.85"/>
+    </linearGradient>
+    <linearGradient id="g2d" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#a78bfa" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#34d399" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="stroked" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#93c5fd" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.25"/>
+    </linearGradient>
+    <linearGradient id="paneld" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#111827" stop-opacity="0.45"/>
+    </linearGradient>
+    <filter id="blurd" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="70"/>
+    </filter>
+    <filter id="shadowd">
+      <feDropShadow dx="0" dy="12" stdDeviation="20" flood-color="#000" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="320" fill="url(#bgd)"/>
+
+  <g filter="url(#blurd)" opacity="0.9">
+    <circle cx="160" cy="120" r="130" fill="url(#g1d)"/>
+    <circle cx="560" cy="60" r="120" fill="url(#g2d)"/>
+    <circle cx="1080" cy="250" r="170" fill="url(#g1d)"/>
+    <circle cx="1290" cy="90" r="120" fill="url(#g2d)"/>
+  </g>
+
+  <rect x="80" y="56" width="1240" height="208" rx="28" fill="url(#paneld)" stroke="url(#stroked)" stroke-width="2" filter="url(#shadowd)"/>
+  <rect x="80" y="56" width="1240" height="70" rx="28" fill="#ffffff" opacity="0.06"/>
+
+  <g transform="translate(108,78)">
+    <circle r="7" fill="#ff5f56"/>
+    <circle cx="24" r="7" fill="#ffbd2e"/>
+    <circle cx="48" r="7" fill="#27c93f"/>
+  </g>
+
+  <g font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-weight="800">
+    <text x="120" y="150" font-size="36" fill="#ffffff">MUNEEB ANJUM</text>
+    <text x="120" y="188" font-size="20" fill="#e5e7eb" opacity="0.95">Full-Stack • MERN + .NET • Pixel-Perfect • Clean • Fast</text>
+  </g>
+</svg>
