@@ -34,48 +34,48 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" title="Vite" alt="Vite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" title="Tailwind CSS" alt="Tailwind CSS" />
+  <img src="https://unpkg.com/simple-icons@v13/icons/tailwindcss.svg" height="40" title="Tailwind CSS" alt="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" title="Firebase (client SDK)" alt="Firebase" />
-  <img src="https://cdn.simpleicons.org/framer/0055FF" height="40" title="Framer Motion" alt="Framer Motion" />
+  <img src="https://unpkg.com/simple-icons@v13/icons/framer.svg" height="40" title="Framer Motion" alt="Framer Motion" />
 
   <!-- Node.js and Express -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" title="Express" alt="Express" />
-  <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" height="40" title="JWT" alt="JWT" />
-  <img src="https://cdn.simpleicons.org/cloudinary/3448C5" height="40" title="Cloudinary" alt="Cloudinary" />
+  <img src="https://unpkg.com/simple-icons@v13/icons/jsonwebtokens.svg" height="40" title="JWT" alt="JWT" />
+  <img src="https://unpkg.com/simple-icons@v13/icons/cloudinary.svg" height="40" title="Cloudinary" alt="Cloudinary" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" title="Firebase Admin SDK" alt="Firebase Admin" />
 
   <!-- .NET backend -->
-  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" title=".NET 8" alt=".NET" />
-  <img src="https://cdn.simpleicons.org/grpc/6DB33F" height="40" title="gRPC" alt="gRPC" />
+  <img src="https://unpkg.com/simple-icons@v13/icons/dotnet.svg" height="40" title=".NET 8" alt=".NET" />
+  <img src="https://unpkg.com/simple-icons@v13/icons/grpc.svg" height="40" title="gRPC" alt="gRPC" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" title="SQL Server" alt="SQL Server" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" title="Redis" alt="Redis" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" title="Kafka" alt="Kafka" />
 
   <!-- Data and Search -->
-  <img src="https://cdn.simpleicons.org/clickhouse/FFCC01" height="40" title="ClickHouse" alt="ClickHouse" />
+  <img src="https://unpkg.com/simple-icons@v13/icons/clickhouse.svg" height="40" title="ClickHouse" alt="ClickHouse" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="40" title="Elasticsearch" alt="Elasticsearch" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" title="Firestore" alt="Firestore" />
 
   <!-- Cloud · DevOps · Observability -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" title="Kubernetes" alt="Kubernetes" />
-  <img src="https://cdn.simpleicons.org/argo/EF7B4D" height="40" title="Argo CD" alt="Argo CD" />
-  <img src="https://cdn.simpleicons.org/helm/0F1689" height="40" title="Helm" alt="Helm" />
-  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" title="GitHub Actions" alt="GitHub Actions" />
-  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="40" title="Azure AKS · Key Vault · Front Door" alt="Azure" />
+  <img src="https://unpkg.com/simple-icons@v13/icons/argo.svg" height="40" title="Argo CD" alt="Argo CD" />
+  <img src="https://unpkg.com/simple-icons@v13/icons/helm.svg" height="40" title="Helm" alt="Helm" />
+  <img src="https://unpkg.com/simple-icons@v13/icons/githubactions.svg" height="40" title="GitHub Actions" alt="GitHub Actions" />
+  <img src="https://unpkg.com/simple-icons@v13/icons/microsoftazure.svg" height="40" title="Azure AKS · Key Vault · Front Door" alt="Azure" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" title="Nginx" alt="Nginx" />
-  <img src="https://cdn.simpleicons.org/opentelemetry/000000" height="40" title="OpenTelemetry" alt="OpenTelemetry" />
-  <img src="https://cdn.simpleicons.org/grafana/F46800" height="40" title="Grafana" alt="Grafana" />
-  <img src="https://cdn.simpleicons.org/prometheus/E6522C" height="40" title="Prometheus" alt="Prometheus" />
+  <img src="https://unpkg.com/simple-icons@v13/icons/opentelemetry.svg" height="40" title="OpenTelemetry" alt="OpenTelemetry" />
+  <img src="https://unpkg.com/simple-icons@v13/icons/grafana.svg" height="40" title="Grafana" alt="Grafana" />
+  <img src="https://unpkg.com/simple-icons@v13/icons/prometheus.svg" height="40" title="Prometheus" alt="Prometheus" />
 
   <!-- C++ graphics stack -->
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="40" title="C++" alt="C++" />
-  <img src="https://cdn.simpleicons.org/opengl/5586A4" height="40" title="OpenGL" alt="OpenGL" />
-  <img src="https://cdn.simpleicons.org/cmake/064F8C" height="40" title="CMake" alt="CMake" />
-  <img src="https://cdn.simpleicons.org/gnu/000000" height="40" title="GCC g++" alt="GCC g++" />
+  <img src="https://unpkg.com/simple-icons@v13/icons/cplusplus.svg" height="40" title="C++" alt="C++" />
+  <img src="https://unpkg.com/simple-icons@v13/icons/opengl.svg" height="40" title="OpenGL" alt="OpenGL" />
+  <img src="https://unpkg.com/simple-icons@v13/icons/cmake.svg" height="40" title="CMake" alt="CMake" />
+  <img src="https://unpkg.com/simple-icons@v13/icons/gnu.svg" height="40" title="GCC g++" alt="GCC g++" />
 
 </p>
 
