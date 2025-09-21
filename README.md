@@ -2,10 +2,10 @@
 
 <h1 align="center">Muneeb Anjum</h1>
 <p align="center">
-  <b>Full-stack Product Engineer</b> | <b>Realtime UX Crafter</b> | <b>Data-minded Problem Solver</b>
+  <b>Full-stack Product Engineer</b> | <b>Realtime UX Crafter</b> | <b>Systems-minded Builder</b>
 </p>
 <p align="center">
-  I build fast, resilient, human-friendly web apps and ship them end to end.
+  I design, code, and ship fast, resilient web products end to end.
 </p>
 
 <p align="center">
@@ -16,91 +16,86 @@
 
 ---
 
-## What I Do
-- Design and ship SPA frontends that feel instant.
-- Build typed, secure APIs that do not fall over.
-- Wire up auth, caching, CI, and observability so products stay healthy.
-- Explore graphics and realtime viz in C++ and OpenGL for fun and learning.
+## Frontend
+
+<p align="left">
+  <a href="https://react.dev/" title="React"><img src="https://cdn.simpleicons.org/react" alt="React" width="40" /></a>
+  <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" width="40" /></a>
+  <a href="https://vitejs.dev/" title="Vite"><img src="https://cdn.simpleicons.org/vite" alt="Vite" width="40" /></a>
+  <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" width="40" /></a>
+  <a href="https://reactrouter.com/" title="React Router"><img src="https://cdn.simpleicons.org/reactrouter" alt="React Router" width="40" /></a>
+  <a href="https://firebase.google.com/" title="Firebase"><img src="https://cdn.simpleicons.org/firebase" alt="Firebase" width="40" /></a>
+  <a href="https://axios-http.com/" title="Axios"><img src="https://cdn.simpleicons.org/axios" alt="Axios" width="40" /></a>
+  <a href="https://eslint.org/" title="ESLint"><img src="https://cdn.simpleicons.org/eslint" alt="ESLint" width="40" /></a>
+  <a href="https://postcss.org/" title="PostCSS"><img src="https://cdn.simpleicons.org/postcss" alt="PostCSS" width="40" /></a>
+  <a href="https://www.tiny.cloud/" title="TinyMCE"><img src="https://cdn.simpleicons.org/tinymce" alt="TinyMCE" width="40" /></a>
+  <a href="https://www.framer.com/motion/" title="Framer Motion"><img src="https://cdn.simpleicons.org/framer" alt="Framer Motion" width="40" /></a>
+</p>
 
 ---
 
-## Current Focus
-- PulseProof style idea platform experiments
-- Firebase + React Query data patterns
-- Clean, typed Node APIs with Zod and JWT
-- C++ OpenGL visualizations with ImGui
+## Backend
+
+<p align="left">
+  <a href="https://nodejs.org/" title="Node.js"><img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" width="40" /></a>
+  <a href="https://expressjs.com/" title="Express"><img src="https://cdn.simpleicons.org/express/ffffff/000000" alt="Express" width="40" /></a>
+  <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://cdn.simpleicons.org/mongodb" alt="MongoDB" width="40" /></a>
+  <a href="https://mongoosejs.com/" title="Mongoose"><img src="https://cdn.simpleicons.org/mongoose" alt="Mongoose" width="40" /></a>
+  <a href="https://jwt.io/" title="JSON Web Tokens"><img src="https://cdn.simpleicons.org/jsonwebtokens" alt="JWT" width="40" /></a>
+  <a href="https://www.cloudflare.com/learning/security/what-is-cors/" title="CORS"><img src="https://img.shields.io/badge/CORS-blue?logo=cloudflare&logoColor=white" alt="CORS" height="24" /></a>
+  <a href="https://helmetjs.github.io/" title="Helmet"><img src="https://img.shields.io/badge/Helmet-grey?logo=helmet&logoColor=white" alt="Helmet" height="24" /></a>
+  <a href="https://github.com/express-rate-limit/express-rate-limit" title="express-rate-limit"><img src="https://img.shields.io/badge/Rate%20Limit-black?logo=clockify&logoColor=white" alt="Rate Limit" height="24" /></a>
+  <a href="https://zod.dev/" title="Zod"><img src="https://img.shields.io/badge/Zod-3E67B1?logo=typescript&logoColor=white" alt="Zod" height="24" /></a>
+  <a href="https://cloudinary.com/" title="Cloudinary"><img src="https://cdn.simpleicons.org/cloudinary" alt="Cloudinary" width="40" /></a>
+  <a href="https://firebase.google.com/docs/admin/setup" title="Firebase Admin"><img src="https://cdn.simpleicons.org/firebase" alt="Firebase Admin" width="40" /></a>
+</p>
 
 ---
 
-## Tech Stack I Use
+## DevOps
 
-### Frontend
-- **React** with hooks (JSX/TSX), **TypeScript**
-- **Vite** build tool, React plugin
-- **Routing**: react-router-dom
-- **State & Data**: Zustand, @tanstack/react-query, IndexedDB via `idb`
-- **HTTP**: Axios
-- **Styling**: Tailwind CSS, PostCSS, Autoprefixer, CSS Modules, `tailwind-merge`, `classnames`/`clsx`
-- **UX polish**: framer-motion, @hello-pangea/dnd, @studio-freight/lenis
-- **Rich text**: @tinymce/tinymce-react
-- **Linting**: ESLint with React, hooks, refresh plugins
-- **Assets**: SVG, PNG, JPG, WebP
-
-### Backend
-- **Node.js** + **Express** with **TypeScript** and **TSX**
-- **Auth**: JWT, bcryptjs, cookie-parser
-- **Security**: Helmet, CORS, express-rate-limit
-- **Validation**: Zod
-- **Logging & Env**: Morgan, dotenv
-- **Data**: MongoDB with Mongoose, Firebase Admin SDK (Firestore, Storage, Auth)
-- **Media**: Cloudinary
-- **System utils**: fs, path, cli-progress
-- **Architecture**: controllers, models, routes, middleware
-
-### Cloud & DevOps
-- **Docker** and **Docker Compose**
-- **Nginx** reverse proxy and static serving
-- **Firebase Functions**
-- **Firestore** rules and indexes
-- Node ecosystem with npm and package.json
-- Configs: ESLint, PostCSS, `tsconfig`, `vite.config.ts`
-- Local DX: Nodemon
-
-### C++ Graphics
-- **C++17** with STL, OOP
-- **Rendering**: OpenGL, GLAD, GLFW
-- **Math**: GLM
-- **GUI**: Dear ImGui (GLFW + OpenGL3 backends)
-- **Assets**: stb_image
-- **Build**: g++ (MSYS2 or MinGW), CMake for GLM when needed, VS Code tasks
-- Realtime viz, input callbacks, pathfinding (A*, Dijkstra), cross-platform friendly
+<p align="left">
+  <a href="https://www.docker.com/" title="Docker"><img src="https://cdn.simpleicons.org/docker" alt="Docker" width="40" /></a>
+  <a href="https://nginx.org/" title="Nginx"><img src="https://cdn.simpleicons.org/nginx" alt="Nginx" width="40" /></a>
+  <a href="https://git-scm.com/" title="Git"><img src="https://cdn.simpleicons.org/git" alt="Git" width="40" /></a>
+  <a href="https://github.com/" title="GitHub"><img src="https://cdn.simpleicons.org/github/ffffff/181717" alt="GitHub" width="40" /></a>
+  <a href="https://www.linux.org/" title="Linux"><img src="https://cdn.simpleicons.org/linux" alt="Linux" width="40" /></a>
+  <a href="https://www.npmjs.com/" title="npm"><img src="https://cdn.simpleicons.org/npm" alt="npm" width="40" /></a>
+  <a href="https://nodemon.io/" title="Nodemon"><img src="https://img.shields.io/badge/Nodemon-76D04B?logo=nodemon&logoColor=white" alt="Nodemon" height="24" /></a>
+  <a href="https://eslint.org/" title="ESLint"><img src="https://cdn.simpleicons.org/eslint" alt="ESLint" width="40" /></a>
+  <a href="https://postcss.org/" title="PostCSS"><img src="https://cdn.simpleicons.org/postcss" alt="PostCSS" width="40" /></a>
+  <a href="https://www.typescriptlang.org/docs/handbook/tsconfig-json.html" title="tsconfig"><img src="https://cdn.simpleicons.org/typescript" alt="tsconfig" width="40" /></a>
+</p>
 
 ---
 
-## Principles I Work By
-- Type everything. Validate inputs at the edge.
-- Cache smart. Ship fast. Measure and improve.
-- Small modules. Clear boundaries. Readable code.
-- Production by default mindset.
+## C++ Graphics
+
+<p align="left">
+  <a href="https://isocpp.org/" title="C++"><img src="https://cdn.simpleicons.org/cplusplus" alt="C++" width="40" /></a>
+  <a href="https://www.opengl.org/" title="OpenGL"><img src="https://cdn.simpleicons.org/opengl" alt="OpenGL" width="40" /></a>
+  <a href="https://cmake.org/" title="CMake"><img src="https://cdn.simpleicons.org/cmake" alt="CMake" width="40" /></a>
+  <a href="https://gcc.gnu.org/" title="GCC"><img src="https://cdn.simpleicons.org/gcc" alt="GCC" width="40" /></a>
+  <a href="https://www.glfw.org/" title="GLFW"><img src="https://img.shields.io/badge/GLFW-0A0A0A?logo=windowsterminal&logoColor=white" alt="GLFW" height="24" /></a>
+  <a href="https://github.com/ocornut/imgui" title="Dear ImGui"><img src="https://img.shields.io/badge/ImGui-181717?logo=github&logoColor=white" alt="ImGui" height="24" /></a>
+  <a href="https://github.com/Dav1dde/glad" title="GLAD"><img src="https://img.shields.io/badge/GLAD-333333?logo=openaccess&logoColor=white" alt="GLAD" height="24" /></a>
+  <a href="https://github.com/g-truc/glm" title="GLM"><img src="https://img.shields.io/badge/GLM-00599C?logo=c%2B%2B&logoColor=white" alt="GLM" height="24" /></a>
+  <a href="https://github.com/nothings/stb" title="stb_image"><img src="https://img.shields.io/badge/stb_image-444444?logo=imagej&logoColor=white" alt="stb_image" height="24" /></a>
+</p>
 
 ---
 
-## Featured Links
+## More libs I use
+Zustand, React Query, Lenis, @hello-pangea/dnd, TinyMCE, Axios, IndexedDB, Zod, JWT, bcrypt, cookie-parser, express-rate-limit, Helmet, Morgan, dotenv, Cloudinary, Firebase Functions, Firestore rules and indexes.
+
+---
+
+## Principles
+Type everything. Validate at the edges. Cache smart. Measure and improve. Small modules. Clear boundaries. Production mindset.
+
+---
+
+### Quick Links
 - 🌐 Portfolio: **https://muneeb-anjum.vercel.app/**
 - 🔗 LinkedIn: **https://www.linkedin.com/in/muneebanjum335**
 - 📧 Email: **muneeb.anjum0@gmail.com**
-
----
-
-## Quick Stats
-- SPA development, REST API design, CRUD at scale
-- AuthN/AuthZ, error handling, security best practices
-- IndexedDB and React Query caching patterns
-- Asset optimization and responsive UI
-
-<!--
-Optional extras you can enable later:
-- GitHub stats or streak widgets
-- Project cards with screenshots
-- Blog links or talks
--->
