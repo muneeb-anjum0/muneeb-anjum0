@@ -8,25 +8,25 @@
   />
 </p>
 
-<!-- ====== NAVBAR (white theme badges) ====== -->
-<p align="center">
-  <a href="https://muneeb-anjum.vercel.app/">
+<!-- ====== NAVBAR with border, white theme ====== -->
+<div align="center" style="margin:10px 0; padding:10px 14px; border:1px solid #e5e7eb; border-radius:12px; display:inline-block; background:#ffffff;">
+  <a href="https://muneeb-anjum.vercel.app/" style="text-decoration:none; margin:0 6px;">
     <img alt="Portfolio"
          src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=ffffff&color=ffffff">
   </a>
-  <a href="https://linkedin.com/in/muneebanjum335">
+  <a href="https://linkedin.com/in/muneebanjum335" style="text-decoration:none; margin:0 6px;">
     <img alt="LinkedIn"
          src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=ffffff&color=ffffff">
   </a>
-  <a href="mailto:muneeb.anjum0@gmail.com">
+  <a href="mailto:muneeb.anjum0@gmail.com" style="text-decoration:none; margin:0 6px;">
     <img alt="Email"
          src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=ffffff&color=ffffff">
   </a>
-  <a href="https://github.com/muneeb-anjum0">
+  <a href="https://github.com/muneeb-anjum0" style="text-decoration:none; margin:0 6px;">
     <img alt="GitHub"
          src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=000000&labelColor=ffffff&color=ffffff">
   </a>
-</p>
+</div>
 
 ---
 
@@ -155,7 +155,7 @@
 - Azure: AKS, App Service, Functions, Container Apps  
 - Key Vault, Managed Identity, Front Door  
 - Docker, Compose, Kubernetes, Helm, KEDA  
-- Argo CD or Flux, blue-green and canary, GitHub Actions
+- Argo CD or Flux, blue green and canary, GitHub Actions
 
 **Other**
 - Elasticsearch or OpenSearch clients  
@@ -171,6 +171,13 @@
 
 ---
 
+### GitHub Metrics
+<p align="center">
+  <img src="./metrics.svg" alt="GitHub Metrics">
+</p>
+
+---
+
 ### GitHub Stats
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=muneeb-anjum0&show_icons=true&include_all_commits=true&count_private=true&theme=default" alt="Stats">
@@ -179,6 +186,13 @@
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=muneeb-anjum0&theme=default" alt="GitHub Streak">
 </p>
+
+---
+
+### Recent activity
+<!--RECENT_ACTIVITY:start-->
+Loading...
+<!--RECENT_ACTIVITY:end-->
 
 ---
 
