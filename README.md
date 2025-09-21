@@ -71,7 +71,6 @@
   <!-- AI -->
   <img title="OpenAI" alt="OpenAI" width="48" src="https://cdn.simpleicons.org/openai"/>
   <img title="ONNX" alt="ONNX" width="48" src="https://cdn.simpleicons.org/onnx"/>
-  <img title="Gemini" alt="Gemini" width="48" src="https://cdn.simpleicons.org/gemini"/>
 </p>
 
 
