@@ -48,8 +48,7 @@
   <!-- Messaging -->
   <img title="Kafka" alt="Kafka" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"/>
   <img title="RabbitMQ" alt="RabbitMQ" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg"/>
-  <img title="gRPC" alt="gRPC" width="48" src="https://cdn.simpleicons.org/grpc"/>
-
+  
   <!-- Cloud and Infra -->
   <img title="Azure" alt="Azure" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
   <img title="Docker" alt="Docker" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
@@ -65,17 +64,14 @@
   <img title="Grafana" alt="Grafana" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"/>
   <img title="OpenTelemetry" alt="OpenTelemetry" width="48" src="https://cdn.simpleicons.org/opentelemetry"/>
   <img title="Jaeger" alt="Jaeger" width="48" src="https://cdn.simpleicons.org/jaeger"/>
-  <img title="Seq" alt="Seq" width="48" src="https://cdn.simpleicons.org/seq"/>
 
   <!-- Testing and Quality -->
-  <img title="xUnit" alt="xUnit" width="48" src="https://cdn.simpleicons.org/xunit"/>
-  <img title="NUnit" alt="NUnit" width="48" src="https://cdn.simpleicons.org/nunit"/>
   <img title="ESLint" alt="ESLint" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg"/>
-  <img title="SonarQube" alt="SonarQube" width="48" src="https://cdn.simpleicons.org/sonarqube"/>
-
+  
   <!-- AI -->
   <img title="OpenAI" alt="OpenAI" width="48" src="https://cdn.simpleicons.org/openai"/>
   <img title="ONNX" alt="ONNX" width="48" src="https://cdn.simpleicons.org/onnx"/>
+  <img title="Gemini" alt="Gemini" width="48" src="https://cdn.simpleicons.org/gemini"/>
 </p>
 
 
