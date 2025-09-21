@@ -1,110 +1,111 @@
-<!-- Profile README for Muneeb Anjum (white theme) -->
-<!-- Search+replace your GitHub username if not 'muneeb-anjum0' -->
-
-<h1 align="center">Muneeb Anjum</h1>
-<h3 align="center">Full-stack Systems Engineer · MERN + .NET · Shipping Clean, Fast, Observable Apps</h3>
-
+<!-- Top Navbar -->
 <p align="center">
-  I mix React + TypeScript, Node/Express, and .NET 8 to build realtime, fault-tolerant products with clear metrics and boring releases.
+  <a href="https://muneeb-anjum.vercel.app/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Portfolio-muneeb--anjum.vercel.app-000000?logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/muneebanjum335" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-Muneeb%20Anjum-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:muneeb.anjum0@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Email-muneeb.anjum0%40gmail.com-EA4335?logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<!-- ===== MODERN NAVBAR (light theme) ===== -->
+<!-- Profile Views -->
 <p align="center">
-  <a href="https://muneeb-anjum.vercel.app" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-ffffff?style=for-the-badge&logo=vercel&logoColor=000&labelColor=ffffff&color=000000" />
-  </a>
-  <a href="mailto:muneeb.anjum0@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-muneeb.anjum0%40gmail.com-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=ffffff&color=DDDDDD" />
-  </a>
-  <a href="https://www.linkedin.com/in/muneebanjum335" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=ffffff&color=DDDDDD" />
-  </a>
-  <a href="https://github.com/muneeb-anjum0" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-ffffff?style=for-the-badge&logo=github&logoColor=111&labelColor=ffffff&color=DDDDDD" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=gray" alt="Profile views" />
+</p>
+
+<h1 align="center">Muneeb Anjum · Distributed Web Systems Architect</h1>
+<p align="center">Building fast UIs, resilient APIs, and real time data systems</p>
+
+<!-- Quick Intro -->
+<p align="center">
+  I design end to end systems across React, Node, and .NET. Strong focus on performance, security, DX, and clean architecture.
 </p>
 
 ---
 
-## What I’m doing
-- Realtime UX with **SignalR/WebSockets**
-- Solid validation, auth, and rate limits
-- Containers + GitHub Actions + **Azure** deploys
-- Perf and tracing with **OpenTelemetry**
+### Tech Stack and Skills
 
----
-
-## Skills and Tech
-<!-- Light-themed, larger icons. No links for icons. Hover to see names. -->
-<p align="left">
+<!-- Big Icon Grid -->
+<p>
+  <!-- Programming -->
+  <img title="C#" alt="C#" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img title=".NET" alt=".NET" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
+  <img title="TypeScript" alt="TypeScript" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img title="JavaScript" alt="JavaScript" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img title="C++" alt="C++" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 
   <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" title="React" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" title="TypeScript" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" title="JavaScript" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="48" title="Vite" alt="Vite"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@13.12.0/icons/tailwindcss.svg" height="48" title="Tailwind CSS" alt="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="48" title="Firebase Web SDK" alt="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@13.12.0/icons/framer.svg" height="48" title="Framer Motion" alt="Framer Motion"/>
+  <img title="React" alt="React" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img title="Vite" alt="Vite" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" />
+  <img title="Tailwind CSS" alt="Tailwind" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img title="CSS3" alt="CSS3" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img title="HTML5" alt="HTML5" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
-  <!-- Backend (Node) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" title="Node.js" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="48" title="Express" alt="Express"/>
-  <img src="https://img.shields.io/badge/JWT-JSON%20Web%20Tokens-111?logo=jsonwebtokens&logoColor=fff&labelColor=fff&color=111" height="28" title="JWT" alt="JWT"/>
-  <img src="https://img.shields.io/badge/Cloudinary-Media-ffffff?logo=cloudinary&logoColor=3448C5&labelColor=ffffff&color=DDDDDD" height="28" title="Cloudinary" alt="Cloudinary"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" title="MongoDB" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="48" title="Firebase Admin SDK" alt="Firebase Admin"/>
+  <!-- Tooling -->
+  <img title="Node.js" alt="Node.js" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img title="Express" alt="Express" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img title="Firebase" alt="Firebase" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+  <img title="MongoDB" alt="MongoDB" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img title="PostgreSQL" alt="PostgreSQL" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img title="SQL Server" alt="MSSQL" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+  <img title="Redis" alt="Redis" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+  <img title="Kafka" alt="Kafka" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
+  <img title="RabbitMQ" alt="RabbitMQ" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" />
+  <img title="gRPC" alt="gRPC" width="48" src="https://avatars.githubusercontent.com/u/7802525?s=200&v=4" />
+  <img title="Azure" alt="Azure" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  <img title="Docker" alt="Docker" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img title="Kubernetes" alt="Kubernetes" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+  <img title="Nginx" alt="Nginx" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+  <img title="GitHub Actions" alt="GitHub Actions" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-plain.svg" />
+</p>
 
-  <!-- Backend (.NET) -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@13.12.0/icons/dotnet.svg" height="48" title=".NET 8" alt=".NET"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@13.12.0/icons/grpc.svg" height="48" title="gRPC" alt="gRPC"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" title="SQL Server" alt="SQL Server"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" title="PostgreSQL" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="48" title="Redis" alt="Redis"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="48" title="Kafka" alt="Kafka"/>
+<details>
+<summary>What I work with day to day</summary>
 
-  <!-- Data & Search -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@13.12.0/icons/clickhouse.svg" height="48" title="ClickHouse" alt="ClickHouse"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="48" title="Elasticsearch" alt="Elasticsearch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="48" title="Firestore" alt="Firestore"/>
+- Frontend: React, Vite, Router, Zustand, React Query, Tailwind, Framer Motion, Lenis, TinyMCE, PWA with IndexedDB, SVG and WebP assets  
+- Backend Node: Express, JWT, Zod, rate limiting, Helmet, CORS, Firebase Admin, MongoDB with Mongoose, Cloudinary  
+- Backend .NET: .NET 8, Minimal APIs, Clean architecture, CQRS, MediatR, gRPC, YARP, SignalR, Redis, Kafka, RabbitMQ, Azure Service Bus, Polly, OpenTelemetry, Serilog  
+- Data: SQL Server, PostgreSQL, MongoDB, Redis, ClickHouse or TimescaleDB, Firestore rules and indexes  
+- DevOps: Docker, Compose, K8s, Helm, KEDA, GitHub Actions, Argo CD or Flux, Nginx, blue green and canary  
+- Testing and Quality: xUnit or NUnit, FluentAssertions, Testcontainers, WireMock.Net, ESLint, Roslyn analyzers, SonarQube
+</details>
 
-  <!-- Cloud · DevOps · Observability -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48" title="Docker" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="48" title="Kubernetes" alt="Kubernetes"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@13.12.0/icons/microsoftazure.svg" height="48" title="Microsoft Azure (AKS, Key Vault, Front Door)" alt="Azure"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@13.12.0/icons/argo.svg" height="48" title="Argo CD" alt="Argo CD"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@13.12.0/icons/helm.svg" height="48" title="Helm" alt="Helm"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@13.12.0/icons/githubactions.svg" height="48" title="GitHub Actions" alt="GitHub Actions"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="48" title="Nginx" alt="Nginx"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@13.12.0/icons/opentelemetry.svg" height="48" title="OpenTelemetry" alt="OpenTelemetry"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@13.12.0/icons/grafana.svg" height="48" title="Grafana" alt="Grafana"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@13.12.0/icons/prometheus.svg" height="48" title="Prometheus" alt="Prometheus"/>
+---
 
+### GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=default" alt="Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=default" alt="Streak" />
 </p>
 
 ---
 
-## GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muneeb-anjum0&no-frame=true&no-bg=true&row=1&column=7" alt="trophies"/>
-</p>
+### Trophies
 
-## Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=muneeb-anjum0&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=111&text_color=333&icon_color=111" alt="stats"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=muneeb-anjum0&hide_border=true&background=FFFFFF&ring=111111&fire=111111&currStreakLabel=111111" alt="streak"/>
-</p>
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb-anjum0&layout=donut&hide_border=true&bg_color=FFFFFF&title_color=111&text_color=333" alt="top langs"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=flat&no-frame=true&row=1&column=7" alt="trophies" />
 </p>
 
 ---
 
-<!-- Closing line: styled, not the same typing banner -->
-<p align="center">
-  <sub><b>Simplicity wins.</b> Complex looks clever; simple wins users.</sub>
-</p>
+### Activity Snake
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muneeb-anjum0&style=flat-square&label=Profile+Views" alt="views"/>
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/snake.svg" alt="snake" />
 </p>
+
+---
+
+### Contact
+
+- Portfolio: https://muneeb-anjum.vercel.app/  
+- LinkedIn: https://linkedin.com/in/muneebanjum335  
+- Email: muneeb.anjum0@gmail.com
