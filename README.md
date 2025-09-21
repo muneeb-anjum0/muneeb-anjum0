@@ -1,17 +1,24 @@
-<!-- Navbar -->
+<!-- ====== HERO ====== -->
+<h1 align="center">✨ 𝙈𝙪𝙣𝙚𝙚𝙗 𝘼𝙣𝙟𝙪𝙢 ✨</h1>
 <p align="center">
-  <a href="https://muneeb-anjum.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-muneeb--anjum.vercel.app-000000?logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://linkedin.com/in/muneebanjum335"><img src="https://img.shields.io/badge/LinkedIn-Muneeb%20Anjum-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:muneeb.anjum0@gmail.com"><img src="https://img.shields.io/badge/Email-muneeb.anjum0%40gmail.com-EA4335?logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Distributed+Web+Systems+Architect;Fast+UIs+%7C+Resilient+APIs+%7C+Real-time+Data+Platforms" alt="title typing">
 </p>
 
-<!-- Views -->
+<!-- ====== NAVBAR ====== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muneeb-anjum0&style=flat&color=gray" alt="Profile views">
+  <a href="https://muneeb-anjum.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%F0%9F%94%A5-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://github.com/muneeb-anjum0">
+    <img src="https://img.shields.io/badge/GitHub-muneeb--anjum0-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/muneebanjum335">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:muneeb.anjum0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
-
-<h1 align="center">Muneeb Anjum · Distributed Web Systems Architect</h1>
-<p align="center">I build fast UIs, resilient APIs, and real time data platforms</p>
 
 ---
 
@@ -28,8 +35,8 @@
   <!-- Frontend -->
   <img title="React" alt="React" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img title="Vite" alt="Vite" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"/>
-  <img title="Tailwind CSS" alt="Tailwind CSS" width="48" src="https://cdn.simpleicons.org/tailwindcss"/>
-  <img title="Firebase" alt="Firebase" width="48" src="https://cdn.simpleicons.org/firebase"/>
+  <img title="Tailwind CSS" alt="Tailwind CSS" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
+  <img title="Firebase" alt="Firebase" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
 
   <!-- Node.js backend -->
   <img title="Node.js" alt="Node.js" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
@@ -43,12 +50,12 @@
   <img title="Redis" alt="Redis" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>
   <img title="Elasticsearch" alt="Elasticsearch" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg"/>
   <img title="ClickHouse" alt="ClickHouse" width="48" src="https://cdn.simpleicons.org/clickhouse"/>
-  <img title="Timescale" alt="Timescale" width="48" src="https://cdn.simpleicons.org/timescale"/>
+  <img title="TimescaleDB" alt="TimescaleDB" width="48" src="https://cdn.simpleicons.org/timescaledb"/>
 
   <!-- Messaging -->
   <img title="Kafka" alt="Kafka" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"/>
   <img title="RabbitMQ" alt="RabbitMQ" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg"/>
-  
+
   <!-- Cloud and Infra -->
   <img title="Azure" alt="Azure" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
   <img title="Docker" alt="Docker" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
@@ -65,20 +72,19 @@
   <img title="OpenTelemetry" alt="OpenTelemetry" width="48" src="https://cdn.simpleicons.org/opentelemetry"/>
   <img title="Jaeger" alt="Jaeger" width="48" src="https://cdn.simpleicons.org/jaeger"/>
 
-  <!-- Testing and Quality -->
+  <!-- Linting -->
   <img title="ESLint" alt="ESLint" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg"/>
-  
+
   <!-- AI -->
   <img title="OpenAI" alt="OpenAI" width="48" src="https://cdn.simpleicons.org/openai"/>
   <img title="ONNX" alt="ONNX" width="48" src="https://cdn.simpleicons.org/onnx"/>
 </p>
 
-
 ---
 
 <!-- Extended skills section -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&center=true&vCenter=true&width=900&lines=Extended+skills+I+use;Clean+Architecture%2C+CQRS%2C+Vertical+Slices;Polly+resilience%2C+retries%2C+bulkheads%2C+hedging;ETags%2C+conditional+requests%2C+versioned+REST;OpenAPI+(NSwag%2FSwashbuckle)+and+BFF;Background+jobs+(Hangfire%2C+Quartz.NET);Outbox%2C+idempotency%2C+read+replicas;OpenTelemetry+%2B+OTLP+%7C+Prometheus+%7C+Grafana;Docker%2C+K8s%2C+Helm%2C+Argo%2C+KEDA;EF+Core+compiled+models+%2B+Dapper;C%2B%2B+OpenGL%2C+GLFW%2C+GLAD%2C+ImGui" alt="Extended skills marquee">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&center=true&vCenter=true&width=1000&lines=Extended+skills+I+use;Clean+Architecture%2C+CQRS%2C+Vertical+Slices;Polly+resilience%2C+retries%2C+bulkheads%2C+hedging;ETags%2C+conditional+requests%2C+versioned+REST;OpenAPI+(NSwag%2FSwashbuckle)+and+BFF;Background+jobs+(Hangfire%2C+Quartz.NET);Outbox%2C+idempotency%2C+read+replicas;OpenTelemetry+%2B+OTLP+%7C+Prometheus+%7C+Grafana;Docker%2C+K8s%2C+Helm%2C+Argo%2C+KEDA;EF+Core+compiled+models+%2B+Dapper;C%2B%2B+OpenGL%2C+GLFW%2C+GLAD%2C+ImGui" alt="Extended skills marquee">
 </p>
 
 <details>
