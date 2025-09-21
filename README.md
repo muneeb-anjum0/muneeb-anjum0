@@ -1,103 +1,158 @@
-<!-- Profile README for @muneeb-anjum0 -->
+<!-- Profile README for Muneeb Anjum -->
+<!-- Tip: if your GitHub username is not `muneeb-anjum0`, search+replace it below once. -->
 
 <h1 align="center">Muneeb Anjum</h1>
+<h3 align="center">Realtime Product Engineer · Systems-first MERN + .NET Backend · Data-Obsessed Builder</h3>
+
 <p align="center">
-  <b>Full-stack Product Engineer</b> | <b>Realtime UX Crafter</b> | <b>Systems-minded Builder</b>
+  I design and ship fast, fault-tolerant web systems with pragmatic UX. I mix MERN speed with .NET muscle, add a pinch of data, and scale it without drama.
 </p>
+
+<!-- ===== NAVBAR ===== -->
 <p align="center">
-  I design, code, and ship fast, resilient web products end to end.
+  <a href="https://muneeb-anjum.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-live-111?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="mailto:muneeb.anjum0@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-muneeb.anjum0%40gmail.com-0a0?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/muneebanjum335" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/muneeb-anjum0" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-profile-24292f?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://muneeb-anjum.vercel.app/">🌐 Portfolio</a> |
-  <a href="https://www.linkedin.com/in/muneebanjum335">🔗 LinkedIn</a> |
-  <a href="mailto:muneeb.anjum0@gmail.com">📧 Email</a>
+  <img src="https://komarev.com/ghpvc/?username=muneeb-anjum0&style=flat-square&label=Profile+Views" />
 </p>
 
 ---
 
-## What I Do
-- Design and ship SPA frontends that feel instant
-- Build typed, secure APIs that do not fall over
-- Wire up auth, caching, CI, and observability so products stay healthy
-- Explore graphics and realtime viz in C++ and OpenGL
-
-## Current Focus
-- PulseProof style idea platform experiments
-- Firebase + React Query data patterns
-- Clean, typed Node APIs with Zod and JWT
-- C++ OpenGL visualizations with ImGui
+## ⚡ Snapshot
+- Frontend that feels instant. Backend that does not break. Data that tells the truth.
+- React + TypeScript for DX speed. Node and Express for service glue. .NET 8 for high throughput and strict SLAs.
+- CI, containers, observability, and clean schemas so releases are boring and metrics are loud.
 
 ---
 
-## Tech & Tools (Clickable Icons)
-
-<p align="left">
-  <!-- Frontend core -->
-  <a href="https://react.dev/" title="React"><img src="https://cdn.simpleicons.org/react" width="40" alt="React" /></a>
-  <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://cdn.simpleicons.org/typescript" width="40" alt="TypeScript" /></a>
-  <a href="https://vitejs.dev/" title="Vite"><img src="https://cdn.simpleicons.org/vite" width="40" alt="Vite" /></a>
-  <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://cdn.simpleicons.org/tailwindcss" width="40" alt="Tailwind CSS" /></a>
-  <a href="https://reactrouter.com/" title="React Router"><img src="https://cdn.simpleicons.org/reactrouter" width="40" alt="React Router" /></a>
-  <a href="https://firebase.google.com/" title="Firebase"><img src="https://cdn.simpleicons.org/firebase" width="40" alt="Firebase" /></a>
-  <a href="https://tanstack.com/query/latest" title="React Query"><img src="https://cdn.simpleicons.org/reactquery" width="40" alt="React Query" /></a>
-  <a href="https://zustand-demo.pmnd.rs/" title="Zustand"><img src="https://cdn.simpleicons.org/zustand" width="40" alt="Zustand" /></a>
-  <a href="https://axios-http.com/" title="Axios"><img src="https://cdn.simpleicons.org/axios" width="40" alt="Axios" /></a>
-  <a href="https://eslint.org/" title="ESLint"><img src="https://cdn.simpleicons.org/eslint" width="40" alt="ESLint" /></a>
-  <a href="https://postcss.org/" title="PostCSS"><img src="https://cdn.simpleicons.org/postcss" width="40" alt="PostCSS" /></a>
-  <a href="https://www.framer.com/motion/" title="Framer Motion"><img src="https://cdn.simpleicons.org/framer" width="40" alt="Framer Motion" /></a>
+## 🛠️ Tech I ship with
+### Frontend
+<p>
+  <a href="https://react.dev"><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></a>
+  <a href="https://www.typescriptlang.org"><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/></a>
+  <a href="https://vitejs.dev"><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg"/></a>
+  <a href="https://tailwindcss.com"><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/></a>
+  <a href="https://tanstack.com/query/latest"><img height="28" src="https://img.shields.io/badge/React%20Query-TanStack-FF4154.svg"/></a>
+  <a href="https://firebase.google.com/docs/web/setup"><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/></a>
+  <a href="https://axios-http.com"><img height="28" src="https://img.shields.io/badge/Axios-5A29E4.svg?logoColor=white"/></a>
+  <a href="https://www.framer.com/motion/"><img height="28" src="https://img.shields.io/badge/Framer%20Motion-0055FF.svg?logo=framer&logoColor=white"/></a>
+  <a href="https://www.tiny.cloud/docs/tinymce/6/react/"><img height="28" src="https://img.shields.io/badge/TinyMCE-0865AD.svg"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/API/IndexedDB_API"><img height="28" src="https://img.shields.io/badge/IndexedDB-idb-2E7D32.svg"/></a>
 </p>
 
-<p align="left">
-  <!-- Backend core -->
-  <a href="https://nodejs.org/" title="Node.js"><img src="https://cdn.simpleicons.org/nodedotjs" width="40" alt="Node.js" /></a>
-  <a href="https://expressjs.com/" title="Express"><img src="https://cdn.simpleicons.org/express/ffffff/000000" width="40" alt="Express" /></a>
-  <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://cdn.simpleicons.org/mongodb" width="40" alt="MongoDB" /></a>
-  <a href="https://mongoosejs.com/" title="Mongoose"><img src="https://cdn.simpleicons.org/mongoose" width="40" alt="Mongoose" /></a>
-  <a href="https://jwt.io/" title="JSON Web Tokens"><img src="https://cdn.simpleicons.org/jsonwebtokens" width="40" alt="JWT" /></a>
-  <a href="https://cloudinary.com/" title="Cloudinary"><img src="https://cdn.simpleicons.org/cloudinary" width="40" alt="Cloudinary" /></a>
-  <a href="https://firebase.google.com/docs/admin/setup" title="Firebase Admin SDK"><img src="https://cdn.simpleicons.org/firebase" width="40" alt="Firebase Admin" /></a>
+### Backend · Node and Express
+<p>
+  <a href="https://nodejs.org"><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></a>
+  <a href="https://expressjs.com"><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/></a>
+  <a href="https://www.typescriptlang.org"><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/></a>
+  <a href="https://zod.dev"><img height="28" src="https://img.shields.io/badge/Zod-3E67B1.svg"/></a>
+  <a href="https://www.npmjs.com/package/helmet"><img height="28" src="https://img.shields.io/badge/Helmet-security-111.svg"/></a>
+  <a href="https://www.npmjs.com/package/cors"><img height="28" src="https://img.shields.io/badge/CORS-enabled-0A0.svg"/></a>
+  <a href="https://www.npmjs.com/package/express-rate-limit"><img height="28" src="https://img.shields.io/badge/Rate%20Limit-express--rate--limit-444.svg"/></a>
+  <a href="https://www.npmjs.com/package/morgan"><img height="28" src="https://img.shields.io/badge/Morgan-logger-3C3C3C.svg"/></a>
+  <a href="https://www.mongodb.com/"><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/></a>
+  <a href="https://firebase.google.com/docs/admin/setup"><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/></a>
+  <a href="https://cloudinary.com/"><img height="28" src="https://img.shields.io/badge/Cloudinary-media-3448C5.svg"/></a>
+  <a href="https://jwt.io/"><img height="28" src="https://img.shields.io/badge/JWT-auth-000.svg"/></a>
+  <a href="https://nodemon.io/"><img height="28" src="https://img.shields.io/badge/Nodemon-dev-76D04B.svg"/></a>
 </p>
 
-<p align="left">
-  <!-- Security and middleware visual proxies -->
-  <a href="https://developer.mozilla.org/docs/Web/HTTP/CORS" title="CORS (MDN)"><img src="https://cdn.simpleicons.org/mdnwebdocs" width="40" alt="CORS (MDN)" /></a>
-  <a href="https://helmetjs.github.io/" title="Helmet security headers"><img src="https://cdn.simpleicons.org/owasp" width="40" alt="Helmet via OWASP" /></a>
-  <a href="https://github.com/express-rate-limit/express-rate-limit" title="Rate Limiting"><img src="https://cdn.simpleicons.org/speedtest" width="40" alt="Rate Limit" /></a>
-  <a href="https://zod.dev/" title="Zod"><img src="https://raw.githubusercontent.com/colinhacks/zod/master/logo.svg" width="40" alt="Zod" /></a>
+### Backend · .NET 8
+<p>
+  <a href="https://dotnet.microsoft.com/"><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/></a>
+  <a href="https://learn.microsoft.com/aspnet/core/"><img height="28" src="https://img.shields.io/badge/ASP.NET%20Core-8-5C2D91.svg"/></a>
+  <a href="https://learn.microsoft.com/ef/core/"><img height="28" src="https://img.shields.io/badge/EF%20Core-compiled%20models-512BD4.svg"/></a>
+  <a href="https://stackexchange.github.io/Dapper/"><img height="28" src="https://img.shields.io/badge/Dapper-hot%20paths-0B5FFF.svg"/></a>
+  <a href="https://grpc.io/"><img height="28" src="https://img.shields.io/badge/gRPC-HTTP%2F2-512BD4.svg"/></a>
+  <a href="https://learn.microsoft.com/aspnet/core/signalr/"><img height="28" src="https://img.shields.io/badge/SignalR-realtime-0078D4.svg"/></a>
+  <a href="https://redis.io/"><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/></a>
+  <a href="https://www.postgresql.org/"><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/></a>
+  <a href="https://www.microsoft.com/sql-server"><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/></a>
+  <a href="https://kafka.apache.org/"><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"/></a>
 </p>
 
-<p align="left">
-  <!-- DevOps -->
-  <a href="https://www.docker.com/" title="Docker"><img src="https://cdn.simpleicons.org/docker" width="40" alt="Docker" /></a>
-  <a href="https://nginx.org/" title="Nginx"><img src="https://cdn.simpleicons.org/nginx" width="40" alt="Nginx" /></a>
-  <a href="https://git-scm.com/" title="Git"><img src="https://cdn.simpleicons.org/git" width="40" alt="Git" /></a>
-  <a href="https://www.linux.org/" title="Linux"><img src="https://cdn.simpleicons.org/linux" width="40" alt="Linux" /></a>
-  <a href="https://www.npmjs.com/" title="npm"><img src="https://cdn.simpleicons.org/npm" width="40" alt="npm" /></a>
-  <a href="https://nodemon.io/" title="Nodemon"><img src="https://cdn.simpleicons.org/nodemon" width="40" alt="Nodemon" /></a>
-  <a href="https://www.typescriptlang.org/docs/handbook/tsconfig-json.html" title="tsconfig"><img src="https://cdn.simpleicons.org/typescript" width="40" alt="tsconfig" /></a>
-  <a href="https://github.com/" title="GitHub"><img src="https://cdn.simpleicons.org/github/ffffff/181717" width="40" alt="GitHub" /></a>
+### Cloud · DevOps · Observability
+<p>
+  <a href="https://www.docker.com/"><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/></a>
+  <a href="https://kubernetes.io/"><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/></a>
+  <a href="https://argo-cd.readthedocs.io/"><img height="28" src="https://img.shields.io/badge/Argo%20CD-GitOps-F44B21.svg"/></a>
+  <a href="https://helm.sh/"><img height="28" src="https://img.shields.io/badge/Helm-charts-0F1689.svg"/></a>
+  <a href="https://github.com/features/actions"><img height="28" src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-222.svg?logo=githubactions"/></a>
+  <a href="https://learn.microsoft.com/azure/"><img height="28" src="https://img.shields.io/badge/Azure-AKS%20%7C%20Key%20Vault%20%7C%20Front%20Door-0078D4.svg"/></a>
+  <a href="https://opentelemetry.io/"><img height="28" src="https://img.shields.io/badge/OpenTelemetry-traces%20%7C%20metrics%20%7C%20logs-6130CD.svg"/></a>
+  <a href="https://grafana.com/"><img height="28" src="https://img.shields.io/badge/Grafana-dashboards-F46800.svg"/></a>
+  <a href="https://prometheus.io/"><img height="28" src="https://img.shields.io/badge/Prometheus-metrics-E6522C.svg"/></a>
+  <a href="https://www.elastic.co/"><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg"/></a>
 </p>
 
-<p align="left">
-  <!-- C++ and graphics -->
-  <a href="https://isocpp.org/" title="C++"><img src="https://cdn.simpleicons.org/cplusplus" width="40" alt="C++" /></a>
-  <a href="https://www.opengl.org/" title="OpenGL"><img src="https://cdn.simpleicons.org/opengl" width="40" alt="OpenGL" /></a>
-  <a href="https://cmake.org/" title="CMake"><img src="https://cdn.simpleicons.org/cmake" width="40" alt="CMake" /></a>
-  <a href="https://gcc.gnu.org/" title="GCC"><img src="https://cdn.simpleicons.org/gcc" width="40" alt="GCC" /></a>
-  <a href="https://www.glfw.org/" title="GLFW"><img src="https://img.shields.io/badge/GLFW-0A0A0A" height="28" alt="GLFW" /></a>
-  <a href="https://github.com/ocornut/imgui" title="Dear ImGui"><img src="https://img.shields.io/badge/ImGui-181717" height="28" alt="ImGui" /></a>
-  <a href="https://github.com/Dav1dde/glad" title="GLAD"><img src="https://img.shields.io/badge/GLAD-333333" height="28" alt="GLAD" /></a>
-  <a href="https://github.com/g-truc/glm" title="GLM"><img src="https://img.shields.io/badge/GLM-00599C" height="28" alt="GLM" /></a>
-  <a href="https://github.com/nothings/stb" title="stb_image"><img src="https://img.shields.io/badge/stb_image-444444" height="28" alt="stb_image" /></a>
+### Data and Search
+<p>
+  <a href="https://www.mongodb.com/"><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/></a>
+  <a href="https://redis.io/"><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/></a>
+  <a href="https://www.postgresql.org/"><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/></a>
+  <a href="https://clickhouse.com/"><img height="28" src="https://img.shields.io/badge/ClickHouse-analytics-FFCC01.svg"/></a>
+  <a href="https://www.elastic.co/elasticsearch/"><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg"/></a>
+  <a href="https://firebase.google.com/docs/firestore"><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/></a>
+</p>
+
+### C++ Graphics kit
+<p>
+  <a href="https://www.opengl.org/"><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg"/></a>
+  <a href="https://www.glfw.org/"><img height="28" src="https://img.shields.io/badge/GLFW-windowing-6C6C6C.svg"/></a>
+  <a href="https://glad.dav1d.de/"><img height="28" src="https://img.shields.io/badge/GLAD-loader-333.svg"/></a>
+  <a href="https://glm.g-truc.net/0.9.9/index.html"><img height="28" src="https://img.shields.io/badge/GLM-math-0E7C86.svg"/></a>
+  <a href="https://github.com/ocornut/imgui"><img height="28" src="https://img.shields.io/badge/Dear%20ImGui-UI-2C3E50.svg"/></a>
 </p>
 
 ---
 
-## Principles
-Type everything. Validate at the edges. Cache smart. Measure and improve. Small modules. Clear boundaries. Production mindset.
+## 🧰 What I do a lot
+- SPA development with clean routing and predictable state
+- RESTful APIs with strict validation and auth
+- Realtime features with SignalR or WebSockets
+- Caching that actually moves the needle
+- CI pipelines that gatekeep quality
+- Dashboards that surface the right signals
 
-## Quick Links
-- 🌐 Portfolio: **https://muneeb-anjum.vercel.app/**
-- 🔗 LinkedIn: **https://www.linkedin.com/in/muneebanjum335**
-- 📧 Email: **muneeb.anjum0@gmail.com**
+---
+
+## 🏆 GitHub Trophies and Status
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muneeb-anjum0&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=muneeb-anjum0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=muneeb-anjum0&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb-anjum0&layout=compact&theme=tokyonight&langs_count=10" />
+</p>
+
+---
+
+## 📬 Reach me
+- Portfolio: **https://muneeb-anjum.vercel.app**
+- LinkedIn: **https://www.linkedin.com/in/muneebanjum335**
+- Email: **muneeb.anjum0@gmail.com**
+
+<!-- Optional: activity graph. Uncomment if you want it visible.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muneeb-anjum0&theme=react-dark&hide_border=true" />
+</p>
+-->
+
+<!-- End -->
