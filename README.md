@@ -1,24 +1,26 @@
 <!-- ====== HERO ====== -->
-<h1 align="center">✨ 𝙈𝙪𝙣𝙚𝙚𝙗 𝘼𝙣𝙟𝙪𝙢 ✨</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Distributed+Web+Systems+Architect;Fast+UIs+%7C+Resilient+APIs+%7C+Real-time+Data+Platforms" alt="title typing">
-</p>
+<h1 align="center" style="margin:0;">
+  <span style="font-weight:900; letter-spacing:1.5px; color:#6C7EE1;">Muneeb Anjum</span>
+</h1>
+<h3 align="center" style="margin-top:6px;">
+  <span style="font-weight:700; color:#5B6B76;">Distributed Web Systems Architect</span>
+</h3>
 
-<!-- ====== NAVBAR ====== -->
-<p align="center">
-  <a href="https://muneeb-anjum.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%F0%9F%94%A5-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+<!-- ====== NAVBAR : white theme ====== -->
+<div align="center" style="margin:18px 0;">
+  <a href="https://muneeb-anjum.vercel.app/" style="display:inline-block; background:#ffffff; color:#111; border:1px solid #e5e7eb; padding:8px 14px; margin:4px; border-radius:10px; text-decoration:none; font-weight:600;">
+    Portfolio
   </a>
-  <a href="https://github.com/muneeb-anjum0">
-    <img src="https://img.shields.io/badge/GitHub-muneeb--anjum0-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://linkedin.com/in/muneebanjum335" style="display:inline-block; background:#ffffff; color:#111; border:1px solid #e5e7eb; padding:8px 14px; margin:4px; border-radius:10px; text-decoration:none; font-weight:600;">
+    LinkedIn
   </a>
-  <a href="https://linkedin.com/in/muneebanjum335">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="mailto:muneeb.anjum0@gmail.com" style="display:inline-block; background:#ffffff; color:#111; border:1px solid #e5e7eb; padding:8px 14px; margin:4px; border-radius:10px; text-decoration:none; font-weight:600;">
+    Email
   </a>
-  <a href="mailto:muneeb.anjum0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="https://github.com/muneeb-anjum0" style="display:inline-block; background:#ffffff; color:#111; border:1px solid #e5e7eb; padding:8px 14px; margin:4px; border-radius:10px; text-decoration:none; font-weight:600;">
+    GitHub
   </a>
-</p>
+</div>
 
 ---
 
@@ -82,50 +84,90 @@
 
 ---
 
-<!-- Extended skills section -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&center=true&vCenter=true&width=1000&lines=Extended+skills+I+use;Clean+Architecture%2C+CQRS%2C+Vertical+Slices;Polly+resilience%2C+retries%2C+bulkheads%2C+hedging;ETags%2C+conditional+requests%2C+versioned+REST;OpenAPI+(NSwag%2FSwashbuckle)+and+BFF;Background+jobs+(Hangfire%2C+Quartz.NET);Outbox%2C+idempotency%2C+read+replicas;OpenTelemetry+%2B+OTLP+%7C+Prometheus+%7C+Grafana;Docker%2C+K8s%2C+Helm%2C+Argo%2C+KEDA;EF+Core+compiled+models+%2B+Dapper;C%2B%2B+OpenGL%2C+GLFW%2C+GLAD%2C+ImGui" alt="Extended skills marquee">
-</p>
-
+<!-- ====== EXTENDED SKILLS ====== -->
 <details>
-<summary><b>Open full list</b></summary>
+<summary>
+  <span style="font-weight:800; letter-spacing:0.6px; color:#374151; background:#ffffff; border:1px solid #e5e7eb; padding:8px 12px; border-radius:8px;">
+    Click to open the extended toolbox
+  </span>
+</summary>
 
-- React, TSX, hooks, Router, Zustand, React Query, TinyMCE  
-- Tailwind, PostCSS, Autoprefixer, CSS Modules, tailwind-merge, clsx  
-- Framer Motion, Lenis, PWA, IndexedDB caching  
-- Axios, Firebase client SDK  
-- Node, Express, Helmet, CORS, rate limits, cookie parser, bcryptjs, JWT  
-- Zod validation, Morgan logs, dotenv, TSX runner  
-- MongoDB with Mongoose, Firebase Admin for Firestore, Storage, Auth, Cloudinary  
-- .NET 8, Minimal APIs, Clean architecture, CQRS, MediatR style patterns  
-- Kestrel tuning, HTTP 2 and 3, gRPC, reverse proxies, WebSockets  
-- EF Core compiled models, Dapper hot paths, Redis caching and Streams  
-- Outbox pattern, partitioning, read replicas, idempotency keys  
-- Kafka, RabbitMQ, Azure Service Bus, MassTransit or NServiceBus, sagas  
-- OAuth2, OIDC, JWT, PASETO, mTLS, CSP, HSTS, Data Protection  
-- Polly resilience, async IO, batching, pooling, perf profiling  
-- OpenTelemetry traces, metrics, logs to OTLP, Prometheus, Grafana, Jaeger  
-- REST with versioning, ETags, conditional requests, OpenAPI, BFF pattern  
-- Background jobs with Hangfire, Quartz.NET, Azure Functions durable orchestrations  
-- Azure App Configuration, feature flags, ring deployments, source generators  
-- Elasticsearch or OpenSearch clients, relevance tuning, percolator queries  
-- ML.NET style pipelines, ONNX, OpenAI SDK, vector search  
-- GDPR tooling, audit trails, PII tokenization, quotas, tenant sharding  
-- Docker, Compose, K8s, Helm, KEDA, Argo, Nginx, GitHub Actions, Azure DevOps  
-- Testcontainers, WireMock.Net, FluentAssertions, AutoFixture, Bogus  
-- Conventional commits, semantic versioning, centralized tsconfig and vite.config  
-- C++ OpenGL, GLFW, GLAD, GLM, ImGui, stb_image, CMake
+<br/>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+**Frontend and UX**
+- React, TSX, hooks, Router  
+- Zustand, React Query  
+- Tailwind, PostCSS, Autoprefixer  
+- CSS Modules, tailwind-merge, clsx  
+- PWA, IndexedDB caching  
+- TinyMCE, Framer Motion, Lenis
+
+**Node and APIs**
+- Express, Helmet, CORS, rate limits  
+- JWT, cookie parser, bcryptjs  
+- Zod validation, Morgan, dotenv  
+- REST design, versioning, ETags, conditional requests
+    </td>
+    <td valign="top" width="50%">
+
+**.NET and Services**
+- .NET 8, Minimal APIs, Clean architecture  
+- CQRS, vertical slices, MediatR patterns  
+- Kestrel tuning, HTTP 2 and 3, WebSockets, reverse proxies  
+- gRPC, SignalR, YARP
+
+**Data and Messaging**
+- EF Core compiled models, Dapper hot paths  
+- Redis caching and Streams  
+- Outbox, idempotency keys, partitioning, read replicas  
+- Kafka, RabbitMQ, Azure Service Bus, MassTransit or NServiceBus
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+
+**Security**
+- OAuth2, OIDC, IdentityServer  
+- JWT, PASETO, mTLS  
+- CSP, HSTS, Data Protection  
+- WAF integration, rate limiting
+
+**Observability**
+- OpenTelemetry traces, metrics, logs via OTLP  
+- Prometheus, Grafana, Jaeger or Tempo  
+- Serilog, Seq, ELK  
+- Health checks, liveness, readiness
+    </td>
+    <td valign="top" width="50%">
+
+**Cloud and DevOps**
+- Azure: AKS, App Service, Functions, Container Apps  
+- Key Vault, Managed Identity, Front Door  
+- Docker, Compose, Kubernetes, Helm, KEDA  
+- Argo CD or Flux, blue green and canary, GitHub Actions
+
+**Other**
+- Elasticsearch or OpenSearch clients  
+- ML.NET, ONNX, OpenAI SDK, vector search  
+- GDPR tooling, audit trails, PII tokenization  
+- Testcontainers, WireMock.Net, AutoFixture, Bogus
+    </td>
+  </tr>
+</table>
+
 </details>
 
 ---
 
 ### GitHub Stats
-
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=muneeb-anjum0&show_icons=true&include_all_commits=true&count_private=true&theme=default" alt="Stats">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb-anjum0&layout=compact&langs_count=12&theme=default" alt="Top Languages">
 </p>
-
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=muneeb-anjum0&theme=default" alt="GitHub Streak">
 </p>
@@ -133,7 +175,6 @@
 ---
 
 ### Trophies
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=muneeb-anjum0&theme=flat&no-frame=true&row=1&column=7" alt="GitHub Trophies">
 </p>
@@ -141,7 +182,6 @@
 ---
 
 ### Activity Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/muneeb-anjum0/muneeb-anjum0/output/snake.svg" alt="snake animation">
 </p>
@@ -149,7 +189,6 @@
 ---
 
 ### Contact
-
 - Portfolio: https://muneeb-anjum.vercel.app/  
 - LinkedIn: https://linkedin.com/in/muneebanjum335  
 - Email: muneeb.anjum0@gmail.com
