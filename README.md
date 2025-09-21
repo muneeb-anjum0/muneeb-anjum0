@@ -1,26 +1,32 @@
-<!-- ====== HERO ====== -->
-<h1 align="center" style="margin:0;">
-  <span style="font-weight:900; letter-spacing:1.5px; color:#6C7EE1;">Muneeb Anjum</span>
-</h1>
-<h3 align="center" style="margin-top:6px;">
-  <span style="font-weight:700; color:#5B6B76;">Distributed Web Systems Architect</span>
-</h3>
+<!-- README.md -->
 
-<!-- ====== NAVBAR : white theme ====== -->
-<div align="center" style="margin:18px 0;">
-  <a href="https://muneeb-anjum.vercel.app/" style="display:inline-block; background:#ffffff; color:#111; border:1px solid #e5e7eb; padding:8px 14px; margin:4px; border-radius:10px; text-decoration:none; font-weight:600;">
-    Portfolio
+<!-- ====== PASTEL HEADER (static SVG) ====== -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=soft&height=150&color=F3F4F6&text=Muneeb%20Anjum&fontSize=52&fontColor=374151&fontAlign=50&animation=fadeIn&desc=Distributed%20Web%20Systems%20Architect&descAlign=50&descAlignY=75&descSize=20"
+    alt="Muneeb Anjum header"
+  />
+</p>
+
+<!-- ====== NAVBAR (white theme badges) ====== -->
+<p align="center">
+  <a href="https://muneeb-anjum.vercel.app/">
+    <img alt="Portfolio"
+         src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=ffffff&color=ffffff">
   </a>
-  <a href="https://linkedin.com/in/muneebanjum335" style="display:inline-block; background:#ffffff; color:#111; border:1px solid #e5e7eb; padding:8px 14px; margin:4px; border-radius:10px; text-decoration:none; font-weight:600;">
-    LinkedIn
+  <a href="https://linkedin.com/in/muneebanjum335">
+    <img alt="LinkedIn"
+         src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=ffffff&color=ffffff">
   </a>
-  <a href="mailto:muneeb.anjum0@gmail.com" style="display:inline-block; background:#ffffff; color:#111; border:1px solid #e5e7eb; padding:8px 14px; margin:4px; border-radius:10px; text-decoration:none; font-weight:600;">
-    Email
+  <a href="mailto:muneeb.anjum0@gmail.com">
+    <img alt="Email"
+         src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=ffffff&color=ffffff">
   </a>
-  <a href="https://github.com/muneeb-anjum0" style="display:inline-block; background:#ffffff; color:#111; border:1px solid #e5e7eb; padding:8px 14px; margin:4px; border-radius:10px; text-decoration:none; font-weight:600;">
-    GitHub
+  <a href="https://github.com/muneeb-anjum0">
+    <img alt="GitHub"
+         src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=000000&labelColor=ffffff&color=ffffff">
   </a>
-</div>
+</p>
 
 ---
 
@@ -87,9 +93,7 @@
 <!-- ====== EXTENDED SKILLS ====== -->
 <details>
 <summary>
-  <span style="font-weight:800; letter-spacing:0.6px; color:#374151; background:#ffffff; border:1px solid #e5e7eb; padding:8px 12px; border-radius:8px;">
-    Click to open the extended toolbox
-  </span>
+  <h3 style="display:inline;">Open the Extended Toolbox ▸</h3>
 </summary>
 
 <br/>
@@ -111,13 +115,14 @@
 - JWT, cookie parser, bcryptjs  
 - Zod validation, Morgan, dotenv  
 - REST design, versioning, ETags, conditional requests
+
     </td>
     <td valign="top" width="50%">
 
 **.NET and Services**
 - .NET 8, Minimal APIs, Clean architecture  
 - CQRS, vertical slices, MediatR patterns  
-- Kestrel tuning, HTTP 2 and 3, WebSockets, reverse proxies  
+- Kestrel tuning, HTTP/2, HTTP/3, WebSockets, reverse proxies  
 - gRPC, SignalR, YARP
 
 **Data and Messaging**
@@ -125,6 +130,7 @@
 - Redis caching and Streams  
 - Outbox, idempotency keys, partitioning, read replicas  
 - Kafka, RabbitMQ, Azure Service Bus, MassTransit or NServiceBus
+
     </td>
   </tr>
   <tr>
@@ -137,10 +143,11 @@
 - WAF integration, rate limiting
 
 **Observability**
-- OpenTelemetry traces, metrics, logs via OTLP  
+- OpenTelemetry via OTLP  
 - Prometheus, Grafana, Jaeger or Tempo  
 - Serilog, Seq, ELK  
 - Health checks, liveness, readiness
+
     </td>
     <td valign="top" width="50%">
 
@@ -148,13 +155,14 @@
 - Azure: AKS, App Service, Functions, Container Apps  
 - Key Vault, Managed Identity, Front Door  
 - Docker, Compose, Kubernetes, Helm, KEDA  
-- Argo CD or Flux, blue green and canary, GitHub Actions
+- Argo CD or Flux, blue-green and canary, GitHub Actions
 
 **Other**
 - Elasticsearch or OpenSearch clients  
 - ML.NET, ONNX, OpenAI SDK, vector search  
 - GDPR tooling, audit trails, PII tokenization  
 - Testcontainers, WireMock.Net, AutoFixture, Bogus
+
     </td>
   </tr>
 </table>
