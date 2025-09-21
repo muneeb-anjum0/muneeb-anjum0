@@ -15,68 +15,69 @@
 
 ---
 
-### Core Tech Stack
+<h3>Core Tech Stack</h3>
 
 <p align="left">
   <!-- Languages -->
-  <img title="C#" alt="C#" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img title=".NET" alt=".NET" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  <img title="TypeScript" alt="TypeScript" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img title="JavaScript" alt="JavaScript" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img title="C++" alt="C++" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img title="C#" alt="C#" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+  <img title=".NET" alt=".NET" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
+  <img title="TypeScript" alt="TypeScript" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img title="JavaScript" alt="JavaScript" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img title="C++" alt="C++" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 
   <!-- Frontend -->
-  <img title="React" alt="React" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img title="Vite" alt="Vite" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" />
-  <img title="Tailwind CSS" alt="Tailwind CSS" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  <img title="Firebase" alt="Firebase" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+  <img title="React" alt="React" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img title="Vite" alt="Vite" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"/>
+  <img title="Tailwind CSS" alt="Tailwind CSS" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
+  <img title="Firebase" alt="Firebase" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
 
   <!-- Node.js backend -->
-  <img title="Node.js" alt="Node.js" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img title="Express" alt="Express" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img title="MongoDB" alt="MongoDB" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img title="Cloudinary" alt="Cloudinary" width="48" src="https://cdn.simpleicons.org/cloudinary" />
+  <img title="Node.js" alt="Node.js" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img title="Express" alt="Express" width="48" src="https://cdn.simpleicons.org/express"/>
+  <img title="MongoDB" alt="MongoDB" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+  <img title="Cloudinary" alt="Cloudinary" width="48" src="https://cdn.simpleicons.org/cloudinary"/>
 
   <!-- Databases -->
-  <img title="PostgreSQL" alt="PostgreSQL" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img title="SQL Server" alt="SQL Server" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-  <img title="Redis" alt="Redis" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-  <img title="Elasticsearch" alt="Elasticsearch" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" />
-  <img title="ClickHouse" alt="ClickHouse" width="48" src="https://cdn.simpleicons.org/clickhouse" />
-  <img title="TimescaleDB" alt="TimescaleDB" width="48" src="https://cdn.simpleicons.org/timescaledb" />
+  <img title="PostgreSQL" alt="PostgreSQL" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img title="SQL Server" alt="SQL Server" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
+  <img title="Redis" alt="Redis" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>
+  <img title="Elasticsearch" alt="Elasticsearch" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg"/>
+  <img title="ClickHouse" alt="ClickHouse" width="48" src="https://cdn.simpleicons.org/clickhouse"/>
+  <img title="TimescaleDB" alt="TimescaleDB" width="48" src="https://cdn.simpleicons.org/timescaledb"/>
 
   <!-- Messaging -->
-  <img title="Kafka" alt="Kafka" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
-  <img title="RabbitMQ" alt="RabbitMQ" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" />
-  <img title="gRPC" alt="gRPC" width="48" src="https://cdn.simpleicons.org/grpc" />
+  <img title="Kafka" alt="Kafka" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"/>
+  <img title="RabbitMQ" alt="RabbitMQ" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg"/>
+  <img title="gRPC" alt="gRPC" width="48" src="https://cdn.simpleicons.org/grpc"/>
 
   <!-- Cloud and Infra -->
-  <img title="Azure" alt="Azure" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-  <img title="Docker" alt="Docker" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img title="Kubernetes" alt="Kubernetes" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-  <img title="Helm" alt="Helm" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" />
-  <img title="Nginx" alt="Nginx" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
-  <img title="GitHub Actions" alt="GitHub Actions" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-plain.svg" />
-  <img title="Argo" alt="Argo" width="48" src="https://cdn.simpleicons.org/argo" />
-  <img title="KEDA" alt="KEDA" width="48" src="https://cdn.simpleicons.org/keda" />
+  <img title="Azure" alt="Azure" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
+  <img title="Docker" alt="Docker" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <img title="Kubernetes" alt="Kubernetes" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
+  <img title="Helm" alt="Helm" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg"/>
+  <img title="NGINX" alt="NGINX" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"/>
+  <img title="GitHub Actions" alt="GitHub Actions" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-plain.svg"/>
+  <img title="Argo" alt="Argo" width="48" src="https://cdn.simpleicons.org/argo"/>
+  <img title="KEDA" alt="KEDA" width="48" src="https://cdn.simpleicons.org/keda"/>
 
   <!-- Observability -->
-  <img title="Prometheus" alt="Prometheus" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
-  <img title="Grafana" alt="Grafana" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
-  <img title="OpenTelemetry" alt="OpenTelemetry" width="48" src="https://cdn.simpleicons.org/opentelemetry" />
-  <img title="Jaeger" alt="Jaeger" width="48" src="https://cdn.simpleicons.org/jaeger" />
-  <img title="Seq" alt="Seq" width="48" src="https://cdn.simpleicons.org/seq" />
+  <img title="Prometheus" alt="Prometheus" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg"/>
+  <img title="Grafana" alt="Grafana" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"/>
+  <img title="OpenTelemetry" alt="OpenTelemetry" width="48" src="https://cdn.simpleicons.org/opentelemetry"/>
+  <img title="Jaeger" alt="Jaeger" width="48" src="https://cdn.simpleicons.org/jaeger"/>
+  <img title="Seq" alt="Seq" width="48" src="https://cdn.simpleicons.org/seq"/>
 
   <!-- Testing and Quality -->
-  <img title="xUnit" alt="xUnit" width="48" src="https://cdn.simpleicons.org/x" />
-  <img title="NUnit" alt="NUnit" width="48" src="https://cdn.simpleicons.org/nunit" />
-  <img title="ESLint" alt="ESLint" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
-  <img title="SonarQube" alt="SonarQube" width="48" src="https://cdn.simpleicons.org/sonarqube" />
+  <img title="xUnit" alt="xUnit" width="48" src="https://cdn.simpleicons.org/xunit"/>
+  <img title="NUnit" alt="NUnit" width="48" src="https://cdn.simpleicons.org/nunit"/>
+  <img title="ESLint" alt="ESLint" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg"/>
+  <img title="SonarQube" alt="SonarQube" width="48" src="https://cdn.simpleicons.org/sonarqube"/>
 
   <!-- AI -->
-  <img title="OpenAI" alt="OpenAI" width="48" src="https://cdn.simpleicons.org/openai" />
-  <img title="ONNX" alt="ONNX" width="48" src="https://cdn.simpleicons.org/onnx" />
+  <img title="OpenAI" alt="OpenAI" width="48" src="https://cdn.simpleicons.org/openai"/>
+  <img title="ONNX" alt="ONNX" width="48" src="https://cdn.simpleicons.org/onnx"/>
 </p>
+
 
 ---
 
