@@ -77,11 +77,14 @@
 
 
 ---
-
 ## Activity Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/muneeb-anjum0/muneeb-anjum0/output/snake.svg" alt="snake animation">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muneeb-anjum0/muneeb-anjum0/output/snake-dark.svg">
+    <img alt="Snake" src="https://raw.githubusercontent.com/muneeb-anjum0/muneeb-anjum0/output/snake.svg">
+  </picture>
 </p>
+
 
 ---
 
