@@ -6,41 +6,14 @@
   <span style="font-weight:700; color:#2E3440;">MERN Developer · .NET Developer</span>
 </p>
 
-<!-- PILL SEGMENTED NAVBAR — WHITE THEME, NO ICONS -->
-<div align="center" style="margin:20px 0;">
-  <div style="
-    display:inline-flex; flex-wrap:wrap; align-items:center;
-    background:#ffffff; border:2px solid #000; border-radius:999px;
-    overflow:hidden; box-shadow:0 2px 0 #000;
-  ">
-    <a href="https://muneeb-anjum.vercel.app/" aria-label="Portfolio" style="
-      text-decoration:none; color:#111; font-weight:800; letter-spacing:.4px; text-transform:uppercase;
-      padding:12px 18px; display:inline-block; line-height:1; background:#fff;
-    ">Portfolio</a>
+<!-- OPTION 2: Chunky kbd pills, centered -->
+<p align="center">
+  <a href="https://muneeb-anjum.vercel.app/"><kbd> PORTFOLIO </kbd></a>
+  <a href="https://linkedin.com/in/muneebanjum335"><kbd> LINKEDIN </kbd></a>
+  <a href="mailto:muneeb.anjum0@gmail.com"><kbd> EMAIL </kbd></a>
+  <a href="https://github.com/muneeb-anjum0"><kbd> GITHUB </kbd></a>
+</p>
 
-    <span aria-hidden="true" style="width:1px; background:#000; align-self:stretch;"></span>
-
-    <a href="https://linkedin.com/in/muneebanjum335" aria-label="LinkedIn" style="
-      text-decoration:none; color:#111; font-weight:800; letter-spacing:.4px; text-transform:uppercase;
-      padding:12px 18px; display:inline-block; line-height:1; background:#fff;
-    ">LinkedIn</a>
-
-    <span aria-hidden="true" style="width:1px; background:#000; align-self:stretch;"></span>
-
-    <a href="mailto:muneeb.anjum0@gmail.com" aria-label="Email" style="
-      text-decoration:none; color:#111; font-weight:800; letter-spacing:.4px; text-transform:uppercase;
-      padding:12px 18px; display:inline-block; line-height:1; background:#fff;
-    ">Email</a>
-
-    <span aria-hidden="true" style="width:1px; background:#000; align-self:stretch;"></span>
-
-    <a href="https://github.com/muneeb-anjum0" aria-label="GitHub" style="
-      text-decoration:none; color:#111; font-weight:800; letter-spacing:.4px; text-transform:uppercase;
-      padding:12px 18px; display:inline-block; line-height:1; background:#fff;
-    ">GitHub</a>
-  </div>
-</div>
-<!-- To mark the current page, add inline styles on that <a>: background:#111;color:#fff -->
 
 
 
