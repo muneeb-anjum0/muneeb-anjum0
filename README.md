@@ -6,49 +6,40 @@
   <span style="font-weight:700; color:#2E3440;">MERN Developer · .NET Developer</span>
 </p>
 
-<!-- ====== SEGMENTED NAVBAR: white bg, black text, full border, rounded ends ====== -->
-<div align="center" style="margin:18px 0;">
+<!-- ====== CLEAN SEGMENTED NAVBAR (WHITE THEME) ====== -->
+<div align="center" style="margin:20px 0;">
   <div style="
-    display:inline-flex;
-    align-items:center;
-    background:#ffffff;
-    border:2px solid #000000;
-    border-radius:14px;
-    overflow:hidden;
+    display:inline-flex; flex-wrap:wrap; align-items:center;
+    background:#ffffff; border:2px solid #000; border-radius:999px;
+    overflow:hidden; box-shadow:0 2px 0 #000;
   ">
-    <a href="https://muneeb-anjum.vercel.app/" style="
-      text-decoration:none; color:#111; font-weight:700;
-      padding:10px 16px; display:inline-flex; align-items:center; gap:8px;
-      border-right:1px solid #000000;
-      background:#ffffff;
-    ">
-      <img src="https://cdn.simpleicons.org/vercel" alt="" width="16" height="16"> Portfolio
-    </a>
-    <a href="https://linkedin.com/in/muneebanjum335" style="
-      text-decoration:none; color:#111; font-weight:700;
-      padding:10px 16px; display:inline-flex; align-items:center; gap:8px;
-      border-right:1px solid #000000;
-      background:#ffffff;
-    ">
-      <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="" width="16" height="16"> LinkedIn
-    </a>
-    <a href="mailto:muneeb.anjum0@gmail.com" style="
-      text-decoration:none; color:#111; font-weight:700;
-      padding:10px 16px; display:inline-flex; align-items:center; gap:8px;
-      border-right:1px solid #000000;
-      background:#ffffff;
-    ">
-      <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="" width="16" height="16"> Email
-    </a>
-    <a href="https://github.com/muneeb-anjum0" style="
-      text-decoration:none; color:#111; font-weight:700;
-      padding:10px 16px; display:inline-flex; align-items:center; gap:8px;
-      background:#ffffff;
-    ">
-      <img src="https://cdn.simpleicons.org/github" alt="" width="16" height="16"> GitHub
-    </a>
+    <a href="https://muneeb-anjum.vercel.app/" aria-label="Portfolio" style="
+      text-decoration:none; color:#111; font-weight:800; letter-spacing:.4px; text-transform:uppercase;
+      padding:12px 18px; display:inline-block; line-height:1; background:#fff; border-right:1px solid #000;
+    ">Portfolio</a>
+
+    <a href="https://linkedin.com/in/muneebanjum335" aria-label="LinkedIn" style="
+      text-decoration:none; color:#111; font-weight:800; letter-spacing:.4px; text-transform:uppercase;
+      padding:12px 18px; display:inline-block; line-height:1; background:#fff; border-right:1px solid #000;
+    ">LinkedIn</a>
+
+    <a href="mailto:muneeb.anjum0@gmail.com" aria-label="Email" style="
+      text-decoration:none; color:#111; font-weight:800; letter-spacing:.4px; text-transform:uppercase;
+      padding:12px 18px; display:inline-block; line-height:1; background:#fff; border-right:1px solid #000;
+    ">Email</a>
+
+    <a href="https://github.com/muneeb-anjum0" aria-label="GitHub" style="
+      text-decoration:none; color:#111; font-weight:800; letter-spacing:.4px; text-transform:uppercase;
+      padding:12px 18px; display:inline-block; line-height:1; background:#fff;
+    ">GitHub</a>
+  </div>
+
+  <!-- Optional subtitle -->
+  <div style="font-size:12px; color:#4b5563; margin-top:8px;">
+    Tip: set the current page by inlining <code>background:#111;color:#fff</code> on that link.
   </div>
 </div>
+
 
 ---
 
