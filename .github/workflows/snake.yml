@@ -1,28 +1,51 @@
 name: Generate Snake
+
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "7 3,15 * * *"   # twice daily
   workflow_dispatch:
+  push:
+    paths:
+      - README.md
 
 permissions:
   contents: write
+
+concurrency:
+  group: snake-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  SNAKE_USER: muneeb-anjum0
 
 jobs:
   snake:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Build snake.svg
+      - name: Build snake assets
         uses: Platane/snk@v3
         with:
-          github_user_name: muneeb-anjum0
-          outputs: dist/snake.svg
+          github_user_name: ${{ env.SNAKE_USER }}
+          outputs: |
+            dist/snake.svg?palette=github-light&color_snake=#4F6DFF&color_dots=#b3b3b3,#9aa0a6,#6b7280,#374151
+            dist/snake-dark.svg?palette=github-dark&color_snake=#8AB4F8&color_dots=#444444,#3a3a3a,#2b2b2b,#1f1f1f
+            dist/snake.gif?palette=github-dark&color_snake=#8AB4F8&pixel_square=8&speed=1.1
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: snake-assets
+          path: dist/*
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          keep_history: true
+          commit_message: "chore: update snake assets"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
