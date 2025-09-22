@@ -1,18 +1,21 @@
 <!-- ====== NAME + TITLE ====== -->
 <h1 align="center" style="margin:0;">
-  <span style="font-weight:900; letter-spacing:1.2px; color:#5B6CFF;">Muneeb Anjum</span>
+  <span style="font-weight:900; letter-spacing:1.2px; color:#5b6cff;">Muneeb Anjum</span>
 </h1>
-<h3 align="center" style="margin-top:6px;">
-  <span style="font-weight:700; color:#374151;">MERN Developer | .NET Developer</span>
-</h3>
+<p align="center" style="margin-top:4px;">
+  <span style="font-weight:700; color:#374151;">MERN Developer • .NET Developer</span>
+</p>
 
-<!-- ====== NAVBAR : white buttons, black text, black border ====== -->
+<!-- ====== NAVBAR: white buttons, black text, black border in a real bar ====== -->
 <div align="center" style="margin:14px 0;">
-  <div style="display:inline-block; background:#ffffff; border:2px solid #000000; border-radius:14px; padding:10px 14px;">
-    <a href="https://muneeb-anjum.vercel.app/" style="text-decoration:none; color:#111; font-weight:700; margin:0 10px;">Portfolio</a>
-    <a href="https://linkedin.com/in/muneebanjum335" style="text-decoration:none; color:#111; font-weight:700; margin:0 10px;">LinkedIn</a>
-    <a href="mailto:muneeb.anjum0@gmail.com" style="text-decoration:none; color:#111; font-weight:700; margin:0 10px;">Email</a>
-    <a href="https://github.com/muneeb-anjum0" style="text-decoration:none; color:#111; font-weight:700; margin:0 10px;">GitHub</a>
+  <div style="display:inline-flex; align-items:center; gap:14px; background:#ffffff; border:2px solid #000; border-radius:14px; padding:10px 16px;">
+    <a href="https://muneeb-anjum.vercel.app/" style="text-decoration:none; color:#111; font-weight:700;">Portfolio</a>
+    <span style="color:#9ca3af;">|</span>
+    <a href="https://linkedin.com/in/muneebanjum335" style="text-decoration:none; color:#111; font-weight:700;">LinkedIn</a>
+    <span style="color:#9ca3af;">|</span>
+    <a href="mailto:muneeb.anjum0@gmail.com" style="text-decoration:none; color:#111; font-weight:700;">Email</a>
+    <span style="color:#9ca3af;">|</span>
+    <a href="https://github.com/muneeb-anjum0" style="text-decoration:none; color:#111; font-weight:700;">GitHub</a>
   </div>
 </div>
 
