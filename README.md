@@ -6,13 +6,22 @@
   <span style="font-weight:700; color:#2E3440;">MERN Developer · .NET Developer</span>
 </p>
 
-<!-- OPTION 2: Chunky kbd pills, centered -->
+<!-- OPTION 3: White badges using badgen (no icons) -->
 <p align="center">
-  <a href="https://muneeb-anjum.vercel.app/"><kbd> PORTFOLIO </kbd></a>
-  <a href="https://linkedin.com/in/muneebanjum335"><kbd> LINKEDIN </kbd></a>
-  <a href="mailto:muneeb.anjum0@gmail.com"><kbd> EMAIL </kbd></a>
-  <a href="https://github.com/muneeb-anjum0"><kbd> GITHUB </kbd></a>
+  <a href="https://muneeb-anjum.vercel.app/">
+    <img src="https://badgen.net/badge/PORTFOLIO/ /white?labelColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/muneebanjum335">
+    <img src="https://badgen.net/badge/LINKEDIN/ /white?labelColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:muneeb.anjum0@gmail.com">
+    <img src="https://badgen.net/badge/EMAIL/ /white?labelColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/muneeb-anjum0">
+    <img src="https://badgen.net/badge/GITHUB/ /white?labelColor=white" alt="GitHub" />
+  </a>
 </p>
+
 
 
 
