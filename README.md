@@ -34,7 +34,6 @@
   <!-- Frontend -->
   <img title="React" alt="React" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img title="Vite" alt="Vite" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"/>
-  <img title="Tailwind CSS" alt="Tailwind CSS" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
   <img title="Firebase" alt="Firebase" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
 
   <!-- Node backend -->
@@ -49,7 +48,6 @@
   <img title="Redis" alt="Redis" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>
   <img title="Elasticsearch" alt="Elasticsearch" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg"/>
   <img title="ClickHouse" alt="ClickHouse" width="48" src="https://cdn.simpleicons.org/clickhouse"/>
-  <img title="TimescaleDB" alt="TimescaleDB" width="48" src="https://cdn.simpleicons.org/timescaledb"/>
 
   <!-- Messaging -->
   <img title="Kafka" alt="Kafka" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"/>
@@ -63,7 +61,6 @@
   <img title="NGINX" alt="NGINX" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"/>
   <img title="GitHub Actions" alt="GitHub Actions" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-plain.svg"/>
   <img title="Argo" alt="Argo" width="48" src="https://cdn.simpleicons.org/argo"/>
-  <img title="KEDA" alt="KEDA" width="48" src="https://cdn.simpleicons.org/keda"/>
 
   <!-- Observability -->
   <img title="Prometheus" alt="Prometheus" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg"/>
@@ -78,42 +75,6 @@
   <img title="OpenAI" alt="OpenAI" width="48" src="https://cdn.simpleicons.org/openai"/>
   <img title="ONNX" alt="ONNX" width="48" src="https://cdn.simpleicons.org/onnx"/>
 </p>
-
----
-
-## GitHub Metrics
-<p align="center">
-  <img src="./metrics.svg" alt="GitHub Metrics">
-</p>
-
----
-
-## Recent activity
-<div align="center">
-  <table>
-    <thead>
-      <tr>
-        <th align="left">When</th>
-        <th align="left">Action</th>
-        <th align="left">Repo</th>
-      </tr>
-    </thead>
-    <tbody>
-      <!--RECENT_ACTIVITY:start-->
-<tr><td>2025-09-21 23:35</td><td>Push</td><td><a href="https://github.com/muneeb-anjum0/muneeb-anjum0">muneeb-anjum0/muneeb-anjum0</a></td></tr>
-<tr><td>2025-09-21 23:34</td><td>Push</td><td><a href="https://github.com/muneeb-anjum0/muneeb-anjum0">muneeb-anjum0/muneeb-anjum0</a></td></tr>
-<tr><td>2025-09-21 23:32</td><td>Push</td><td><a href="https://github.com/muneeb-anjum0/muneeb-anjum0">muneeb-anjum0/muneeb-anjum0</a></td></tr>
-<tr><td>2025-09-21 23:32</td><td>Push</td><td><a href="https://github.com/muneeb-anjum0/muneeb-anjum0">muneeb-anjum0/muneeb-anjum0</a></td></tr>
-<tr><td>2025-09-21 23:31</td><td>Push</td><td><a href="https://github.com/muneeb-anjum0/muneeb-anjum0">muneeb-anjum0/muneeb-anjum0</a></td></tr>
-<tr><td>2025-09-21 23:31</td><td>Push</td><td><a href="https://github.com/muneeb-anjum0/muneeb-anjum0">muneeb-anjum0/muneeb-anjum0</a></td></tr>
-<tr><td>2025-09-21 23:31</td><td>Push</td><td><a href="https://github.com/muneeb-anjum0/muneeb-anjum0">muneeb-anjum0/muneeb-anjum0</a></td></tr>
-<tr><td>2025-09-21 23:30</td><td>Push</td><td><a href="https://github.com/muneeb-anjum0/muneeb-anjum0">muneeb-anjum0/muneeb-anjum0</a></td></tr>
-<tr><td>2025-09-21 23:27</td><td>Push</td><td><a href="https://github.com/muneeb-anjum0/muneeb-anjum0">muneeb-anjum0/muneeb-anjum0</a></td></tr>
-<tr><td>2025-09-21 23:22</td><td>Push</td><td><a href="https://github.com/muneeb-anjum0/muneeb-anjum0">muneeb-anjum0/muneeb-anjum0</a></td></tr>
-      <!--RECENT_ACTIVITY:end-->
-    </tbody>
-  </table>
-</div>
 
 ---
 
