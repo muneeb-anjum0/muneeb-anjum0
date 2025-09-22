@@ -6,7 +6,7 @@
   <span style="font-weight:700; color:#2E3440;">MERN Developer · .NET Developer</span>
 </p>
 
-<!-- ====== CLEAN SEGMENTED NAVBAR (WHITE THEME) ====== -->
+<!-- PILL SEGMENTED NAVBAR — WHITE THEME, NO ICONS -->
 <div align="center" style="margin:20px 0;">
   <div style="
     display:inline-flex; flex-wrap:wrap; align-items:center;
@@ -15,30 +15,33 @@
   ">
     <a href="https://muneeb-anjum.vercel.app/" aria-label="Portfolio" style="
       text-decoration:none; color:#111; font-weight:800; letter-spacing:.4px; text-transform:uppercase;
-      padding:12px 18px; display:inline-block; line-height:1; background:#fff; border-right:1px solid #000;
+      padding:12px 18px; display:inline-block; line-height:1; background:#fff;
     ">Portfolio</a>
+
+    <span aria-hidden="true" style="width:1px; background:#000; align-self:stretch;"></span>
 
     <a href="https://linkedin.com/in/muneebanjum335" aria-label="LinkedIn" style="
       text-decoration:none; color:#111; font-weight:800; letter-spacing:.4px; text-transform:uppercase;
-      padding:12px 18px; display:inline-block; line-height:1; background:#fff; border-right:1px solid #000;
+      padding:12px 18px; display:inline-block; line-height:1; background:#fff;
     ">LinkedIn</a>
+
+    <span aria-hidden="true" style="width:1px; background:#000; align-self:stretch;"></span>
 
     <a href="mailto:muneeb.anjum0@gmail.com" aria-label="Email" style="
       text-decoration:none; color:#111; font-weight:800; letter-spacing:.4px; text-transform:uppercase;
-      padding:12px 18px; display:inline-block; line-height:1; background:#fff; border-right:1px solid #000;
+      padding:12px 18px; display:inline-block; line-height:1; background:#fff;
     ">Email</a>
+
+    <span aria-hidden="true" style="width:1px; background:#000; align-self:stretch;"></span>
 
     <a href="https://github.com/muneeb-anjum0" aria-label="GitHub" style="
       text-decoration:none; color:#111; font-weight:800; letter-spacing:.4px; text-transform:uppercase;
       padding:12px 18px; display:inline-block; line-height:1; background:#fff;
     ">GitHub</a>
   </div>
-
-  <!-- Optional subtitle -->
-  <div style="font-size:12px; color:#4b5563; margin-top:8px;">
-    Tip: set the current page by inlining <code>background:#111;color:#fff</code> on that link.
-  </div>
 </div>
+<!-- To mark the current page, add inline styles on that <a>: background:#111;color:#fff -->
+
 
 
 ---
