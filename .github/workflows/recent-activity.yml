@@ -1,5 +1,4 @@
 name: Recent Activity
-
 on:
   schedule:
     - cron: "15 */6 * * *"
@@ -14,57 +13,50 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Build recent activity block
+      - name: Build table rows
         env:
           GHUSER: muneeb-anjum0
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -e
-          TMP=recent_activity.md
-
-          # Fetch last 10 public events
           curl -s -H "Authorization: Bearer $GITHUB_TOKEN" \
             "https://api.github.com/users/${GHUSER}/events/public?per_page=10" > events.json
 
-          # Format to markdown bullets
           jq -r '
             def repo: .repo.name;
-            def url:   if .type=="PullRequestEvent" then .payload.pull_request.html_url
-                       elif .type=="IssuesEvent" then .payload.issue.html_url
-                       elif .type=="ReleaseEvent" then .payload.release.html_url
-                       elif .type=="CreateEvent" and .payload.ref != null then "https://github.com/\(repo)/tree/\(.payload.ref)"
-                       else "https://github.com/\(repo)" end;
-            def action: .type
+            def link:
+              if .type=="PullRequestEvent" then .payload.pull_request.html_url
+              elif .type=="IssuesEvent" then .payload.issue.html_url
+              elif .type=="ReleaseEvent" then .payload.release.html_url
+              elif .type=="CreateEvent" and .payload.ref != null then "https://github.com/\(repo)/tree/\(.payload.ref)"
+              else "https://github.com/\(repo)" end;
+            def act:
+              .type
               | sub("Event$"; "")
               | gsub("PullRequest"; "PR")
-              | gsub("Watch"; "Star")
-              | gsub("Fork"; "Fork")
-              | gsub("Create"; "Create")
               | gsub("Issues"; "Issue")
+              | gsub("Watch"; "Star")
+              | gsub("Create"; "Create")
               | gsub("Push"; "Push")
-              | gsub("Release"; "Release");
-            [ .[] |
-              "- " +
-              ( .created_at | sub("T"; " ") | sub("Z"; "") | .[0:16] ) + " · " +
-              action + " · " +
-              "[" + repo + "](" + url + ")"
-            ] | .[]
-          ' events.json > "$TMP"
-
-          # Replace between markers in README.md
-          awk -v repl="$TMP" '
-            BEGIN{RS="\r?\n"; ORS="\n"}
-            {print}
-          ' README.md > README.md.tmp
+              | gsub("Release"; "Release")
+              | gsub("Fork"; "Fork");
+            if length==0 then
+              "<tr><td colspan=\"3\"><i>No public activity yet</i></td></tr>"
+            else
+              [ .[] |
+                "<tr><td>" + (.created_at | sub("T"; " ") | sub("Z"; "") | .[0:16]) +
+                "</td><td>" + act +
+                "</td><td><a href=\"" + link + "\">" + repo + "</a></td></tr>"
+              ] | join("\n")
+            end
+          ' events.json > rows.html
 
           awk '
-            BEGIN { p=1 }
-            /<!--RECENT_ACTIVITY:start-->/ { print; print ""; system("cat recent_activity.md"); print ""; p=0 }
-            /<!--RECENT_ACTIVITY:end-->/   { p=1 }
-            p && !/<!--RECENT_ACTIVITY:start-->/ { print }
-          ' README.md.tmp > README.md
-
-          rm -f README.md.tmp events.json "$TMP"
+            BEGIN {p=1}
+            /<!--RECENT_ACTIVITY:start-->/ { print; system("cat rows.html"); p=0; next }
+            /<!--RECENT_ACTIVITY:end-->/   { print; p=1; next }
+            p { print }
+          ' README.md > README.new && mv README.new README.md
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
