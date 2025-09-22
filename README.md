@@ -1,29 +1,23 @@
-<!-- ====== NAME + TITLE ====== -->
-<h1 align="center" style="margin:0;">
-  <span style="font-weight:900; letter-spacing:1.2px; color:#4F6DFF;">Muneeb Anjum</span>
-</h1>
-<p align="center" style="margin-top:4px;">
-  <span style="font-weight:700; color:#2E3440;">MERN Developer · .NET Developer</span>
-</p>
+<!-- ====== HEADER ====== -->
+<h1 align="center">Muneeb Anjum</h1>
+<p align="center"><strong>MERN Developer | .NET Developer</strong></p>
 
-<!-- OPTION 3: White badges using badgen (no icons) -->
+<p align="center">···</p>
+
+<!-- ====== NAV: CHUNKY KBD PILLS ====== -->
 <p align="center">
-  <a href="https://muneeb-anjum.vercel.app/">
-    <img src="https://badgen.net/badge/PORTFOLIO/ /white?labelColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/muneebanjum335">
-    <img src="https://badgen.net/badge/LINKEDIN/ /white?labelColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:muneeb.anjum0@gmail.com">
-    <img src="https://badgen.net/badge/EMAIL/ /white?labelColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/muneeb-anjum0">
-    <img src="https://badgen.net/badge/GITHUB/ /white?labelColor=white" alt="GitHub" />
-  </a>
+  <a href="https://muneeb-anjum.vercel.app/"><kbd>&nbsp;PORTFOLIO&nbsp;</kbd></a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/muneebanjum335"><kbd>&nbsp;LINKEDIN&nbsp;</kbd></a>
+  &nbsp;&nbsp;
+  <a href="mailto:muneeb.anjum0@gmail.com"><kbd>&nbsp;EMAIL&nbsp;</kbd></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/muneeb-anjum0"><kbd>&nbsp;GITHUB&nbsp;</kbd></a>
 </p>
 
-
-
+<p align="center">
+  <small>Tip: bold the current page label for emphasis</small>
+</p>
 
 
 ---
