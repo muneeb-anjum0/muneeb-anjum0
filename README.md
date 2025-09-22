@@ -1,14 +1,14 @@
 <!-- ====== NAME + TITLE ====== -->
 <h1 align="center" style="margin:0;">
-  <span style="font-weight:900; letter-spacing:1.2px; color:#5b6cff;">Muneeb Anjum</span>
+  <span style="font-weight:900; letter-spacing:1.2px; color:#4F6DFF;">Muneeb Anjum</span>
 </h1>
 <p align="center" style="margin-top:4px;">
-  <span style="font-weight:700; color:#374151;">MERN Developer • .NET Developer</span>
+  <span style="font-weight:700; color:#2E3440;">MERN Developer · .NET Developer</span>
 </p>
 
-<!-- ====== NAVBAR: white buttons, black text, black border in a real bar ====== -->
-<div align="center" style="margin:14px 0;">
-  <div style="display:inline-flex; align-items:center; gap:14px; background:#ffffff; border:2px solid #000; border-radius:14px; padding:10px 16px;">
+<!-- ====== NAVBAR: solid bar, white bg, black text, black border ====== -->
+<div align="center" style="margin:16px 0;">
+  <div style="display:inline-flex; align-items:center; gap:18px; background:#ffffff; border:2px solid #000; border-radius:14px; padding:12px 18px;">
     <a href="https://muneeb-anjum.vercel.app/" style="text-decoration:none; color:#111; font-weight:700;">Portfolio</a>
     <span style="color:#9ca3af;">|</span>
     <a href="https://linkedin.com/in/muneebanjum335" style="text-decoration:none; color:#111; font-weight:700;">LinkedIn</a>
@@ -34,6 +34,7 @@
   <!-- Frontend -->
   <img title="React" alt="React" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img title="Vite" alt="Vite" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"/>
+  <img title="Tailwind CSS" alt="Tailwind CSS" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
   <img title="Firebase" alt="Firebase" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
 
   <!-- Node backend -->
@@ -82,3 +83,20 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/muneeb-anjum0/muneeb-anjum0/output/snake.svg" alt="snake animation">
 </p>
+
+---
+
+## GitHub Stats
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=muneeb-anjum0&show_icons=true&include_all_commits=true&count_private=true&theme=default" alt="Stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb-anjum0&layout=compact&langs_count=12&theme=default" alt="Top Languages">
+</p>
+
+---
+
+## Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muneeb-anjum0&theme=flat&no-frame=true&row=1&column=7" alt="GitHub Trophies">
+</p>
+
+<!-- Notes: Snake uses GitHub’s public contribution graph. Private repos or non-counted contributions will not appear. -->
