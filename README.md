@@ -1,23 +1,16 @@
-<!-- ====== HEADER ====== -->
+<!-- Compact GitHub-safe header + bigger bold nav pills -->
 <h1 align="center">Muneeb Anjum</h1>
 <p align="center"><strong>MERN Developer | .NET Developer</strong></p>
-
-<p align="center">···</p>
-
-<!-- ====== NAV: CHUNKY KBD PILLS ====== -->
 <p align="center">
-  <a href="https://muneeb-anjum.vercel.app/"><kbd>&nbsp;PORTFOLIO&nbsp;</kbd></a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/muneebanjum335"><kbd>&nbsp;LINKEDIN&nbsp;</kbd></a>
-  &nbsp;&nbsp;
-  <a href="mailto:muneeb.anjum0@gmail.com"><kbd>&nbsp;EMAIL&nbsp;</kbd></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/muneeb-anjum0"><kbd>&nbsp;GITHUB&nbsp;</kbd></a>
+  <a href="https://muneeb-anjum.vercel.app/"><kbd><b>&nbsp;&nbsp;PORTFOLIO&nbsp;&nbsp;</b></kbd></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/muneebanjum335"><kbd><b>&nbsp;&nbsp;LINKEDIN&nbsp;&nbsp;</b></kbd></a>
+  &nbsp;
+  <a href="mailto:muneeb.anjum0@gmail.com"><kbd><b>&nbsp;&nbsp;EMAIL&nbsp;&nbsp;</b></kbd></a>
+  &nbsp;
+  <a href="https://github.com/muneeb-anjum0"><kbd><b>&nbsp;&nbsp;GITHUB&nbsp;&nbsp;</b></kbd></a>
 </p>
 
-<p align="center">
-  <small>Tip: bold the current page label for emphasis</small>
-</p>
 
 
 ---
