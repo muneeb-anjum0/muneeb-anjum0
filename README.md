@@ -28,7 +28,6 @@
   <!-- Frontend -->
   <img title="React" alt="React" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img title="Vite" alt="Vite" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"/>
-  <img title="Tailwind CSS" alt="Tailwind CSS" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
   <img title="Firebase" alt="Firebase" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
 
   <!-- Node backend -->
