@@ -1,59 +1,111 @@
-<!-- ====== HEADER ====== -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=soft&height=150&color=F3F4F6&text=Muneeb%20Anjum&fontSize=52&fontColor=374151&fontAlign=50&desc=Distributed%20Web%20Systems%20Architect&descAlign=50&descAlignY=75&descSize=20"
-    alt="Muneeb Anjum header"
-  />
-</p>
+<!-- ====== NAME + TITLE ====== -->
+<h1 align="center" style="margin:0;">
+  <span style="font-weight:900; letter-spacing:1.2px; color:#5B6CFF;">Muneeb Anjum</span>
+</h1>
+<h3 align="center" style="margin-top:6px;">
+  <span style="font-weight:700; color:#374151;">MERN Developer | .NET Developer</span>
+</h3>
 
-<!-- ====== NAVBAR with border, white theme ====== -->
-<div align="center" style="margin:10px 0; padding:10px 14px; border:1px solid #e5e7eb; border-radius:12px; display:inline-block; background:#ffffff;">
-  <a href="https://muneeb-anjum.vercel.app/" style="text-decoration:none; margin:0 6px;">
-    <img alt="Portfolio"
-         src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=ffffff&color=ffffff">
-  </a>
-  <a href="https://linkedin.com/in/muneebanjum335" style="text-decoration:none; margin:0 6px;">
-    <img alt="LinkedIn"
-         src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=ffffff&color=ffffff">
-  </a>
-  <a href="mailto:muneeb.anjum0@gmail.com" style="text-decoration:none; margin:0 6px;">
-    <img alt="Email"
-         src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=ffffff&color=ffffff">
-  </a>
-  <a href="https://github.com/muneeb-anjum0" style="text-decoration:none; margin:0 6px;">
-    <img alt="GitHub"
-         src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=000000&labelColor=ffffff&color=ffffff">
-  </a>
+<!-- ====== NAVBAR : white buttons, black text, black border ====== -->
+<div align="center" style="margin:14px 0;">
+  <div style="display:inline-block; background:#ffffff; border:2px solid #000000; border-radius:14px; padding:10px 14px;">
+    <a href="https://muneeb-anjum.vercel.app/" style="text-decoration:none; color:#111; font-weight:700; margin:0 10px;">Portfolio</a>
+    <a href="https://linkedin.com/in/muneebanjum335" style="text-decoration:none; color:#111; font-weight:700; margin:0 10px;">LinkedIn</a>
+    <a href="mailto:muneeb.anjum0@gmail.com" style="text-decoration:none; color:#111; font-weight:700; margin:0 10px;">Email</a>
+    <a href="https://github.com/muneeb-anjum0" style="text-decoration:none; color:#111; font-weight:700; margin:0 10px;">GitHub</a>
+  </div>
 </div>
 
 ---
 
-### GitHub Metrics
+## Core Tech Stack
+
+<p align="left">
+  <!-- Languages -->
+  <img title="C#" alt="C#" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+  <img title=".NET" alt=".NET" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
+  <img title="TypeScript" alt="TypeScript" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img title="JavaScript" alt="JavaScript" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img title="C++" alt="C++" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+
+  <!-- Frontend -->
+  <img title="React" alt="React" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img title="Vite" alt="Vite" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"/>
+  <img title="Tailwind CSS" alt="Tailwind CSS" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
+  <img title="Firebase" alt="Firebase" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+
+  <!-- Node backend -->
+  <img title="Node.js" alt="Node.js" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img title="Express" alt="Express" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
+  <img title="MongoDB" alt="MongoDB" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+  <img title="Cloudinary" alt="Cloudinary" width="48" src="https://cdn.simpleicons.org/cloudinary"/>
+
+  <!-- Databases -->
+  <img title="PostgreSQL" alt="PostgreSQL" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img title="SQL Server" alt="SQL Server" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
+  <img title="Redis" alt="Redis" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>
+  <img title="Elasticsearch" alt="Elasticsearch" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg"/>
+  <img title="ClickHouse" alt="ClickHouse" width="48" src="https://cdn.simpleicons.org/clickhouse"/>
+  <img title="TimescaleDB" alt="TimescaleDB" width="48" src="https://cdn.simpleicons.org/timescaledb"/>
+
+  <!-- Messaging -->
+  <img title="Kafka" alt="Kafka" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"/>
+  <img title="RabbitMQ" alt="RabbitMQ" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg"/>
+
+  <!-- Cloud and Infra -->
+  <img title="Azure" alt="Azure" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
+  <img title="Docker" alt="Docker" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <img title="Kubernetes" alt="Kubernetes" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
+  <img title="Helm" alt="Helm" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg"/>
+  <img title="NGINX" alt="NGINX" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"/>
+  <img title="GitHub Actions" alt="GitHub Actions" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-plain.svg"/>
+  <img title="Argo" alt="Argo" width="48" src="https://cdn.simpleicons.org/argo"/>
+  <img title="KEDA" alt="KEDA" width="48" src="https://cdn.simpleicons.org/keda"/>
+
+  <!-- Observability -->
+  <img title="Prometheus" alt="Prometheus" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg"/>
+  <img title="Grafana" alt="Grafana" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"/>
+  <img title="OpenTelemetry" alt="OpenTelemetry" width="48" src="https://cdn.simpleicons.org/opentelemetry"/>
+  <img title="Jaeger" alt="Jaeger" width="48" src="https://cdn.simpleicons.org/jaeger"/>
+
+  <!-- Linting -->
+  <img title="ESLint" alt="ESLint" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg"/>
+
+  <!-- AI -->
+  <img title="OpenAI" alt="OpenAI" width="48" src="https://cdn.simpleicons.org/openai"/>
+  <img title="ONNX" alt="ONNX" width="48" src="https://cdn.simpleicons.org/onnx"/>
+</p>
+
+---
+
+## GitHub Metrics
 <p align="center">
   <img src="./metrics.svg" alt="GitHub Metrics">
 </p>
 
 ---
 
-### Recent activity
-<!--RECENT_ACTIVITY:start-->
-
-- 2025-09-21 23:35 · Push · [muneeb-anjum0/muneeb-anjum0](https://github.com/muneeb-anjum0/muneeb-anjum0)
-- 2025-09-21 23:34 · Push · [muneeb-anjum0/muneeb-anjum0](https://github.com/muneeb-anjum0/muneeb-anjum0)
-- 2025-09-21 23:32 · Push · [muneeb-anjum0/muneeb-anjum0](https://github.com/muneeb-anjum0/muneeb-anjum0)
-- 2025-09-21 23:32 · Push · [muneeb-anjum0/muneeb-anjum0](https://github.com/muneeb-anjum0/muneeb-anjum0)
-- 2025-09-21 23:31 · Push · [muneeb-anjum0/muneeb-anjum0](https://github.com/muneeb-anjum0/muneeb-anjum0)
-- 2025-09-21 23:31 · Push · [muneeb-anjum0/muneeb-anjum0](https://github.com/muneeb-anjum0/muneeb-anjum0)
-- 2025-09-21 23:31 · Push · [muneeb-anjum0/muneeb-anjum0](https://github.com/muneeb-anjum0/muneeb-anjum0)
-- 2025-09-21 23:30 · Push · [muneeb-anjum0/muneeb-anjum0](https://github.com/muneeb-anjum0/muneeb-anjum0)
-- 2025-09-21 23:27 · Push · [muneeb-anjum0/muneeb-anjum0](https://github.com/muneeb-anjum0/muneeb-anjum0)
-- 2025-09-21 23:22 · Push · [muneeb-anjum0/muneeb-anjum0](https://github.com/muneeb-anjum0/muneeb-anjum0)
-
-<!--RECENT_ACTIVITY:end-->
+## Recent activity
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th align="left">When</th>
+        <th align="left">Action</th>
+        <th align="left">Repo</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!--RECENT_ACTIVITY:start-->
+      <tr><td colspan="3"><i>Loading...</i></td></tr>
+      <!--RECENT_ACTIVITY:end-->
+    </tbody>
+  </table>
+</div>
 
 ---
 
-### Activity Snake
+## Activity Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/muneeb-anjum0/muneeb-anjum0/output/snake.svg" alt="snake animation">
 </p>
