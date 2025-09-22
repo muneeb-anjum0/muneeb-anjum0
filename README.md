@@ -6,16 +6,24 @@
   <span style="font-weight:700; color:#2E3440;">MERN Developer · .NET Developer</span>
 </p>
 
-<!-- ====== NAVBAR: solid bar, white bg, black text, black border ====== -->
+<!-- ====== NAVBAR: white buttons, black text, black border, compact icons ====== -->
 <div align="center" style="margin:16px 0;">
   <div style="display:inline-flex; align-items:center; gap:18px; background:#ffffff; border:2px solid #000; border-radius:14px; padding:12px 18px;">
-    <a href="https://muneeb-anjum.vercel.app/" style="text-decoration:none; color:#111; font-weight:700;">Portfolio</a>
+    <a href="https://muneeb-anjum.vercel.app/" style="text-decoration:none; color:#111; font-weight:700; display:inline-flex; align-items:center; gap:8px;">
+      <img src="https://cdn.simpleicons.org/vercel" alt="" width="16" height="16"/> Portfolio
+    </a>
     <span style="color:#9ca3af;">|</span>
-    <a href="https://linkedin.com/in/muneebanjum335" style="text-decoration:none; color:#111; font-weight:700;">LinkedIn</a>
+    <a href="https://linkedin.com/in/muneebanjum335" style="text-decoration:none; color:#111; font-weight:700; display:inline-flex; align-items:center; gap:8px;">
+      <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="" width="16" height="16"/> LinkedIn
+    </a>
     <span style="color:#9ca3af;">|</span>
-    <a href="mailto:muneeb.anjum0@gmail.com" style="text-decoration:none; color:#111; font-weight:700;">Email</a>
+    <a href="mailto:muneeb.anjum0@gmail.com" style="text-decoration:none; color:#111; font-weight:700; display:inline-flex; align-items:center; gap:8px;">
+      <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="" width="16" height="16"/> Email
+    </a>
     <span style="color:#9ca3af;">|</span>
-    <a href="https://github.com/muneeb-anjum0" style="text-decoration:none; color:#111; font-weight:700;">GitHub</a>
+    <a href="https://github.com/muneeb-anjum0" style="text-decoration:none; color:#111; font-weight:700; display:inline-flex; align-items:center; gap:8px;">
+      <img src="https://cdn.simpleicons.org/github" alt="" width="16" height="16"/> GitHub
+    </a>
   </div>
 </div>
 
@@ -34,7 +42,6 @@
   <!-- Frontend -->
   <img title="React" alt="React" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img title="Vite" alt="Vite" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"/>
-  <img title="Tailwind CSS" alt="Tailwind CSS" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
   <img title="Firebase" alt="Firebase" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
 
   <!-- Node backend -->
@@ -88,8 +95,13 @@
 
 ## GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=muneeb-anjum0&show_icons=true&include_all_commits=true&count_private=true&theme=default" alt="Stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb-anjum0&layout=compact&langs_count=12&theme=default" alt="Top Languages">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muneeb-anjum0&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=default" alt="Stats">
+  <img height="165" src="https://streak-stats.demolab.com?user=muneeb-anjum0&theme=default" alt="Streak">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb-anjum0&layout=compact&langs_count=12&theme=default" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=muneeb-anjum0&bg_color=ffffff&color=111111&line=111111&point=111111&area=true&hide_border=true" alt="Activity Graph">
 </p>
 
 ---
@@ -99,4 +111,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=muneeb-anjum0&theme=flat&no-frame=true&row=1&column=7" alt="GitHub Trophies">
 </p>
 
-<!-- Notes: Snake uses GitHub’s public contribution graph. Private repos or non-counted contributions will not appear. -->
+<!-- Note: Snake and these stat cards only reflect contributions GitHub counts publicly. Private or non-counted commits won’t display. -->
