@@ -6,23 +6,46 @@
   <span style="font-weight:700; color:#2E3440;">MERN Developer · .NET Developer</span>
 </p>
 
-<!-- ====== NAVBAR: white buttons, black text, black border, compact icons ====== -->
-<div align="center" style="margin:16px 0;">
-  <div style="display:inline-flex; align-items:center; gap:18px; background:#ffffff; border:2px solid #000; border-radius:14px; padding:12px 18px;">
-    <a href="https://muneeb-anjum.vercel.app/" style="text-decoration:none; color:#111; font-weight:700; display:inline-flex; align-items:center; gap:8px;">
-      <img src="https://cdn.simpleicons.org/vercel" alt="" width="16" height="16"/> Portfolio
+<!-- ====== SEGMENTED NAVBAR: white bg, black text, full border, rounded ends ====== -->
+<div align="center" style="margin:18px 0;">
+  <div style="
+    display:inline-flex;
+    align-items:center;
+    background:#ffffff;
+    border:2px solid #000000;
+    border-radius:14px;
+    overflow:hidden;
+  ">
+    <a href="https://muneeb-anjum.vercel.app/" style="
+      text-decoration:none; color:#111; font-weight:700;
+      padding:10px 16px; display:inline-flex; align-items:center; gap:8px;
+      border-right:1px solid #000000;
+      background:#ffffff;
+    ">
+      <img src="https://cdn.simpleicons.org/vercel" alt="" width="16" height="16"> Portfolio
     </a>
-    <span style="color:#9ca3af;">|</span>
-    <a href="https://linkedin.com/in/muneebanjum335" style="text-decoration:none; color:#111; font-weight:700; display:inline-flex; align-items:center; gap:8px;">
-      <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="" width="16" height="16"/> LinkedIn
+    <a href="https://linkedin.com/in/muneebanjum335" style="
+      text-decoration:none; color:#111; font-weight:700;
+      padding:10px 16px; display:inline-flex; align-items:center; gap:8px;
+      border-right:1px solid #000000;
+      background:#ffffff;
+    ">
+      <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="" width="16" height="16"> LinkedIn
     </a>
-    <span style="color:#9ca3af;">|</span>
-    <a href="mailto:muneeb.anjum0@gmail.com" style="text-decoration:none; color:#111; font-weight:700; display:inline-flex; align-items:center; gap:8px;">
-      <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="" width="16" height="16"/> Email
+    <a href="mailto:muneeb.anjum0@gmail.com" style="
+      text-decoration:none; color:#111; font-weight:700;
+      padding:10px 16px; display:inline-flex; align-items:center; gap:8px;
+      border-right:1px solid #000000;
+      background:#ffffff;
+    ">
+      <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="" width="16" height="16"> Email
     </a>
-    <span style="color:#9ca3af;">|</span>
-    <a href="https://github.com/muneeb-anjum0" style="text-decoration:none; color:#111; font-weight:700; display:inline-flex; align-items:center; gap:8px;">
-      <img src="https://cdn.simpleicons.org/github" alt="" width="16" height="16"/> GitHub
+    <a href="https://github.com/muneeb-anjum0" style="
+      text-decoration:none; color:#111; font-weight:700;
+      padding:10px 16px; display:inline-flex; align-items:center; gap:8px;
+      background:#ffffff;
+    ">
+      <img src="https://cdn.simpleicons.org/github" alt="" width="16" height="16"> GitHub
     </a>
   </div>
 </div>
@@ -42,6 +65,7 @@
   <!-- Frontend -->
   <img title="React" alt="React" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img title="Vite" alt="Vite" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"/>
+  <img title="Tailwind CSS" alt="Tailwind CSS" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
   <img title="Firebase" alt="Firebase" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
 
   <!-- Node backend -->
@@ -111,4 +135,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=muneeb-anjum0&theme=flat&no-frame=true&row=1&column=7" alt="GitHub Trophies">
 </p>
 
-<!-- Note: Snake and these stat cards only reflect contributions GitHub counts publicly. Private or non-counted commits won’t display. -->
+<!-- Notes: GitHub strips most CSS, but inline style for color, padding, borders usually renders. Snake shows only counted public contributions. -->
