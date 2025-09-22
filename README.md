@@ -83,7 +83,6 @@
   <img src="https://raw.githubusercontent.com/muneeb-anjum0/muneeb-anjum0/output/snake.svg" alt="snake animation">
 </p>
 
-
 ---
 
 ## GitHub Stats
