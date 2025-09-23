@@ -78,15 +78,18 @@
 
 ## GitHub Stats
 
-<!-- Row 1: Streak centered -->
+<!-- Row 1: Streak (with fallback) -->
 <p align="center">
-  <img height="175" src="https://streak-stats.demolab.com?user=muneeb-anjum0&theme=default&hide_border=true&card_width=980&cache_seconds=21600&v=3" alt="Streak">
+  <picture>
+    <source srcset="https://streak-stats.demolab.com?user=muneeb-anjum0&theme=default&hide_border=true&card_width=980&v=5" />
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=muneeb-anjum0&theme=default&hide_border=true&card_width=980&v=5" alt="Streak" />
+  </picture>
 </p>
 
-<!-- Row 2: Stats + Top Languages side by side -->
+<!-- Row 2: Stats + Top Languages -->
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=muneeb-anjum0&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&card_width=460&theme=default&cache_seconds=21600&v=3" alt="Stats">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb-anjum0&layout=compact&langs_count=12&card_width=460&theme=default&cache_seconds=21600&v=3" alt="Top Languages">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=muneeb-anjum0&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&card_width=480&theme=default&cache_seconds=21600&v=5" alt="Stats">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb-anjum0&layout=compact&langs_count=12&card_width=520&theme=default&cache_seconds=21600&v=5" alt="Top Languages">
 </p>
 
 
