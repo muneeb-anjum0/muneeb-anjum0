@@ -1,15 +1,12 @@
-<!-- Compact GitHub-safe header + bigger bold nav pills -->
 <h1 align="center">Muneeb Anjum</h1>
 <p align="center"><strong>MERN Developer | .NET Developer</strong></p>
-
-<!-- Segmented navbar with bold pills -->
 <p align="center">
   <a href="https://muneeb-anjum.vercel.app/"><kbd><b>&nbsp;&nbsp;PORTFOLIO&nbsp;&nbsp;</b></kbd></a>
-  &nbsp;|&nbsp;
+  &nbsp;
   <a href="https://linkedin.com/in/muneebanjum335"><kbd><b>&nbsp;&nbsp;LINKEDIN&nbsp;&nbsp;</b></kbd></a>
-  &nbsp;|&nbsp;
+  &nbsp;
   <a href="mailto:muneeb.anjum0@gmail.com"><kbd><b>&nbsp;&nbsp;EMAIL&nbsp;&nbsp;</b></kbd></a>
-  &nbsp;|&nbsp;
+  &nbsp;
   <a href="https://github.com/muneeb-anjum0"><kbd><b>&nbsp;&nbsp;GITHUB&nbsp;&nbsp;</b></kbd></a>
 </p>
 
@@ -74,38 +71,32 @@
 
 ## Activity Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/muneeb-anjum0/muneeb-anjum0/output/snake.svg?v=3" alt="snake animation">
+  <img src="https://raw.githubusercontent.com/muneeb-anjum0/muneeb-anjum0/output/snake.svg?v=2" alt="snake animation">
 </p>
 
 ---
 
 ## GitHub Stats
-
 <p align="center">
-  <!-- Main stats with mirror fallback -->
-  <picture>
-    <source srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=muneeb-anjum0&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=default&cache_seconds=21600&v=3" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=muneeb-anjum0&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=default&cache_seconds=21600&v=3" alt="Stats">
-  </picture>
-
-  <!-- Streak -->
-  <img height="165" src="https://streak-stats.demolab.com?user=muneeb-anjum0&theme=default&hide_border=true&card_width=420&cache_seconds=21600&v=3" alt="Streak">
-
-  <!-- Top languages with mirror fallback -->
-  <picture>
-    <source srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=muneeb-anjum0&layout=compact&langs_count=12&theme=default&cache_seconds=21600&v=3" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb-anjum0&layout=compact&langs_count=12&theme=default&cache_seconds=21600&v=3" alt="Top Languages">
-  </picture>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muneeb-anjum0&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=default&cache_seconds=21600&v=2" alt="Stats">
+  <img height="165" src="https://streak-stats.demolab.com?user=muneeb-anjum0&theme=default&hide_border=true&card_width=420&cache_seconds=21600&v=2" alt="Streak">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb-anjum0&layout=compact&langs_count=12&theme=default&cache_seconds=21600&v=2" alt="Top Languages">
 </p>
 
+<!--
 <p align="center">
-  <!-- Activity graph often rate limits; this mirror is more tolerant -->
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=muneeb-anjum0&bg_color=ffffff&color=111111&line=111111&point=111111&area=true&hide_border=true&v=3" alt="Activity Graph">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=muneeb-anjum0&theme=default&hide_border=true&card_width=420&v=2" alt="Streak Mirror">
+</p>
+-->
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=muneeb-anjum0&bg_color=ffffff&color=111111&line=111111&point=111111&area=true&hide_border=true&v=2" alt="Activity Graph">
 </p>
 
 ---
 
 ## Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muneeb-anjum0&theme=flat&no-frame=true&row=1&column=7&v=3" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=muneeb-anjum0&theme=flat&no-frame=true&row=1&column=7&v=2" alt="GitHub Trophies">
 </p>
+
