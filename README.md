@@ -1,4 +1,4 @@
-<h1 align="center">✨ Muneeb Anjum ✨</h1>
+<h1 align="center"> Muneeb Anjum </h1>
 <p align="center">
   <strong>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=111111&center=true&vCenter=true&width=550&lines=MERN+Developer;Full+Stack+.NET+Developer;Database+%26+Cloud+Engineer;Building+Hi-Fi+Products;Always+Learning+%26+Innovating" alt="Typing Animation"/>
