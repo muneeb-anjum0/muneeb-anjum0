@@ -79,10 +79,15 @@
 
 ## GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muneeb-anjum0&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=default&cache_seconds=21600&v=2" alt="Stats">
-  <img height="165" src="https://streak-stats.demolab.com?user=muneeb-anjum0&theme=default&hide_border=true&card_width=420&cache_seconds=21600&v=2" alt="Streak">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb-anjum0&layout=compact&langs_count=12&theme=default&cache_seconds=21600&v=2" alt="Top Languages">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muneeb-anjum0&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=default&cache_seconds=21600&v=3" alt="Stats">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=muneeb-anjum0&theme=default&hide_border=true&card_width=420&date_format=M%20j[,Y]&v=3" alt="Streak Mirror">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb-anjum0&layout=compact&langs_count=12&theme=default&cache_seconds=21600&v=3" alt="Top Languages">
 </p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=muneeb-anjum0&bg_color=ffffff&color=111111&line=111111&point=111111&area=true&hide_border=true&v=3" alt="Activity Graph">
+</p>
+
 
 <!-- Fallback mirror for streak if the above ever blanks -->
 <!--
