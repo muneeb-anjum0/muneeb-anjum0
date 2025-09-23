@@ -11,8 +11,6 @@
   <a href="https://github.com/muneeb-anjum0"><kbd><b>&nbsp;&nbsp;GITHUB&nbsp;&nbsp;</b></kbd></a>
 </p>
 
-
-
 ---
 
 ## Core Tech Stack
@@ -28,15 +26,12 @@
   <!-- Frontend -->
   <img title="React" alt="React" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img title="Vite" alt="Vite" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"/>
-  <!-- Firebase brand color -->
   <img title="Firebase" alt="Firebase" width="56" src="https://cdn.simpleicons.org/firebase/FFCA28"/>
 
   <!-- Node backend -->
   <img title="Node.js" alt="Node.js" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <!-- Express wordmark is the official look -->
   <img title="Express" alt="Express" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"/>
   <img title="MongoDB" alt="MongoDB" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-  <!-- Cloudinary brand color -->
   <img title="Cloudinary" alt="Cloudinary" width="56" src="https://cdn.simpleicons.org/cloudinary/3448C5"/>
 
   <!-- Databases -->
@@ -44,7 +39,6 @@
   <img title="SQL Server" alt="SQL Server" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
   <img title="Redis" alt="Redis" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>
   <img title="Elasticsearch" alt="Elasticsearch" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg"/>
-  <!-- ClickHouse brand color -->
   <img title="ClickHouse" alt="ClickHouse" width="56" src="https://cdn.simpleicons.org/clickhouse/FFCC01"/>
 
   <!-- Messaging -->
@@ -58,7 +52,6 @@
   <img title="Helm" alt="Helm" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg"/>
   <img title="NGINX" alt="NGINX" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"/>
   <img title="GitHub Actions" alt="GitHub Actions" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-plain.svg"/>
-  <!-- Argo brand color -->
   <img title="Argo" alt="Argo" width="56" src="https://cdn.simpleicons.org/argo/EF7B4D"/>
 
   <!-- Observability -->
@@ -75,32 +68,38 @@
   <img title="ONNX" alt="ONNX" width="56" src="https://cdn.simpleicons.org/onnx/005CED"/>
 </p>
 
-
 ---
 
 ## Activity Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/muneeb-anjum0/muneeb-anjum0/output/snake.svg" alt="snake animation">
+  <img src="https://raw.githubusercontent.com/muneeb-anjum0/muneeb-anjum0/output/snake.svg?v=2" alt="snake animation">
 </p>
 
 ---
 
 ## GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muneeb-anjum0&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=default" alt="Stats">
-  <img height="165" src="https://streak-stats.demolab.com?user=muneeb-anjum0&theme=default" alt="Streak">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb-anjum0&layout=compact&langs_count=12&theme=default" alt="Top Languages">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muneeb-anjum0&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=default&cache_seconds=21600&v=2" alt="Stats">
+  <img height="165" src="https://streak-stats.demolab.com?user=muneeb-anjum0&theme=default&hide_border=true&card_width=420&cache_seconds=21600&v=2" alt="Streak">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb-anjum0&layout=compact&langs_count=12&theme=default&cache_seconds=21600&v=2" alt="Top Languages">
 </p>
 
+<!-- Fallback mirror for streak if the above ever blanks -->
+<!--
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=muneeb-anjum0&bg_color=ffffff&color=111111&line=111111&point=111111&area=true&hide_border=true" alt="Activity Graph">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=muneeb-anjum0&theme=default&hide_border=true&card_width=420&v=2" alt="Streak Mirror">
+</p>
+-->
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=muneeb-anjum0&bg_color=ffffff&color=111111&line=111111&point=111111&area=true&hide_border=true&v=2" alt="Activity Graph">
 </p>
 
 ---
 
 ## Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muneeb-anjum0&theme=flat&no-frame=true&row=1&column=7" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=muneeb-anjum0&theme=flat&no-frame=true&row=1&column=7&v=2" alt="GitHub Trophies">
 </p>
 
-<!-- Notes: GitHub strips most CSS, but inline style for color, padding, borders usually renders. Snake shows only counted public contributions. -->
+<!-- Notes: cache_seconds and v params help bust GitHub Camo cache. Ensure private contributions are enabled in profile settings if streak shows low counts. -->
