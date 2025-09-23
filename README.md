@@ -78,8 +78,10 @@
 
 ## GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muneeb-anjum0&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=default&cache_seconds=21600&v=2" alt="Stats">
   <img height="165" src="https://streak-stats.demolab.com?user=muneeb-anjum0&theme=default&hide_border=true&card_width=420&cache_seconds=21600&v=2" alt="Streak">
+</p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muneeb-anjum0&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=default&cache_seconds=21600&v=2" alt="Stats">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb-anjum0&layout=compact&langs_count=12&theme=default&cache_seconds=21600&v=2" alt="Top Languages">
 </p>
 
