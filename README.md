@@ -141,10 +141,3 @@ const mindset = {
 <!--END_SECTION:waka-->
 
 </div>
-
----
-### **Achievement Highlights**
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muneeb-anjum0&theme=flat&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&exclude=PullRequest,Reviews&title=Stars,Commit,Followers,Repositories,Issues,Experience,Organizations,MultipleLang,Gists" alt="GitHub Trophies" />
-</div>
----
