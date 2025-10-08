@@ -4,7 +4,9 @@
 ### *Full Stack Engineer & Cloud Architect*
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=2F3A4A&center=true&vCenter=true&width=600&height=80&lines=🎯+MERN+Stack+Developer+%7C+☁️+Cloud+Engineer+%7C+🏗️+System+Architect;💡+Innovation+%26+Problem+Solver+%7C+🌟+Building+Next-Gen+Solutions)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=2F3A4A&center=true&vCenter=true&width=420&height=50&lines=🎯+MERN+Stack+Developer+%7C+☁️+Cloud+Engineer;🏗️+System+Architect+%7C+💡+Innovation+%26+Problem+Solver;🌟+Building+Next-Gen+Solutions" alt="Typing SVG" />
+</p>
 
 
 <p align="center">
