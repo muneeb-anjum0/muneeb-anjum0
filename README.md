@@ -6,12 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=2F3A4A&center=true&vCenter=true&width=600&height=80&lines=🎯+MERN+Stack+Developer+%7C+☁️+Cloud+Engineer+%7C+🏗️+System+Architect;💡+Innovation+%26+Problem+Solver+%7C+🌟+Building+Next-Gen+Solutions)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muneeb-anjum0&style=flat&color=000000&label=VIEWS" alt="Profile Views" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/muneeb-anjum0?style=flat&color=000000&labelColor=ffffff&label=FOLLOWERS" alt="Followers" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/muneeb-anjum0?style=flat&color=000000&labelColor=ffffff&label=STARS" alt="Stars" />
-</p>
-
 
 <p align="center">
   <a href="https://muneeb-anjum.vercel.app/">
@@ -22,9 +16,6 @@
   </a>&nbsp;
   <a href="mailto:muneeb.anjum0@gmail.com">
     <img src="https://img.shields.io/badge/📧_EMAIL-000000?style=flat-square&logo=gmail&logoColor=white&labelColor=ffffff&color=000000" alt="Email" />
-  </a>&nbsp;
-  <a href="https://github.com/muneeb-anjum0">
-    <img src="https://img.shields.io/badge/🐙_GITHUB-000000?style=flat-square&logo=github&logoColor=white&labelColor=ffffff&color=000000" alt="GitHub" />
   </a>
 </p>
 
