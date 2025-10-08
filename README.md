@@ -6,14 +6,14 @@
 <p align="center">
   <a href="https://muneeb-anjum.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=f8f9fa&color=ffffff&logoWidth=16" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/muneebanjum335">
-    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=f8f9fa&color=ffffff&logoWidth=16" alt="LinkedIn" />
-  </a>
-  <a href="mailto:muneeb.anjum0@gmail.com">
+    </a>
+    <a href="https://linkedin.com/in/muneebanjum335">
+    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logoColor=0077B5&labelColor=f8f9fa&color=ffffff&logoWidth=16" alt="LinkedIn" />
+    </a>
+    <a href="mailto:muneeb.anjum0@gmail.com">
     <img src="https://img.shields.io/badge/Contact-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=f8f9fa&color=ffffff&logoWidth=16" alt="Email" />
-  </a>
-  <a href="https://github.com/muneeb-anjum0">
+    </a>
+    <a href="https://github.com/muneeb-anjum0">
     <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=000000&labelColor=f8f9fa&color=ffffff&logoWidth=16" alt="GitHub" />
   </a>
 </p>
