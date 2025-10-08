@@ -1,18 +1,18 @@
 <div align="center">
   
-# 🚀 Muneeb Anjum
+#  Muneeb Anjum
 ### *Full Stack Engineer & Cloud Architect*
 
 <p align="center">
   <a href="https://muneeb-anjum.vercel.app/">
     <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-ffffff?style=for-the-badge&logo=vercel&logoColor=black&labelColor=ffffff&color=ffffff&logoWidth=20" alt="Portfolio" />
-  </a>&nbsp;&nbsp;
+  </a>
   <a href="https://linkedin.com/in/muneebanjum335">
     <img src="https://img.shields.io/badge/💼%20LINKEDIN-ffffff?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=ffffff&color=ffffff&logoWidth=20" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
+  </a>
   <a href="mailto:muneeb.anjum0@gmail.com">
     <img src="https://img.shields.io/badge/📧%20EMAIL-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=ffffff&color=ffffff&logoWidth=20" alt="Email" />
-  </a>&nbsp;&nbsp;
+  </a>
   <a href="https://github.com/muneeb-anjum0">
     <img src="https://img.shields.io/badge/🐙%20GITHUB-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff&color=ffffff&logoWidth=20" alt="GitHub" />
   </a>
@@ -24,7 +24,7 @@
 
 <div align="center">
 
-## 🛠️ **Technology Arsenal**
+## **Technology Arsenal**
 
 <div align="center">
 
@@ -80,7 +80,6 @@
 
 </div>
 
----
 
 <div align="center">
 
@@ -127,13 +126,9 @@ const mindset = {
 
 </div>
 
-
----
-
-
 <div align="center">
   
-### 🔥 **Streak Stats**
+###  **Streak Stats**
 <img height="200" src="https://streak-stats.demolab.com?user=muneeb-anjum0&theme=transparent&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=500&fire=DD6B20&ring=DD6B20&currStreakLabel=2F3A4A&sideLabels=2F3A4A&currStreakNum=DD6B20&sideNums=DD6B20&dates=74869A" alt="GitHub Streak" />
 
 ### **Profile Stats**
