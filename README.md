@@ -12,20 +12,21 @@
   <img src="https://img.shields.io/github/stars/muneeb-anjum0?style=flat&color=000000&labelColor=ffffff&label=STARS" alt="Stars" />
 </p>
 
-<div align="center">
+
+<p align="center">
   <a href="https://muneeb-anjum.vercel.app/">
     <img src="https://img.shields.io/badge/🌐_PORTFOLIO-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=ffffff&color=000000" alt="Portfolio" />
-  </a>
+  </a>&nbsp;
   <a href="https://linkedin.com/in/muneebanjum335">
     <img src="https://img.shields.io/badge/💼_LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=white&labelColor=ffffff&color=000000" alt="LinkedIn" />
-  </a>
+  </a>&nbsp;
   <a href="mailto:muneeb.anjum0@gmail.com">
     <img src="https://img.shields.io/badge/📧_EMAIL-000000?style=flat-square&logo=gmail&logoColor=white&labelColor=ffffff&color=000000" alt="Email" />
-  </a>
+  </a>&nbsp;
   <a href="https://github.com/muneeb-anjum0">
     <img src="https://img.shields.io/badge/🐙_GITHUB-000000?style=flat-square&logo=github&logoColor=white&labelColor=ffffff&color=000000" alt="GitHub" />
   </a>
-</div>
+</p>
 
 </div>
 
