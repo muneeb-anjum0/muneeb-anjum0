@@ -12,11 +12,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Build snake.svg
+      
+      - name: Build snake.svg (Light Mode)
         uses: Platane/snk@v3
         with:
           github_user_name: muneeb-anjum0
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+          
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:

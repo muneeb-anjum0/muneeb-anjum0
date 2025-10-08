@@ -1,0 +1,94 @@
+name: Update Profile README
+
+on:
+  schedule:
+    # Runs every day at 6 AM UTC
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+    paths: [ 'data/**', 'README.md' ]
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: 🔄 Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+
+    - name: 🔧 Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+
+    - name: 📦 Install dependencies
+      run: |
+        npm init -y
+        npm install axios cheerio
+
+    - name: 🎯 Update profile stats
+      run: |
+        cat > update-stats.js << 'EOF'
+        const fs = require('fs');
+        const axios = require('axios');
+        
+        async function updateStats() {
+          try {
+            // Read profile data
+            const profileData = JSON.parse(fs.readFileSync('data/profile.json', 'utf8'));
+            
+            // Update last updated timestamp
+            profileData.lastUpdated = new Date().toISOString();
+            
+            // Get GitHub stats (you can add more API calls here)
+            const username = 'muneeb-anjum0';
+            
+            // Update the JSON file
+            fs.writeFileSync('data/profile.json', JSON.stringify(profileData, null, 2));
+            console.log('✅ Profile data updated successfully');
+            
+            // Update cache buster in README
+            let readme = fs.readFileSync('README.md', 'utf8');
+            const timestamp = Date.now();
+            
+            // Update cache buster for all image URLs
+            readme = readme.replace(/(&|\?)v=\d+/g, `$1v=${timestamp}`);
+            readme = readme.replace(/(cache_seconds=)\d+/g, `$1${timestamp}`);
+            
+            fs.writeFileSync('README.md', readme);
+            console.log('✅ README cache busters updated');
+            
+          } catch (error) {
+            console.error('❌ Error updating stats:', error);
+            process.exit(1);
+          }
+        }
+        
+        updateStats();
+        EOF
+        
+        node update-stats.js
+
+    - name: 📝 Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add -A
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "🤖 Auto-update profile stats and cache busters"
+          git push
+        fi
+
+    - name: 🎉 Success notification
+      if: success()
+      run: echo "✅ Profile successfully updated!"
+
+    - name: ❌ Failure notification  
+      if: failure()
+      run: echo "❌ Profile update failed!"

@@ -1,0 +1,107 @@
+{
+  "profile": {
+    "name": "Muneeb Anjum",
+    "title": "Full Stack Engineer & Cloud Architect",
+    "location": "Karachi, Pakistan",
+    "timezone": "Asia/Karachi",
+    "email": "muneeb.anjum0@gmail.com",
+    "portfolio": "https://muneeb-anjum.vercel.app/",
+    "linkedin": "https://linkedin.com/in/muneebanjum335",
+    "github": "https://github.com/muneeb-anjum0"
+  },
+  "skills": {
+    "frontend": [
+      "React", "Next.js", "TypeScript", "JavaScript", 
+      "HTML5", "CSS3", "Tailwind CSS", "Material-UI",
+      "Redux", "Vite", "Webpack"
+    ],
+    "backend": [
+      "Node.js", "Express.js", ".NET Core", "C#",
+      "Python", "NestJS", "FastAPI", "GraphQL",
+      "REST APIs", "WebSockets"
+    ],
+    "databases": [
+      "MongoDB", "PostgreSQL", "MySQL", "Redis",
+      "Elasticsearch", "SQLite", "ClickHouse",
+      "Prisma", "Sequelize"
+    ],
+    "cloud": [
+      "Microsoft Azure", "AWS", "Google Cloud",
+      "Docker", "Kubernetes", "Terraform",
+      "Jenkins", "GitHub Actions", "ArgoCD"
+    ],
+    "tools": [
+      "Git", "VS Code", "Postman", "Figma",
+      "Notion", "Slack", "Discord", "JIRA"
+    ],
+    "monitoring": [
+      "Prometheus", "Grafana", "OpenTelemetry",
+      "Jaeger", "Kibana", "New Relic"
+    ],
+    "ai": [
+      "OpenAI API", "TensorFlow", "ONNX",
+      "Hugging Face", "Machine Learning"
+    ]
+  },
+  "currentFocus": {
+    "role": "Full Stack Engineer",
+    "specializations": [
+      "Cloud Architecture",
+      "Microservices Design", 
+      "DevOps Automation",
+      "Performance Optimization"
+    ],
+    "projects": [
+      "High-scale distributed systems",
+      "AI-powered web applications", 
+      "Cloud-native solutions"
+    ]
+  },
+  "philosophy": {
+    "principles": [
+      "Clean Code 🧹",
+      "Scalable Architecture 📈",
+      "Continuous Learning 📚", 
+      "User-Centric Design 👥"
+    ],
+    "goal": "Building digital experiences that matter",
+    "passion": "Solving complex problems with elegant solutions"
+  },
+  "openTo": [
+    "🚀 Full-time opportunities",
+    "💼 Freelance projects",
+    "🤝 Open source collaborations",
+    "🎓 Mentoring & knowledge sharing",
+    "💬 Technical discussions"
+  ],
+  "achievements": [
+    "Built scalable systems serving 100K+ users",
+    "Reduced deployment time by 80% through CI/CD",
+    "Mentored 10+ junior developers",
+    "Open source contributor with 500+ stars"
+  ],
+  "interests": [
+    "Cloud Computing",
+    "System Architecture", 
+    "Developer Experience",
+    "Performance Engineering",
+    "AI/ML Integration",
+    "Open Source"
+  ],
+  "languages": [
+    {"name": "English", "level": "Fluent"},
+    {"name": "Urdu", "level": "Native"},
+    {"name": "Arabic", "level": "Intermediate"}
+  ],
+  "certifications": [
+    "Microsoft Azure Developer Associate",
+    "AWS Solutions Architect",
+    "Kubernetes Administrator"
+  ],
+  "stats": {
+    "yearsOfExperience": 5,
+    "projectsCompleted": 50,
+    "githubContributions": 1000,
+    "technologiesMastered": 25
+  }
+}

@@ -1,0 +1,163 @@
+/* Custom GitHub Profile Styling */
+
+/* Smooth animations for all elements */
+* {
+  transition: all 0.3s ease-in-out;
+}
+
+/* Header styling */
+.profile-readme h1, .profile-readme h2, .profile-readme h3 {
+  background: linear-gradient(45deg, #2F3A4A, #DD6B20);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Badge styling */
+.profile-readme img[src*="shields.io"] {
+  filter: drop-shadow(0 4px 8px rgba(0,0,0,0.1));
+  border-radius: 8px;
+  margin: 4px;
+}
+
+/* Card hover effects */
+.profile-readme img[src*="github-readme-stats"], 
+.profile-readme img[src*="streak-stats"] {
+  border-radius: 12px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.profile-readme img[src*="github-readme-stats"]:hover, 
+.profile-readme img[src*="streak-stats"]:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 16px 48px rgba(0,0,0,0.15);
+}
+
+/* Technology icons animation */
+.profile-readme img[src*="skillicons.dev"] {
+  transition: transform 0.3s ease;
+}
+
+.profile-readme img[src*="skillicons.dev"]:hover {
+  transform: scale(1.1) rotate(5deg);
+}
+
+/* Snake animation container */
+.profile-readme picture {
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 12px 40px rgba(0,0,0,0.1);
+}
+
+/* Table styling */
+.profile-readme table {
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.05);
+  backdrop-filter: blur(10px);
+  background: rgba(255,255,255,0.9);
+}
+
+.profile-readme table td {
+  padding: 24px;
+  border: none;
+}
+
+/* Code block styling */
+.profile-readme pre {
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  border-radius: 12px;
+  padding: 20px;
+  border: 1px solid rgba(0,0,0,0.1);
+  box-shadow: inset 0 2px 8px rgba(0,0,0,0.05);
+}
+
+/* Links styling */
+.profile-readme a {
+  text-decoration: none;
+  color: inherit;
+  position: relative;
+}
+
+.profile-readme a:hover {
+  transform: translateY(-2px);
+}
+
+/* Trophy styling */
+.profile-readme img[src*="github-profile-trophy"] {
+  filter: brightness(1.1) saturate(1.2);
+}
+
+/* Activity graph styling */
+.profile-readme img[src*="activity-graph"] {
+  border-radius: 16px;
+  box-shadow: 0 12px 40px rgba(0,0,0,0.1);
+}
+
+/* Profile view counter styling */
+.profile-readme img[src*="ghpvc"] {
+  border-radius: 20px;
+  padding: 2px;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .profile-readme table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+  
+  .profile-readme img {
+    max-width: 100%;
+    height: auto;
+  }
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  .profile-readme table {
+    background: rgba(22, 27, 34, 0.9);
+  }
+  
+  .profile-readme pre {
+    background: linear-gradient(135deg, #21262d 0%, #30363d 100%);
+    border-color: rgba(240, 246, 252, 0.1);
+  }
+}
+
+/* Gradient animations */
+@keyframes gradient {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+.profile-readme .gradient-animation {
+  background: linear-gradient(-45deg, #2F3A4A, #DD6B20, #2F3A4A, #DD6B20);
+  background-size: 400% 400%;
+  animation: gradient 3s ease infinite;
+}
+
+/* Floating animation for icons */
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+}
+
+.profile-readme .float-animation {
+  animation: float 3s ease-in-out infinite;
+}
+
+/* Pulse animation for important elements */
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+  100% { transform: scale(1); }
+}
+
+.profile-readme .pulse-animation {
+  animation: pulse 2s ease-in-out infinite;
+}
