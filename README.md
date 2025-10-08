@@ -160,7 +160,7 @@ const mindset = {
 </table>
 
 ### **Achievement Highlights**
-<img src="https://github-profile-trophy.vercel.app/?username=muneeb-anjum0&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=muneeb-anjum0&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true&exclude=PullRequest,Reviews" alt="Trophies" />
 
 </div>
 
