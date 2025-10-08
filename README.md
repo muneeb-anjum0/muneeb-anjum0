@@ -150,14 +150,14 @@ const mindset = {
 
 <div align="center">
 
-## 🤝 **Let's Connect & Collaborate**
+## **Let's Connect & Collaborate**
 *Open to exciting opportunities and innovative projects*
 
 <table>
 <tr>
 <td align="center" width="33%">
 
-### 💼 **Professional**
+###  **Professional**
 [<img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white&labelColor=ffffff&color=000000" />](https://linkedin.com/in/muneebanjum335)
 
 *Let's discuss business opportunities*
@@ -165,7 +165,7 @@ const mindset = {
 </td>
 <td align="center" width="33%">
 
-### 🌐 **Portfolio**
+###  **Portfolio**
 [<img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=ffffff&color=000000" />](https://muneeb-anjum.vercel.app/)
 
 *Explore my latest projects*
@@ -173,7 +173,7 @@ const mindset = {
 </td>
 <td align="center" width="33%">
 
-### 📧 **Contact**
+###  **Contact**
 [<img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white&labelColor=ffffff&color=000000" />](mailto:muneeb.anjum0@gmail.com)
 
 *Drop me a message anytime*
@@ -182,12 +182,12 @@ const mindset = {
 </tr>
 </table>
 
-### 💡 **Open to:**
-- 🚀 Full-time opportunities
-- 💼 Freelance projects  
-- 🤝 Open source collaborations
-- 🎓 Mentoring & knowledge sharing
-- 💬 Technical discussions
+###  **Open to:**
+-  Full-time opportunities
+-  Freelance projects  
+-  Open source collaborations
+-  Mentoring & knowledge sharing
+-  Technical discussions
 
 
 ---
@@ -197,7 +197,6 @@ const mindset = {
   <img src="https://img.shields.io/github/last-commit/muneeb-anjum0/muneeb-anjum0?style=flat-square&color=000000&label=Last+Updated" alt="Last Updated" />
 </div>
 
-**⭐ Star this repository if you found it interesting!**
 
 </div>
 
