@@ -3,14 +3,13 @@
 # 🚀 Muneeb Anjum
 ### *Full Stack Engineer & Cloud Architect*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=header&text=&fontSize=0&animation=twinkling" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=2F3A4A&center=true&vCenter=true&width=800&lines=🎯+MERN+Stack+Developer+%7C+☁️+Cloud+%26+DevOps+Engineer+%7C+🏗️+System+Architecture+Expert;💡+Innovation+%26+Problem+Solver+%7C+🌟+Building+Next-Gen+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=2F3A4A&center=true&vCenter=true&width=600&height=80&lines=🎯+MERN+Stack+Developer+%7C+☁️+Cloud+Engineer+%7C+🏗️+System+Architect;💡+Innovation+%26+Problem+Solver+%7C+🌟+Building+Next-Gen+Solutions)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muneeb-anjum0&style=flat-square&color=000000&label=VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/muneeb-anjum0?style=flat-square&color=000000&labelColor=ffffff&label=FOLLOWERS" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/muneeb-anjum0?style=flat-square&color=000000&labelColor=ffffff&label=STARS" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=muneeb-anjum0&style=flat&color=000000&label=VIEWS" alt="Profile Views" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/muneeb-anjum0?style=flat&color=000000&labelColor=ffffff&label=FOLLOWERS" alt="Followers" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/muneeb-anjum0?style=flat&color=000000&labelColor=ffffff&label=STARS" alt="Stars" />
 </p>
 
 <div align="center">
@@ -63,13 +62,13 @@
 
 <div align="center">
 
-## 🌟 **What Drives Me**
+## **What Drives Me**
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎯 **Current Focus**
+### **Current Focus**
 ```yaml
 role: Full Stack Engineer
 specialization: 
@@ -86,7 +85,7 @@ current_projects:
 </td>
 <td width="50%">
 
-### 💡 **Philosophy**
+### **Philosophy**
 ```javascript
 const mindset = {
   principles: [
@@ -104,7 +103,7 @@ const mindset = {
 </tr>
 </table>
 
-### 🏆 **Achievement Highlights**
+### **Achievement Highlights**
 <img src="https://github-profile-trophy.vercel.app/?username=muneeb-anjum0&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
 
 </div>
@@ -114,7 +113,6 @@ const mindset = {
 <div align="center">
 
 ## 🐍 **Contribution Snake**
-*Watch my contributions come alive!*
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muneeb-anjum0/muneeb-anjum0/output/snake-dark.svg" />
@@ -129,7 +127,6 @@ const mindset = {
 <div align="center">
 
 ## 📊 **GitHub Analytics**
-*Data-driven insights into my coding journey*
 
 </div>
 
@@ -138,14 +135,12 @@ const mindset = {
 ### 🔥 **Streak Stats**
 <img height="200" src="https://streak-stats.demolab.com?user=muneeb-anjum0&theme=transparent&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=500&fire=DD6B20&ring=DD6B20&currStreakLabel=2F3A4A&sideLabels=2F3A4A&currStreakNum=DD6B20&sideNums=DD6B20&dates=74869A" alt="GitHub Streak" />
 
-### 📈 **Profile Stats**
+### **Profile Stats**
 <img height="200" src="https://github-readme-stats.vercel.app/api?username=muneeb-anjum0&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=2F3A4A&icon_color=DD6B20&title_color=2F3A4A&cache_seconds=21600" alt="GitHub Stats" />
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb-anjum0&layout=compact&langs_count=10&hide_border=true&bg_color=00000000&text_color=2F3A4A&title_color=2F3A4A&cache_seconds=21600" alt="Top Languages" />
 
-### 🎨 **Contribution Graph**
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muneeb-anjum0&bg_color=ffffff&color=2F3A4A&line=DD6B20&point=DD6B20&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph&area_color=DD6B20" alt="Activity Graph" />
 
-### 💼 **Coding Metrics**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
@@ -194,7 +189,6 @@ const mindset = {
 - 🎓 Mentoring & knowledge sharing
 - 💬 Technical discussions
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=&fontSize=0&animation=twinkling" width="100%" />
 
 ---
 
