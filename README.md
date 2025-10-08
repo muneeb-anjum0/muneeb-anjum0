@@ -161,7 +161,7 @@ const mindset = {
 
 ### 🏆 **Achievement Highlights**
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muneeb-anjum0&theme=onedark&no-frame=false&no-bg=false&margin-w=4&margin-h=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B&exclude=PullRequest,Reviews" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=muneeb-anjum0&theme=flat&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&exclude=PullRequest,Reviews&title=Stars,Commit,Followers,Repositories,Issues,PullRequest,Reviews,Experience,Organizations,MultipleLang" alt="GitHub Trophies" />
 </div>
 
 </div>
@@ -182,11 +182,6 @@ const mindset = {
 
 ---
 
-<div align="center">
-
-## 📊 **GitHub Analytics**
-
-</div>
 
 <div align="center">
   
