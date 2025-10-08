@@ -125,26 +125,8 @@ const mindset = {
 </tr>
 </table>
 
-### 🏆 **Achievement Highlights**
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muneeb-anjum0&theme=flat&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&exclude=PullRequest,Reviews&title=Stars,Commit,Followers,Repositories,Issues,Experience,Organizations,MultipleLang,Gists" alt="GitHub Trophies" />
 </div>
 
-</div>
-
----
-
-<div align="center">
-
-## 🐍 **Contribution Snake**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muneeb-anjum0/muneeb-anjum0/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muneeb-anjum0/muneeb-anjum0/output/snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/muneeb-anjum0/muneeb-anjum0/output/snake.svg" />
-</picture>
-
-</div>
 
 ---
 
@@ -165,4 +147,9 @@ const mindset = {
 
 </div>
 
+---
+### **Achievement Highlights**
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muneeb-anjum0&theme=flat&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&exclude=PullRequest,Reviews&title=Stars,Commit,Followers,Repositories,Issues,Experience,Organizations,MultipleLang,Gists" alt="GitHub Trophies" />
+</div>
 ---
