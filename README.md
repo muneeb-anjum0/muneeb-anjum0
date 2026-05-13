@@ -113,13 +113,14 @@ Turn vague ideas into scalable architecture with strong data modeling, performan
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muneeb-anjum0&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&text_color=111111&icon_color=111111" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=muneeb-anjum0&hide_border=true&background=ffffff&ring=111111&fire=111111&currStreakLabel=111111&sideLabels=111111&dates=555555&stroke=111111" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=muneeb-anjum0&bg_color=ffffff&color=111111&line=111111&point=111111&area=true&hide_border=true&title_color=111111&area_color=f5f5f5&custom_title=Contribution%20Graph" />
 
 <br />
+<br />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=muneeb-anjum0&bg_color=ffffff&color=111111&line=111111&point=111111&area=true&hide_border=true&title_color=111111&area_color=f5f5f5&custom_title=Contribution%20Graph" />
+<img src="https://img.shields.io/badge/Code-Clean%20Architecture-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Systems-Scalable%20Design-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cloud-Production%20Ready-111111?style=for-the-badge" />
 
 </div>
 
