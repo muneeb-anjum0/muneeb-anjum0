@@ -174,17 +174,10 @@ Architectural decision making
 
 ---
 
-## **Achievements**
-
-Designed microservices infrastructure handling 100K+ concurrent users | Optimized API latency by 60% | Accelerated deployments by 80% | Mentored 10+ engineers | Reduced infrastructure costs by 45%
-
----
 
 ## **GitHub Statistics**
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=muneeb-anjum0&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb-anjum0&layout=compact&theme=default&hide_border=false" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muneeb-anjum0&show_icons=true&theme=white&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" /><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb-anjum0&layout=compact&theme=white&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 
 ---
 
