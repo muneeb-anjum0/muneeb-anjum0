@@ -132,8 +132,8 @@ const mindset = {
 <img height="200" src="https://streak-stats.demolab.com?user=muneeb-anjum0&theme=transparent&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=500&fire=DD6B20&ring=DD6B20&currStreakLabel=2F3A4A&sideLabels=2F3A4A&currStreakNum=DD6B20&sideNums=DD6B20&dates=74869A" alt="GitHub Streak" />
 
 ### **Profile Stats**
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=muneeb-anjum0&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=2F3A4A&icon_color=DD6B20&title_color=2F3A4A&cache_seconds=21600" alt="GitHub Stats" />
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb-anjum0&layout=compact&langs_count=10&hide_border=true&bg_color=00000000&text_color=2F3A4A&title_color=2F3A4A&cache_seconds=21600" alt="Top Languages" />
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=muneeb-anjum0&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&hide_border=true&theme=transparent&text_color=2F3A4A&icon_color=DD6B20&title_color=2F3A4A&cache_seconds=21600" alt="GitHub Stats" />
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb-anjum0&layout=compact&langs_count=10&hide_border=true&theme=transparent&text_color=2F3A4A&title_color=2F3A4A&cache_seconds=21600" alt="Top Languages" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muneeb-anjum0&bg_color=ffffff&color=2F3A4A&line=DD6B20&point=DD6B20&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph&area_color=DD6B20" alt="Activity Graph" />
 
