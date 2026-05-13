@@ -1,107 +1,107 @@
 <div align="center">
 
-# Hi, I'm **Muneeb Anjum**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header&text=Muneeb%20Anjum&fontSize=46&fontColor=111111&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Cloud%20Architect%20%7C%20System%20Designer&descAlignY=62&descSize=15" width="100%" />
 
-### *Full Stack Engineer | Cloud Architect | System Designer*
+<br />
 
-**Building scalable systems that matter, from idea to enterprise**
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2500&pause=700&color=111111&center=true&vCenter=true&width=850&lines=I+build+systems+that+scale.;Frontend.+Backend.+Cloud.+Architecture.;From+idea+to+production+grade+software." alt="Typing animation" />
 
-<br/>
+<br />
+<br />
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logoColor=ffffff)][portfolio]
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logoColor=ffffff)][linkedin]
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logoColor=ffffff)][email]
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logoColor=ffffff)][github]
+<a href="https://muneeb-anjum.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/muneebanjum335">
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:muneeb.anjum0@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/muneeb-anjum0">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-[portfolio]: https://muneeb-anjum.vercel.app/
-[linkedin]: https://linkedin.com/in/muneebanjum335
-[email]: mailto:muneeb.anjum0@gmail.com
-[github]: https://github.com/muneeb-anjum0
+<br />
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=muneeb-anjum0&style=for-the-badge&color=111111&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## **Professional Summary**
+## About Me
 
-Full Stack Engineer & Cloud Architect specializing in building high-scale distributed systems, microservices architecture, and cloud-native solutions. 6+ years architecting enterprise applications, optimizing infrastructure, and leading technical teams.
+```txt
+Full Stack Engineer and Cloud Architect from Karachi, Pakistan.
+I design, build, ship, and scale modern web platforms, APIs, cloud systems, and distributed architectures.
+```
 
-**Location:** Karachi, Pakistan | **Open To:** Full-time • Freelance • Open Source
+```yaml
+name: Muneeb Anjum
+role: Full Stack Engineer | Cloud Architect | System Designer
+location: Karachi, Pakistan
+focus:
+  - Scalable web applications
+  - Cloud native architecture
+  - Microservices and APIs
+  - System design
+  - DevOps automation
+available_for:
+  - Full time roles
+  - Freelance projects
+  - Open source collaboration
+```
 
 ---
 
-## **Core Competencies**
+## Tech Arsenal
 
-<table align="center" style="width:100%; border-collapse: collapse;">
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,redux,vite,webpack,jest,figma,sass,materialui&theme=light" />
+<br />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,dotnet,cs,python,fastapi,django,graphql,java,spring&theme=light" />
+<br />
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,prisma,firebase,supabase,elasticsearch,sqlite&theme=light" />
+<br />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,githubactions,jenkins,nginx,vercel,heroku&theme=light" />
+<br />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,postman,prometheus,grafana,vscode,bun,deno&theme=light" />
+
+</div>
+
+---
+
+## What I Bring
+
+<table>
 <tr>
-<td width="50%" style="padding: 20px; border: 2px solid #333; border-radius: 8px; background-color: #f8f9fa; margin: 5px;">
+<td width="50%">
 
-### Frontend Development
-`React.js` `Next.js` `TypeScript`  
-`Tailwind CSS` `Material-UI` `Sass`  
-`Redux` `Context API` `State Mgmt`  
-Performance optimization • SSR  
-Component patterns • Design systems  
-Jest • React Testing Library
+### Product Engineering
+Build clean, fast, scalable interfaces with React, Next.js, TypeScript, Tailwind, and modern frontend architecture.
 
 </td>
-<td width="50%" style="padding: 20px; border: 2px solid #333; border-radius: 8px; background-color: #f8f9fa; margin: 5px;">
+<td width="50%">
 
-### Backend Development
-`Node.js` `Express` `NestJS`  
-`.NET Core` `C#` `Python`  
-`FastAPI` `Django` `GraphQL`  
-REST APIs • API Design  
-Authentication • Security  
-Microservices Architecture
+### Backend Systems
+Design secure APIs, microservices, authentication flows, database layers, queues, and production ready services.
 
 </td>
 </tr>
 <tr>
-<td width="50%" style="padding: 20px; border: 2px solid #333; border-radius: 8px; background-color: #f8f9fa; margin: 5px;">
+<td width="50%">
 
-### Databases & Data
-`PostgreSQL` `MongoDB` `MySQL`  
-`Redis` `Elasticsearch` `SQLite`  
-`Prisma` `Firebase` `Supabase`  
-Data modeling • Optimization  
-Query tuning • Indexing  
-ETL • ACID compliance
+### Cloud Architecture
+Ship cloud native apps using AWS, Azure, GCP, Docker, Kubernetes, Terraform, CI/CD, and observability tools.
 
 </td>
-<td width="50%" style="padding: 20px; border: 2px solid #333; border-radius: 8px; background-color: #f8f9fa; margin: 5px;">
+<td width="50%">
 
-### Cloud & Infrastructure
-`Azure` `AWS` `GCP`  
-`Kubernetes` `Docker` `Terraform`  
-`NGINX` `Heroku` `Vercel`  
-Orchestration • Containerization  
-IaC • Automation  
-Cloud-native architecture
-
-</td>
-</tr>
-<tr>
-<td width="50%" style="padding: 20px; border: 2px solid #333; border-radius: 8px; background-color: #f8f9fa; margin: 5px;">
-
-### DevOps & Monitoring
-`GitHub Actions` `Jenkins` `GitLab`  
-`Prometheus` `Grafana` `ELK Stack`  
-`Linux` `Git` `Postman`  
-CI/CD pipelines • Automation  
-Log aggregation • Analysis  
-Performance tuning
-
-</td>
-<td width="50%" style="padding: 20px; border: 2px solid #333; border-radius: 8px; background-color: #f8f9fa; margin: 5px;">
-
-### Architecture & Leadership
-`System Design` `Microservices` `Scaling`  
-`High Availability` `Distributed Systems`  
-`Code Quality` `Best Practices`  
-Technical mentorship  
-Cross-functional collaboration  
-Architectural decision making
+### System Design
+Turn vague ideas into scalable architecture with strong data modeling, performance planning, and clean engineering decisions.
 
 </td>
 </tr>
@@ -109,85 +109,60 @@ Architectural decision making
 
 ---
 
-## **Technology Stack**
-
-<a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=light" alt="React" /></a>
-<a href="https://nextjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs&theme=light" alt="Next.js" /></a>
-<a href="https://typescriptlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=typescript&theme=light" alt="TypeScript" /></a>
-<a href="https://tailwindcss.com" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind&theme=light" alt="Tailwind" /></a>
-<a href="https://redux.js.org" target="_blank"><img src="https://skillicons.dev/icons?i=redux&theme=light" alt="Redux" /></a>
-<a href="https://vitejs.dev" target="_blank"><img src="https://skillicons.dev/icons?i=vite&theme=light" alt="Vite" /></a>
-<a href="https://webpack.js.org" target="_blank"><img src="https://skillicons.dev/icons?i=webpack&theme=light" alt="Webpack" /></a>
-<a href="https://jest.io" target="_blank"><img src="https://skillicons.dev/icons?i=jest&theme=light" alt="Jest" /></a>
-<a href="https://www.figma.com" target="_blank"><img src="https://skillicons.dev/icons?i=figma&theme=light" alt="Figma" /></a>
-<a href="https://sass-lang.com" target="_blank"><img src="https://skillicons.dev/icons?i=sass&theme=light" alt="Sass" /></a>
-<a href="https://mui.com" target="_blank"><img src="https://skillicons.dev/icons?i=materialui&theme=light" alt="Material-UI" /></a>
-<a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=light" alt="Node.js" /></a>
-<a href="https://nestjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=nestjs&theme=light" alt="NestJS" /></a>
-<a href="https://dotnet.microsoft.com" target="_blank"><img src="https://skillicons.dev/icons?i=dotnet&theme=light" alt=".NET" /></a>
-<a href="https://docs.microsoft.com/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs&theme=light" alt="C#" /></a>
-<a href="https://python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=light" alt="Python" /></a>
-<a href="https://fastapi.tiangolo.com" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi&theme=light" alt="FastAPI" /></a>
-<a href="https://www.rust-lang.org" target="_blank"><img src="https://skillicons.dev/icons?i=rust&theme=light" alt="Rust" /></a>
-<a href="https://go.dev" target="_blank"><img src="https://skillicons.dev/icons?i=go&theme=light" alt="Go" /></a>
-<a href="https://graphql.org" target="_blank"><img src="https://skillicons.dev/icons?i=graphql&theme=light" alt="GraphQL" /></a>
-<a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express&theme=light" alt="Express" /></a>
-<a href="https://www.djangoproject.com" target="_blank"><img src="https://skillicons.dev/icons?i=django&theme=light" alt="Django" /></a>
-<a href="https://spring.io" target="_blank"><img src="https://skillicons.dev/icons?i=spring&theme=light" alt="Spring" /></a>
-<a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=light" alt="Java" /></a>
-<a href="https://kotlinlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin&theme=light" alt="Kotlin" /></a>
-<a href="https://remix.run" target="_blank"><img src="https://skillicons.dev/icons?i=remix&theme=light" alt="Remix" /></a>
-<a href="https://astro.build" target="_blank"><img src="https://skillicons.dev/icons?i=astro&theme=light" alt="Astro" /></a>
-<a href="https://www.apollographql.com" target="_blank"><img src="https://skillicons.dev/icons?i=apollo&theme=light" alt="Apollo" /></a>
-<a href="https://postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgresql&theme=light" alt="PostgreSQL" /></a>
-<a href="https://mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme=light" alt="MongoDB" /></a>
-<a href="https://redis.io" target="_blank"><img src="https://skillicons.dev/icons?i=redis&theme=light" alt="Redis" /></a>
-<a href="https://mysql.com" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="MySQL" /></a>
-<a href="https://prisma.io" target="_blank"><img src="https://skillicons.dev/icons?i=prisma&theme=light" alt="Prisma" /></a>
-<a href="https://elastic.co" target="_blank"><img src="https://skillicons.dev/icons?i=elasticsearch&theme=light" alt="Elasticsearch" /></a>
-<a href="https://firebase.google.com" target="_blank"><img src="https://skillicons.dev/icons?i=firebase&theme=light" alt="Firebase" /></a>
-<a href="https://www.sqlite.org" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite&theme=light" alt="SQLite" /></a>
-<a href="https://supabase.com" target="_blank"><img src="https://skillicons.dev/icons?i=supabase&theme=light" alt="Supabase" /></a>
-<a href="https://azure.microsoft.com" target="_blank"><img src="https://skillicons.dev/icons?i=azure&theme=light" alt="Azure" /></a>
-<a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws&theme=light" alt="AWS" /></a>
-<a href="https://cloud.google.com" target="_blank"><img src="https://skillicons.dev/icons?i=gcp&theme=light" alt="GCP" /></a>
-<a href="https://docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=light" alt="Docker" /></a>
-<a href="https://kubernetes.io" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes&theme=light" alt="Kubernetes" /></a>
-<a href="https://terraform.io" target="_blank"><img src="https://skillicons.dev/icons?i=terraform&theme=light" alt="Terraform" /></a>
-<a href="https://docs.github.com/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions&theme=light" alt="GitHub Actions" /></a>
-<a href="https://jenkins.io" target="_blank"><img src="https://skillicons.dev/icons?i=jenkins&theme=light" alt="Jenkins" /></a>
-<a href="https://www.nginx.com" target="_blank"><img src="https://skillicons.dev/icons?i=nginx&theme=light" alt="NGINX" /></a>
-<a href="https://www.heroku.com" target="_blank"><img src="https://skillicons.dev/icons?i=heroku&theme=light" alt="Heroku" /></a>
-<a href="https://www.vercel.com" target="_blank"><img src="https://skillicons.dev/icons?i=vercel&theme=light" alt="Vercel" /></a>
-<a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=light" alt="VS Code" /></a>
-<a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=light" alt="Git" /></a>
-<a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=light" alt="GitHub" /></a>
-<a href="https://www.gitlab.com" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab&theme=light" alt="GitLab" /></a>
-<a href="https://www.postman.com" target="_blank"><img src="https://skillicons.dev/icons?i=postman&theme=light" alt="Postman" /></a>
-<a href="https://prometheus.io" target="_blank"><img src="https://skillicons.dev/icons?i=prometheus&theme=light" alt="Prometheus" /></a>
-<a href="https://grafana.com" target="_blank"><img src="https://skillicons.dev/icons?i=grafana&theme=light" alt="Grafana" /></a>
-<a href="https://www.linux.org" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=light" alt="Linux" /></a>
-<a href="https://www.tensorflow.org" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow&theme=light" alt="TensorFlow" /></a>
-<a href="https://pytorch.org" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch&theme=light" alt="PyTorch" /></a>
-<a href="https://bun.sh" target="_blank"><img src="https://skillicons.dev/icons?i=bun&theme=light" alt="Bun" /></a>
-<a href="https://deno.com" target="_blank"><img src="https://skillicons.dev/icons?i=deno&theme=light" alt="Deno" /></a>
-
----
-
-## **Activity & Contributions**
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muneeb-anjum0&bg_color=ffffff&color=1e1e1e&line=333333&point=1e1e1e&area=true&hide_border=true&title_color=1e1e1e&area_color=f0f0f0&custom_title=Contribution%20Graph" alt="Activity Graph" />
-
----
-
-## **Get In Touch**
-
-Looking for full-time roles, freelance projects, open source collaboration, or just want to discuss tech? Let's connect!
+## GitHub Pulse
 
 <div align="center">
 
-**[Email](mailto:muneeb.anjum0@gmail.com) • [LinkedIn](https://linkedin.com/in/muneebanjum335) • [Portfolio](https://muneeb-anjum.vercel.app/) • [GitHub](https://github.com/muneeb-anjum0)**
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muneeb-anjum0&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&text_color=111111&icon_color=111111" />
 
-### Let's build something extraordinary together.
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=muneeb-anjum0&hide_border=true&background=ffffff&ring=111111&fire=111111&currStreakLabel=111111&sideLabels=111111&dates=555555&stroke=111111" />
+
+<br />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=muneeb-anjum0&bg_color=ffffff&color=111111&line=111111&point=111111&area=true&hide_border=true&title_color=111111&area_color=f5f5f5&custom_title=Contribution%20Graph" />
+
+</div>
+
+---
+
+## Engineering Mindset
+
+<div align="center">
+
+| Build | Scale | Optimize | Automate |
+| :---: | :---: | :---: | :---: |
+| Clean architecture | Distributed systems | Performance tuning | CI/CD pipelines |
+| Strong UX | Cloud native infra | Database indexing | DevOps workflows |
+| Secure APIs | High availability | Observability | Repeatable delivery |
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+### Need someone who can build the product and the system behind it?
+
+<a href="mailto:muneeb.anjum0@gmail.com">
+  <img src="https://img.shields.io/badge/Let's%20Talk-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br />
+<br />
+
+<a href="mailto:muneeb.anjum0@gmail.com">Email</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://linkedin.com/in/muneebanjum335">LinkedIn</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://muneeb-anjum.vercel.app/">Portfolio</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://github.com/muneeb-anjum0">GitHub</a>
+
+<br />
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=90&section=footer" width="100%" />
 
 </div>
