@@ -38,6 +38,17 @@ Full Stack Engineer and Cloud Architect from Karachi, Pakistan.
 I design, build, ship, and scale modern web platforms, APIs, cloud systems, and distributed architectures.
 ```
 
+<div align="center">
+
+```txt
+Current status:
+Turning coffee into commits, bugs into features, and vague ideas into production systems.
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2300&pause=800&color=111111&center=true&vCenter=true&width=850&lines=Professionally+debugging+my+own+overconfidence.;Ship+first.+Panic+responsibly.;Probably+thinking+about+architecture+again.;Yes%2C+it+works+on+my+machine." alt="Funny typing animation" />
+
+</div>
+
 ```yaml
 name: Muneeb Anjum
 role: Full Stack Engineer | Cloud Architect | System Designer
@@ -160,10 +171,5 @@ Turn vague ideas into scalable architecture with strong data modeling, performan
 <a href="https://muneeb-anjum.vercel.app/">Portfolio</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="https://github.com/muneeb-anjum0">GitHub</a>
-
-<br />
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=90&section=footer" width="100%" />
 
 </div>
