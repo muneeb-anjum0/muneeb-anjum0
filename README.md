@@ -24,7 +24,7 @@
 
 ## **Professional Summary**
 
-A results-driven **Full Stack Engineer** and **Cloud Architect** with deep expertise in designing, building, and scaling enterprise-grade distributed systems. Passionate about solving complex technical challenges with elegant, maintainable solutions. Proven track record of architecting high-performance systems, optimizing infrastructure, and mentoring engineering teams.
+Full Stack Engineer & Cloud Architect specializing in building high-scale distributed systems, microservices architecture, and cloud-native solutions. 6+ years architecting enterprise applications, optimizing infrastructure, and leading technical teams.
 
 **Location:** Karachi, Pakistan | **Open To:** Full-time • Freelance • Open Source
 
@@ -32,92 +32,11 @@ A results-driven **Full Stack Engineer** and **Cloud Architect** with deep exper
 
 ## **Core Competencies**
 
-<table>
-<tr>
-<td width="50%">
-
-**Frontend Development**
-- React.js & React Hooks ecosystem
-- Next.js with App Router & Pages Router
-- TypeScript for type-safe applications
-- Tailwind CSS & Material-UI design systems
-- State management: Redux, Context API, Zustand
-- Component libraries & design patterns
-- Performance optimization & code splitting
-- Testing frameworks: Jest, React Testing Library
-
-</td>
-<td width="50%">
-
-**Backend Development**
-- Node.js & Express.js ecosystem
-- NestJS enterprise frameworks
-- .NET Core & C# backend services
-- Python with FastAPI & Django
-- RESTful API design & GraphQL
-- Microservices architecture patterns
-- Authentication & authorization
-- API documentation & OpenAPI specs
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**Database & Data Layer**
-- PostgreSQL optimization & advanced queries
-- MongoDB document modeling
-- Redis caching & session management
-- Elasticsearch for search & analytics
-- MySQL & MariaDB administration
-- Data migration & ETL pipelines
-- Query optimization & indexing
-- Data consistency & ACID compliance
-
-</td>
-<td width="50%">
-
-**Cloud & Infrastructure**
-- Microsoft Azure: App Services, Functions, CosmosDB
-- AWS: EC2, S3, Lambda, RDS, DynamoDB
-- Google Cloud Platform services
-- Kubernetes orchestration & StatefulSets
-- Docker containerization & image optimization
-- Terraform Infrastructure-as-Code
-- CI/CD pipelines & automation
-- Monitoring, logging & alerting
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**Architecture & Design**
-- Microservices & service mesh patterns
-- Event-driven architecture
-- Domain-driven design principles
-- SOLID principles & clean architecture
-- API gateway & load balancing
-- Scalable system design
-- High-availability infrastructure
-- Distributed system patterns
-
-</td>
-<td width="50%">
-
-**DevOps & Performance**
-- Kubernetes deployment & management
-- CI/CD with GitHub Actions, Jenkins
-- Infrastructure monitoring: Prometheus, Grafana
-- Application performance monitoring
-- Load testing & stress testing
-- Database performance tuning
-- Cost optimization strategies
-- Security & compliance best practices
-
-</td>
-</tr>
-</table>
+**Frontend:** React • Next.js • TypeScript • Tailwind CSS • Redux
+**Backend:** Node.js • NestJS • .NET Core • Python • FastAPI • GraphQL  
+**Databases:** PostgreSQL • MongoDB • Redis • Elasticsearch • Firebase
+**Cloud:** Azure • AWS • GCP • Kubernetes • Docker • Terraform  
+**DevOps:** CI/CD • GitHub Actions • Jenkins • Monitoring • Infrastructure-as-Code
 
 ---
 
@@ -146,6 +65,11 @@ A results-driven **Full Stack Engineer** and **Cloud Architect** with deep exper
 <a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express&theme=light" alt="Express" /></a>
 <a href="https://www.djangoproject.com" target="_blank"><img src="https://skillicons.dev/icons?i=django&theme=light" alt="Django" /></a>
 <a href="https://spring.io" target="_blank"><img src="https://skillicons.dev/icons?i=spring&theme=light" alt="Spring" /></a>
+<a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=light" alt="Java" /></a>
+<a href="https://kotlinlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin&theme=light" alt="Kotlin" /></a>
+<a href="https://remix.run" target="_blank"><img src="https://skillicons.dev/icons?i=remix&theme=light" alt="Remix" /></a>
+<a href="https://astro.build" target="_blank"><img src="https://skillicons.dev/icons?i=astro&theme=light" alt="Astro" /></a>
+<a href="https://www.apollographql.com" target="_blank"><img src="https://skillicons.dev/icons?i=apollo&theme=light" alt="Apollo" /></a>
 <a href="https://postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgresql&theme=light" alt="PostgreSQL" /></a>
 <a href="https://mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme=light" alt="MongoDB" /></a>
 <a href="https://redis.io" target="_blank"><img src="https://skillicons.dev/icons?i=redis&theme=light" alt="Redis" /></a>
@@ -154,6 +78,7 @@ A results-driven **Full Stack Engineer** and **Cloud Architect** with deep exper
 <a href="https://elastic.co" target="_blank"><img src="https://skillicons.dev/icons?i=elasticsearch&theme=light" alt="Elasticsearch" /></a>
 <a href="https://firebase.google.com" target="_blank"><img src="https://skillicons.dev/icons?i=firebase&theme=light" alt="Firebase" /></a>
 <a href="https://www.sqlite.org" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite&theme=light" alt="SQLite" /></a>
+<a href="https://supabase.com" target="_blank"><img src="https://skillicons.dev/icons?i=supabase&theme=light" alt="Supabase" /></a>
 <a href="https://azure.microsoft.com" target="_blank"><img src="https://skillicons.dev/icons?i=azure&theme=light" alt="Azure" /></a>
 <a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws&theme=light" alt="AWS" /></a>
 <a href="https://cloud.google.com" target="_blank"><img src="https://skillicons.dev/icons?i=gcp&theme=light" alt="GCP" /></a>
@@ -175,125 +100,30 @@ A results-driven **Full Stack Engineer** and **Cloud Architect** with deep exper
 <a href="https://www.linux.org" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=light" alt="Linux" /></a>
 <a href="https://www.tensorflow.org" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow&theme=light" alt="TensorFlow" /></a>
 <a href="https://pytorch.org" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch&theme=light" alt="PyTorch" /></a>
+<a href="https://bun.sh" target="_blank"><img src="https://skillicons.dev/icons?i=bun&theme=light" alt="Bun" /></a>
+<a href="https://deno.com" target="_blank"><img src="https://skillicons.dev/icons?i=deno&theme=light" alt="Deno" /></a>
 
 ---
 
-## **What I Bring To The Table**
+## **Achievements**
 
-<table>
-<tr>
-<td width="50%">
-
-### **Architecture & Design**
-- Microservices patterns & best practices
-- Scalable distributed system design  
-- High-availability infrastructure
-- RESTful & GraphQL API design
-- Event-driven architectures
-- Domain-driven design
-
-</td>
-<td width="50%">
-
-### **DevOps & Cloud**
-- Kubernetes orchestration at scale
-- Infrastructure-as-Code (Terraform)
-- Multi-cloud architecture strategies
-- CI/CD pipeline automation
-- Comprehensive monitoring & observability
-- Disaster recovery planning
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### **Performance Engineering**
-- Database query optimization
-- Caching strategies (Redis, Memcached)
-- Load balancing & traffic management
-- Memory & CPU optimization
-- Latency reduction techniques
-- Bottleneck identification
-
-</td>
-<td width="50%">
-
-### **Leadership & Collaboration**
-- Technical mentorship & growth
-- Architecture decision-making
-- Code quality & review standards
-- Agile/Scrum team coordination
-- Cross-functional communication
-- Best practices documentation
-
-</td>
-</tr>
-</table>
+Designed microservices infrastructure handling 100K+ concurrent users | Optimized API latency by 60% | Accelerated deployments by 80% | Mentored 10+ engineers | Reduced infrastructure costs by 45%
 
 ---
 
-## **Certifications & Credentials**
+## **Get In Touch**
 
-- **Microsoft Azure Developer Associate** – Professional cloud development expertise
-- **AWS Solutions Architect** – Enterprise-scale AWS architecture  
-- **Kubernetes Administrator** – Container orchestration mastery
-- **Advanced TypeScript** – Type-safe full-stack development
+Looking for full-time roles, freelance projects, open source collaboration, or just want to discuss tech? Let's connect!
 
----
-
-## **My Philosophy**
-
-> "I believe in building software that scales, stands the test of time, and delights users. Every line of code is an investment in the future."
-
-**Core Principles:**
-- **Clean Code** – Maintainable, readable, elegant
-- **Scalable by Default** – Design for growth from day one
-- **Continuous Improvement** – Always learning and refining
-- **User-Centric** – Keep users at the heart of decisions
-- **Knowledge Sharing** – Lift others as you climb
+**[Email](mailto:muneeb.anjum0@gmail.com) • [LinkedIn](https://linkedin.com/in/muneebanjum335) • [Portfolio](https://muneeb-anjum.vercel.app/) • [GitHub](https://github.com/muneeb-anjum0)**
 
 ---
 
-## **Highlighted Achievements**
+## **GitHub Statistics**
 
-| Achievement | Impact |
-|---|---|
-| **Microservices Infrastructure** | Designed system handling 100K+ concurrent users with 99.99% uptime |
-| **Performance Optimization** | Reduced API latency by 60% through caching and query optimization |
-| **CI/CD Automation** | Built pipelines accelerating deployments by 80%, reducing errors |
-| **Team Development** | Mentored 10+ developers, several promoted to senior roles |
-| **Cost Optimization** | Reduced cloud infrastructure costs by 45% through resource optimization |
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=muneeb-anjum0&show_icons=true&theme=white&hide_border=true&card_width=500&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
----
-
-## **Let's Connect**
-
-<table>
-<tr>
-<td width="50%">
-
-### **What I'm Looking For**
-- Full-time engineering roles
-- Interesting freelance projects
-- Open source collaborations
-- Mentoring opportunities
-- Technical discussions
-
-</td>
-<td width="50%">
-
-### **Current Interests**
-- Cloud-native application design
-- High-scale distributed systems
-- AI-powered web applications
-- DevOps automation
-- Performance engineering
-- System architecture
-
-</td>
-</tr>
-</table>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb-anjum0&layout=compact&theme=white&hide_border=true&card_width=500" alt="Top Languages" />
 
 ---
 
