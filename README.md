@@ -32,76 +32,76 @@ Full Stack Engineer & Cloud Architect specializing in building high-scale distri
 
 ## **Core Competencies**
 
-<table>
+<table align="center" style="width:100%; border-collapse: collapse;">
 <tr>
-<td width="50%">
+<td width="50%" style="padding: 20px; border: 2px solid #333; border-radius: 8px; background-color: #f8f9fa; margin: 5px;">
 
-**Frontend Development**
-- React.js • Next.js • TypeScript
-- Tailwind CSS • Material-UI • Sass
-- Redux • Context API • State Management
-- Performance optimization & SSR
-- Component design patterns
-- Testing: Jest, React Testing Library
+### Frontend Development
+`React.js` `Next.js` `TypeScript`  
+`Tailwind CSS` `Material-UI` `Sass`  
+`Redux` `Context API` `State Mgmt`  
+Performance optimization • SSR  
+Component patterns • Design systems  
+Jest • React Testing Library
 
 </td>
-<td width="50%">
+<td width="50%" style="padding: 20px; border: 2px solid #333; border-radius: 8px; background-color: #f8f9fa; margin: 5px;">
 
-**Backend Development**
-- Node.js • Express • NestJS
-- .NET Core • C# • Python
-- FastAPI • Django • GraphQL
-- REST APIs & API Design
-- Authentication & Security
-- Microservices Architecture
+### Backend Development
+`Node.js` `Express` `NestJS`  
+`.NET Core` `C#` `Python`  
+`FastAPI` `Django` `GraphQL`  
+REST APIs • API Design  
+Authentication • Security  
+Microservices Architecture
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" style="padding: 20px; border: 2px solid #333; border-radius: 8px; background-color: #f8f9fa; margin: 5px;">
 
-**Databases & Data**
-- PostgreSQL • MongoDB • MySQL
-- Redis • Elasticsearch • SQLite
-- Data modeling & optimization
-- Query optimization & indexing
-- ETL & Data pipelines
-- ACID compliance & transactions
+### Databases & Data
+`PostgreSQL` `MongoDB` `MySQL`  
+`Redis` `Elasticsearch` `SQLite`  
+`Prisma` `Firebase` `Supabase`  
+Data modeling • Optimization  
+Query tuning • Indexing  
+ETL • ACID compliance
 
 </td>
-<td width="50%">
+<td width="50%" style="padding: 20px; border: 2px solid #333; border-radius: 8px; background-color: #f8f9fa; margin: 5px;">
 
-**Cloud & Infrastructure**
-- Microsoft Azure ecosystem
-- AWS services (EC2, S3, Lambda, RDS)
-- Google Cloud Platform
-- Kubernetes orchestration
-- Docker containerization
-- CI/CD pipelines & automation
+### Cloud & Infrastructure
+`Azure` `AWS` `GCP`  
+`Kubernetes` `Docker` `Terraform`  
+`NGINX` `Heroku` `Vercel`  
+Orchestration • Containerization  
+IaC • Automation  
+Cloud-native architecture
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" style="padding: 20px; border: 2px solid #333; border-radius: 8px; background-color: #f8f9fa; margin: 5px;">
 
-**DevOps & Monitoring**
-- GitHub Actions • Jenkins
-- Terraform Infrastructure-as-Code
-- Container management
-- Prometheus & Grafana monitoring
-- Log aggregation & analysis
-- System performance tuning
+### DevOps & Monitoring
+`GitHub Actions` `Jenkins` `GitLab`  
+`Prometheus` `Grafana` `ELK Stack`  
+`Linux` `Git` `Postman`  
+CI/CD pipelines • Automation  
+Log aggregation • Analysis  
+Performance tuning
 
 </td>
-<td width="50%">
+<td width="50%" style="padding: 20px; border: 2px solid #333; border-radius: 8px; background-color: #f8f9fa; margin: 5px;">
 
-**Architecture & Leadership**
-- Microservices design patterns
-- System scalability & design
-- High-availability architecture
-- Code quality & standards
-- Technical mentorship
-- Cross-functional collaboration
+### Architecture & Leadership
+`System Design` `Microservices` `Scaling`  
+`High Availability` `Distributed Systems`  
+`Code Quality` `Best Practices`  
+Technical mentorship  
+Cross-functional collaboration  
+Architectural decision making
 
 </td>
 </tr>
@@ -182,9 +182,9 @@ Designed microservices infrastructure handling 100K+ concurrent users | Optimize
 
 ## **GitHub Statistics**
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=muneeb-anjum0&show_icons=true&theme=transparent&hide_border=true&text_color=1e1e1e&bg_color=ffffffff" alt="GitHub Stats" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=muneeb-anjum0&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb-anjum0&layout=compact&theme=transparent&hide_border=true&text_color=1e1e1e&bg_color=ffffffff" alt="Top Languages" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb-anjum0&layout=compact&theme=default&hide_border=false" alt="Top Languages" />
 
 ---
 
