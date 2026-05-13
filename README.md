@@ -174,13 +174,6 @@ Architectural decision making
 
 ---
 
-
-## **Achievements & Trophies**
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=muneeb-anjum0&theme=flat&column=7&margin-w=15&no-frame=true&exclude=reviews)](https://github.com/muneeb-anjum0)
-
----
-
 ## **Activity & Contributions**
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muneeb-anjum0&bg_color=ffffff&color=1e1e1e&line=333333&point=1e1e1e&area=true&hide_border=true&title_color=1e1e1e&area_color=f0f0f0&custom_title=Contribution%20Graph" alt="Activity Graph" />
