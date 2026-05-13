@@ -175,15 +175,9 @@ Architectural decision making
 ---
 
 
-## **GitHub Statistics**
+## **Achievements & Trophies**
 
-[![GitHub followers](https://img.shields.io/github/followers/muneeb-anjum0?label=Followers&style=social)](https://github.com/muneeb-anjum0)
-[![GitHub User's stars](https://img.shields.io/github/stars/muneeb-anjum0?style=flat&label=Total%20Stars&color=blue)](https://github.com/muneeb-anjum0)
-[![GitHub last commit](https://img.shields.io/github/last-commit/muneeb-anjum0/muneeb-anjum0?label=Last%20Update&style=flat&color=success)](https://github.com/muneeb-anjum0)
-
-**Total Public Repositories** | **Years Active** | **Code Contributions**
----|---|---
-40+ | 6+ | 500K+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=muneeb-anjum0&theme=flat&column=7&margin-w=15&no-frame=true)](https://github.com/muneeb-anjum0)
 
 ---
 
