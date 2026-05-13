@@ -38,14 +38,56 @@ Full Stack Engineer and Cloud Architect from Karachi, Pakistan.
 I design, build, ship, and scale modern web platforms, APIs, cloud systems, and distributed architectures.
 ```
 
+---
+
+## Runtime Mood
+
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=1800&pause=500&color=111111&center=true&vCenter=true&width=900&lines=booting+ideas...;compiling+chaos...;deploying+clean+systems...;optimizing+until+it+feels+illegal...;shipping+before+the+coffee+gets+cold." alt="Runtime mood animation" />
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=code%20%2B%20cloud%20%2B%20chaos%20control&fontSize=28&fontColor=111111&animation=twinkling&fontAlignY=50" width="100%" />
+
+<br />
+
+<table>
+<tr>
+<td align="center" width="33%">
+
 ```txt
-Current status:
-Turning coffee into commits, bugs into features, and vague ideas into production systems.
+idea
+  |
+  v
+prototype
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2300&pause=800&color=111111&center=true&vCenter=true&width=850&lines=Professionally+debugging+my+own+overconfidence.;Ship+first.+Panic+responsibly.;Probably+thinking+about+architecture+again.;Yes%2C+it+works+on+my+machine." alt="Funny typing animation" />
+</td>
+<td align="center" width="33%">
+
+```txt
+bugs
+  |
+  v
+features
+```
+
+</td>
+<td align="center" width="33%">
+
+```txt
+coffee
+  |
+  v
+commits
+```
+
+</td>
+</tr>
+</table>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2200&pause=700&color=111111&center=true&vCenter=true&width=850&lines=System+design+brain.+Startup+speed.+Production+discipline.;I+do+not+just+write+code.+I+make+it+behave.;Clean+architecture%2C+fast+delivery%2C+zero+drama." alt="Funky animation" />
 
 </div>
 
