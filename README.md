@@ -33,63 +33,17 @@
 
 ## About Me
 
+<table>
+<tr>
+<td width="55%">
+
 ```txt
 Full Stack Engineer and Cloud Architect from Karachi, Pakistan.
 I design, build, ship, and scale modern web platforms, APIs, cloud systems, and distributed architectures.
 ```
 
----
-
-## Runtime Mood
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=1800&pause=500&color=111111&center=true&vCenter=true&width=900&lines=booting+ideas...;compiling+chaos...;deploying+clean+systems...;optimizing+until+it+feels+illegal...;shipping+before+the+coffee+gets+cold." alt="Runtime mood animation" />
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=code%20%2B%20cloud%20%2B%20chaos%20control&fontSize=28&fontColor=111111&animation=twinkling&fontAlignY=50" width="100%" />
-
-<br />
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-```txt
-idea
-  |
-  v
-prototype
-```
-
 </td>
-<td align="center" width="33%">
-
-```txt
-bugs
-  |
-  v
-features
-```
-
-</td>
-<td align="center" width="33%">
-
-```txt
-coffee
-  |
-  v
-commits
-```
-
-</td>
-</tr>
-</table>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2200&pause=700&color=111111&center=true&vCenter=true&width=850&lines=System+design+brain.+Startup+speed.+Production+discipline.;I+do+not+just+write+code.+I+make+it+behave.;Clean+architecture%2C+fast+delivery%2C+zero+drama." alt="Funky animation" />
-
-</div>
+<td width="45%">
 
 ```yaml
 name: Muneeb Anjum
@@ -106,6 +60,29 @@ available_for:
   - Freelance projects
   - Open source collaboration
 ```
+
+</td>
+</tr>
+</table>
+
+---
+
+## Console Mode
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=1600&pause=450&color=111111&center=true&vCenter=true&width=900&lines=%3E+initializing+builder+mode;%3E+loading+cloud+brain;%3E+untangling+legacy+spaghetti;%3E+turning+bugs+into+features;%3E+deploying+before+coffee+gets+cold;%3E+system+stable.+vibes+immaculate." alt="Console animation" />
+
+<br />
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=75&text=build%20fast%20%7C%20scale%20clean%20%7C%20ship%20loud&fontSize=26&fontColor=111111&animation=twinkling&fontAlignY=50" width="100%" />
+
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=19&duration=2200&pause=700&color=111111&center=true&vCenter=true&width=900&lines=Clean+architecture.+Zero+drama.;Production+systems+with+personality.;Code+that+behaves+after+deployment.;Building+serious+things+without+being+boring." alt="Funky animated lines" />
+
+</div>
 
 ---
 
