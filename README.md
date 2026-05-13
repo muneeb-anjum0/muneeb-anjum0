@@ -177,7 +177,13 @@ Architectural decision making
 
 ## **GitHub Statistics**
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muneeb-anjum0&show_icons=true&theme=white&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" /><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb-anjum0&layout=compact&theme=white&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+[![GitHub followers](https://img.shields.io/github/followers/muneeb-anjum0?label=Followers&style=social)](https://github.com/muneeb-anjum0)
+[![GitHub User's stars](https://img.shields.io/github/stars/muneeb-anjum0?style=flat&label=Total%20Stars&color=blue)](https://github.com/muneeb-anjum0)
+[![GitHub last commit](https://img.shields.io/github/last-commit/muneeb-anjum0/muneeb-anjum0?label=Last%20Update&style=flat&color=success)](https://github.com/muneeb-anjum0)
+
+**Total Public Repositories** | **Years Active** | **Code Contributions**
+---|---|---
+40+ | 6+ | 500K+
 
 ---
 
