@@ -123,7 +123,6 @@ A results-driven **Full Stack Engineer** and **Cloud Architect** with deep exper
 
 ## **Technology Stack**
 
-### **Frontend Ecosystem**
 <a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=light" alt="React" /></a>
 <a href="https://nextjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs&theme=light" alt="Next.js" /></a>
 <a href="https://typescriptlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=typescript&theme=light" alt="TypeScript" /></a>
@@ -133,11 +132,8 @@ A results-driven **Full Stack Engineer** and **Cloud Architect** with deep exper
 <a href="https://webpack.js.org" target="_blank"><img src="https://skillicons.dev/icons?i=webpack&theme=light" alt="Webpack" /></a>
 <a href="https://jest.io" target="_blank"><img src="https://skillicons.dev/icons?i=jest&theme=light" alt="Jest" /></a>
 <a href="https://www.figma.com" target="_blank"><img src="https://skillicons.dev/icons?i=figma&theme=light" alt="Figma" /></a>
-<a href="https://storybook.js.org" target="_blank"><img src="https://skillicons.dev/icons?i=storybook&theme=light" alt="Storybook" /></a>
 <a href="https://sass-lang.com" target="_blank"><img src="https://skillicons.dev/icons?i=sass&theme=light" alt="Sass" /></a>
 <a href="https://mui.com" target="_blank"><img src="https://skillicons.dev/icons?i=materialui&theme=light" alt="Material-UI" /></a>
-
-### **Backend & Runtime**
 <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=light" alt="Node.js" /></a>
 <a href="https://nestjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=nestjs&theme=light" alt="NestJS" /></a>
 <a href="https://dotnet.microsoft.com" target="_blank"><img src="https://skillicons.dev/icons?i=dotnet&theme=light" alt=".NET" /></a>
@@ -150,8 +146,6 @@ A results-driven **Full Stack Engineer** and **Cloud Architect** with deep exper
 <a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express&theme=light" alt="Express" /></a>
 <a href="https://www.djangoproject.com" target="_blank"><img src="https://skillicons.dev/icons?i=django&theme=light" alt="Django" /></a>
 <a href="https://spring.io" target="_blank"><img src="https://skillicons.dev/icons?i=spring&theme=light" alt="Spring" /></a>
-
-### **Databases & Data Management**
 <a href="https://postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgresql&theme=light" alt="PostgreSQL" /></a>
 <a href="https://mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme=light" alt="MongoDB" /></a>
 <a href="https://redis.io" target="_blank"><img src="https://skillicons.dev/icons?i=redis&theme=light" alt="Redis" /></a>
@@ -160,11 +154,6 @@ A results-driven **Full Stack Engineer** and **Cloud Architect** with deep exper
 <a href="https://elastic.co" target="_blank"><img src="https://skillicons.dev/icons?i=elasticsearch&theme=light" alt="Elasticsearch" /></a>
 <a href="https://firebase.google.com" target="_blank"><img src="https://skillicons.dev/icons?i=firebase&theme=light" alt="Firebase" /></a>
 <a href="https://www.sqlite.org" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite&theme=light" alt="SQLite" /></a>
-<a href="https://www.clickhouse.com" target="_blank"><img src="https://skillicons.dev/icons?i=clickhouse&theme=light" alt="ClickHouse" /></a>
-<a href="https://www.rabbitmq.com" target="_blank"><img src="https://skillicons.dev/icons?i=rabbitmq&theme=light" alt="RabbitMQ" /></a>
-<a href="https://kafka.apache.org" target="_blank"><img src="https://skillicons.dev/icons?i=kafka&theme=light" alt="Apache Kafka" /></a>
-
-### **Cloud Platforms & Infrastructure**
 <a href="https://azure.microsoft.com" target="_blank"><img src="https://skillicons.dev/icons?i=azure&theme=light" alt="Azure" /></a>
 <a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws&theme=light" alt="AWS" /></a>
 <a href="https://cloud.google.com" target="_blank"><img src="https://skillicons.dev/icons?i=gcp&theme=light" alt="GCP" /></a>
@@ -176,8 +165,6 @@ A results-driven **Full Stack Engineer** and **Cloud Architect** with deep exper
 <a href="https://www.nginx.com" target="_blank"><img src="https://skillicons.dev/icons?i=nginx&theme=light" alt="NGINX" /></a>
 <a href="https://www.heroku.com" target="_blank"><img src="https://skillicons.dev/icons?i=heroku&theme=light" alt="Heroku" /></a>
 <a href="https://www.vercel.com" target="_blank"><img src="https://skillicons.dev/icons?i=vercel&theme=light" alt="Vercel" /></a>
-
-### **DevOps, Monitoring & Tools**
 <a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=light" alt="VS Code" /></a>
 <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=light" alt="Git" /></a>
 <a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=light" alt="GitHub" /></a>
@@ -185,14 +172,9 @@ A results-driven **Full Stack Engineer** and **Cloud Architect** with deep exper
 <a href="https://www.postman.com" target="_blank"><img src="https://skillicons.dev/icons?i=postman&theme=light" alt="Postman" /></a>
 <a href="https://prometheus.io" target="_blank"><img src="https://skillicons.dev/icons?i=prometheus&theme=light" alt="Prometheus" /></a>
 <a href="https://grafana.com" target="_blank"><img src="https://skillicons.dev/icons?i=grafana&theme=light" alt="Grafana" /></a>
-<a href="https://www.elastic.co/kibana" target="_blank"><img src="https://skillicons.dev/icons?i=kibana&theme=light" alt="Kibana" /></a>
 <a href="https://www.linux.org" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=light" alt="Linux" /></a>
-
-### **AI/ML & Advanced Technologies**
-<a href="https://openai.com" target="_blank"><img src="https://skillicons.dev/icons?i=openai&theme=light" alt="OpenAI" /></a>
 <a href="https://www.tensorflow.org" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow&theme=light" alt="TensorFlow" /></a>
 <a href="https://pytorch.org" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch&theme=light" alt="PyTorch" /></a>
-<a href="https://huggingface.co" target="_blank"><img src="https://skillicons.dev/icons?i=huggingface&theme=light" alt="Hugging Face" /></a>
 
 ---
 
