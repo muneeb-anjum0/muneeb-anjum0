@@ -33,17 +33,10 @@
 
 ## About Me
 
-<table>
-<tr>
-<td width="55%">
-
 ```txt
 Full Stack Engineer and Cloud Architect from Karachi, Pakistan.
 I design, build, ship, and scale modern web platforms, APIs, cloud systems, and distributed architectures.
 ```
-
-</td>
-<td width="45%">
 
 ```yaml
 name: Muneeb Anjum
@@ -60,10 +53,6 @@ available_for:
   - Freelance projects
   - Open source collaboration
 ```
-
-</td>
-</tr>
-</table>
 
 ---
 
