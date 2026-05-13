@@ -32,11 +32,80 @@ Full Stack Engineer & Cloud Architect specializing in building high-scale distri
 
 ## **Core Competencies**
 
-**Frontend:** React • Next.js • TypeScript • Tailwind CSS • Redux
-**Backend:** Node.js • NestJS • .NET Core • Python • FastAPI • GraphQL  
-**Databases:** PostgreSQL • MongoDB • Redis • Elasticsearch • Firebase
-**Cloud:** Azure • AWS • GCP • Kubernetes • Docker • Terraform  
-**DevOps:** CI/CD • GitHub Actions • Jenkins • Monitoring • Infrastructure-as-Code
+<table>
+<tr>
+<td width="50%">
+
+**Frontend Development**
+- React.js • Next.js • TypeScript
+- Tailwind CSS • Material-UI • Sass
+- Redux • Context API • State Management
+- Performance optimization & SSR
+- Component design patterns
+- Testing: Jest, React Testing Library
+
+</td>
+<td width="50%">
+
+**Backend Development**
+- Node.js • Express • NestJS
+- .NET Core • C# • Python
+- FastAPI • Django • GraphQL
+- REST APIs & API Design
+- Authentication & Security
+- Microservices Architecture
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**Databases & Data**
+- PostgreSQL • MongoDB • MySQL
+- Redis • Elasticsearch • SQLite
+- Data modeling & optimization
+- Query optimization & indexing
+- ETL & Data pipelines
+- ACID compliance & transactions
+
+</td>
+<td width="50%">
+
+**Cloud & Infrastructure**
+- Microsoft Azure ecosystem
+- AWS services (EC2, S3, Lambda, RDS)
+- Google Cloud Platform
+- Kubernetes orchestration
+- Docker containerization
+- CI/CD pipelines & automation
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**DevOps & Monitoring**
+- GitHub Actions • Jenkins
+- Terraform Infrastructure-as-Code
+- Container management
+- Prometheus & Grafana monitoring
+- Log aggregation & analysis
+- System performance tuning
+
+</td>
+<td width="50%">
+
+**Architecture & Leadership**
+- Microservices design patterns
+- System scalability & design
+- High-availability architecture
+- Code quality & standards
+- Technical mentorship
+- Cross-functional collaboration
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -111,19 +180,11 @@ Designed microservices infrastructure handling 100K+ concurrent users | Optimize
 
 ---
 
-## **Get In Touch**
-
-Looking for full-time roles, freelance projects, open source collaboration, or just want to discuss tech? Let's connect!
-
-**[Email](mailto:muneeb.anjum0@gmail.com) • [LinkedIn](https://linkedin.com/in/muneebanjum335) • [Portfolio](https://muneeb-anjum.vercel.app/) • [GitHub](https://github.com/muneeb-anjum0)**
-
----
-
 ## **GitHub Statistics**
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=muneeb-anjum0&show_icons=true&theme=white&hide_border=true&card_width=500&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=muneeb-anjum0&show_icons=true&theme=transparent&hide_border=true&text_color=1e1e1e&bg_color=ffffffff" alt="GitHub Stats" />
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb-anjum0&layout=compact&theme=white&hide_border=true&card_width=500" alt="Top Languages" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb-anjum0&layout=compact&theme=transparent&hide_border=true&text_color=1e1e1e&bg_color=ffffffff" alt="Top Languages" />
 
 ---
 
@@ -133,10 +194,14 @@ Looking for full-time roles, freelance projects, open source collaboration, or j
 
 ---
 
+## **Get In Touch**
+
+Looking for full-time roles, freelance projects, open source collaboration, or just want to discuss tech? Let's connect!
+
 <div align="center">
 
-### Let's build something extraordinary together.
+**[Email](mailto:muneeb.anjum0@gmail.com) • [LinkedIn](https://linkedin.com/in/muneebanjum335) • [Portfolio](https://muneeb-anjum.vercel.app/) • [GitHub](https://github.com/muneeb-anjum0)**
 
-**Feel free to reach out** → [Email](mailto:muneeb.anjum0@gmail.com) • [LinkedIn](https://linkedin.com/in/muneebanjum335) • [Portfolio](https://muneeb-anjum.vercel.app/)
+### Let's build something extraordinary together.
 
 </div>
