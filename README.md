@@ -13,7 +13,7 @@
 ```ts
 const muneeb = {
   role     : "Full Stack Engineer · Cloud Architect · System Designer",
-  location : "Karachi, Pakistan",
+  location : "Islamabad, Pakistan",
   focus    : ["scalable web apps", "cloud-native infra", "clean APIs", "system design"],
   open_to  : ["full-time", "freelance", "open source"],
 };
