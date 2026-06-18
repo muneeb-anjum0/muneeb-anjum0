@@ -89,8 +89,7 @@ const muneeb = {
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=muneeb-anjum0&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&icon_color=4a9eff&text_color=333333&rank_icon=github&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage&card_width=800" width="96%" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=muneeb-anjum0&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&icon_color=4a9eff&text_color=333333&rank_icon=github&include_all_commits=true&count_private=true&show=prs_merged&hide=contribs,prs_merged_percentage&card_width=800" width="96%" />
 </div>
 
 <br/>
