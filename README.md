@@ -1,10 +1,10 @@
 <div align="center">
 
-# muneeb anjum
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=48&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=Muneeb+Anjum" alt="Muneeb Anjum" />
 
-[![Portfolio](https://img.shields.io/badge/portfolio-muneeb--anjum.vercel.app-8b949e?style=flat-square&logo=vercel&logoColor=white)](https://muneeb-anjum.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-muneebanjum335-8b949e?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muneebanjum335)
-[![Email](https://img.shields.io/badge/email-muneeb.anjum0@gmail.com-8b949e?style=flat-square&logo=gmail&logoColor=white)](mailto:muneeb.anjum0@gmail.com)
+[![Portfolio](https://img.shields.io/badge/portfolio-muneeb--anjum.vercel.app-4a9eff?style=flat-square&logo=vercel&logoColor=white)](https://muneeb-anjum.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-muneebanjum335-4a9eff?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muneebanjum335)
+[![Email](https://img.shields.io/badge/email-muneeb.anjum0@gmail.com-4a9eff?style=flat-square&logo=gmail&logoColor=white)](mailto:muneeb.anjum0@gmail.com)
 
 </div>
 
@@ -35,7 +35,11 @@ const muneeb = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=muneeb-anjum0&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8b949e&icon_color=3fb950&text_color=8b949e&hide=contribs&card_width=800" width="96%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muneeb-anjum0&bg_color=ffffff&color=4a9eff&line=4a9eff&point=1a56db&area=true&hide_border=true&area_color=dbeafe&title_color=111111&custom_title=contribution+activity" width="96%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=muneeb-anjum0&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&icon_color=4a9eff&text_color=333333&hide=contribs&card_width=800" width="96%" />
 
 </div>
 
