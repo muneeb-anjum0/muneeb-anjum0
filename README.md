@@ -69,13 +69,13 @@ const muneeb = {
 [![Grafana](https://skillicons.dev/icons?i=grafana)](https://grafana.com)
 [![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
 [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://tensorflow.org)
-[![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org)
+[![Scikit-learn](https://skillicons.dev/icons?i=sklearn)](https://scikit-learn.org)
+[![Kaggle](https://go-skill-icons.vercel.app/api/icons?i=kaggle)](https://kaggle.com)
+[![Hugging Face](https://go-skill-icons.vercel.app/api/icons?i=huggingface)](https://huggingface.co)
+[![Jupyter](https://go-skill-icons.vercel.app/api/icons?i=jupyter)](https://jupyter.org)
+[![Pandas](https://go-skill-icons.vercel.app/api/icons?i=pandas)](https://pandas.pydata.org)
+[![NumPy](https://go-skill-icons.vercel.app/api/icons?i=numpy)](https://numpy.org)
+[![OpenCV](https://skillicons.dev/icons?i=opencv)](https://opencv.org)
 
 </div>
 
