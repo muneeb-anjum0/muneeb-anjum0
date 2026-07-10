@@ -1,6 +1,8 @@
 <h1><samp>PS C:\Users\Public&gt; .\MUNEEB.ps1</samp></h1>
 
-<table border="2" bordercolor="#012456">
+<table width="100%" bgcolor="#012456" cellpadding="2" cellspacing="0">
+<tr><td bgcolor="#012456">
+<table width="100%" bgcolor="#e4f2ff" cellpadding="8" cellspacing="0">
 <tr>
     <td width="100%" bgcolor="#e4f2ff">
       <samp>
@@ -12,8 +14,12 @@
     </td>
   </tr>
 </table>
+</td></tr>
+</table>
 
-<table border="2" bordercolor="#012456">
+<table width="100%" bgcolor="#012456" cellpadding="2" cellspacing="0">
+<tr><td bgcolor="#012456">
+<table width="100%" bgcolor="#e4f2ff" cellpadding="8" cellspacing="0">
 <tr>
     <td width="100%" bgcolor="#e4f2ff">
       <samp>
@@ -26,6 +32,8 @@
       </samp>
     </td>
   </tr>
+</table>
+</td></tr>
 </table>
 
 <div align="center">
@@ -46,7 +54,9 @@
 
 <h1><samp>PS&gt; Get-Profile</samp></h1>
 
-<table border="2" bordercolor="#012456">
+<table width="100%" bgcolor="#012456" cellpadding="2" cellspacing="0">
+<tr><td bgcolor="#012456">
+<table width="100%" bgcolor="#e4f2ff" cellpadding="8" cellspacing="0">
 <tr>
     <td width="100%" bgcolor="#e4f2ff">
       <samp>
@@ -63,10 +73,14 @@
     </td>
   </tr>
 </table>
+</td></tr>
+</table>
 
 <h1><samp>PS&gt; Get-LatestPush</samp></h1>
 
-<table border="2" bordercolor="#012456">
+<table width="100%" bgcolor="#012456" cellpadding="2" cellspacing="0">
+<tr><td bgcolor="#012456">
+<table width="100%" bgcolor="#e4f2ff" cellpadding="8" cellspacing="0">
 <tr>
     <td width="100%" bgcolor="#e4f2ff">
       <samp>
@@ -78,14 +92,20 @@
     </td>
   </tr>
 </table>
+</td></tr>
+</table>
 
 <!-- latest-projects:start -->
 ### [FaultLine](https://github.com/muneeb-anjum0/FaultLine)
 
-<table border="2" bordercolor="#012456">
+<table width="100%" bgcolor="#012456" cellpadding="2" cellspacing="0">
+<tr><td bgcolor="#012456">
+<table width="100%" bgcolor="#e4f2ff" cellpadding="8" cellspacing="0">
   <tr>
     <td width="100%" bgcolor="#e4f2ff"><samp>PS&nbsp;C:\Users\MUNEEB&gt;&nbsp;Open&#8209;FaultLine&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></td>
   </tr>
+</table>
+</td></tr>
 </table>
 
 Recently updated project repository.
@@ -94,10 +114,14 @@ Recently updated project repository.
 
 ### [GradeScope](https://github.com/muneeb-anjum0/GradeScope)
 
-<table border="2" bordercolor="#012456">
+<table width="100%" bgcolor="#012456" cellpadding="2" cellspacing="0">
+<tr><td bgcolor="#012456">
+<table width="100%" bgcolor="#e4f2ff" cellpadding="8" cellspacing="0">
   <tr>
     <td width="100%" bgcolor="#e4f2ff"><samp>PS&nbsp;C:\Users\MUNEEB&gt;&nbsp;Open&#8209;GradeScope&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></td>
   </tr>
+</table>
+</td></tr>
 </table>
 
 A local academic analytics dashboard for SZABIST students, built to transform ZABDESK attendance, marks, GPA, and subject risk data into clear insights, charts, and action plans.
@@ -106,10 +130,14 @@ A local academic analytics dashboard for SZABIST students, built to transform ZA
 
 ### [Drift](https://github.com/muneeb-anjum0/Drift)
 
-<table border="2" bordercolor="#012456">
+<table width="100%" bgcolor="#012456" cellpadding="2" cellspacing="0">
+<tr><td bgcolor="#012456">
+<table width="100%" bgcolor="#e4f2ff" cellpadding="8" cellspacing="0">
   <tr>
     <td width="100%" bgcolor="#e4f2ff"><samp>PS&nbsp;C:\Users\MUNEEB&gt;&nbsp;Open&#8209;Drift&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></td>
   </tr>
+</table>
+</td></tr>
 </table>
 
 DriftLedger detects requirement drift from client messages and turns scope changes into reviewable project decisions.
@@ -119,7 +147,9 @@ DriftLedger detects requirement drift from client messages and turns scope chang
 
 <h1><samp>PS&gt; Get-Stack</samp></h1>
 
-<table border="2" bordercolor="#012456">
+<table width="100%" bgcolor="#012456" cellpadding="2" cellspacing="0">
+<tr><td bgcolor="#012456">
+<table width="100%" bgcolor="#e4f2ff" cellpadding="8" cellspacing="0">
 <tr>
     <td width="100%" bgcolor="#e4f2ff">
       <samp>
@@ -134,10 +164,14 @@ DriftLedger detects requirement drift from client messages and turns scope chang
     </td>
   </tr>
 </table>
+</td></tr>
+</table>
 
 <h1><samp>PS&gt; Get-Rules</samp></h1>
 
-<table border="2" bordercolor="#012456">
+<table width="100%" bgcolor="#012456" cellpadding="2" cellspacing="0">
+<tr><td bgcolor="#012456">
+<table width="100%" bgcolor="#e4f2ff" cellpadding="8" cellspacing="0">
 <tr>
     <td width="100%" bgcolor="#e4f2ff">
       <samp>
@@ -151,6 +185,8 @@ DriftLedger detects requirement drift from client messages and turns scope chang
     </td>
   </tr>
 </table>
+</td></tr>
+</table>
 
 <h1><samp>PS&gt; Get-ContributionActivity</samp></h1>
 
@@ -160,7 +196,9 @@ DriftLedger detects requirement drift from client messages and turns scope chang
   <img alt="Contribution activity graph for muneeb-anjum0" src="https://github-readme-activity-graph.vercel.app/graph?username=muneeb-anjum0&amp;custom_title=Contribution%20Activity&amp;hide_border=true&amp;bg_color=00000000&amp;color=012456&amp;line=0b63ce&amp;point=012456&amp;area=true&amp;area_color=8bd5ff" width="100%">
 </picture>
 
-<table border="2" bordercolor="#012456">
+<table width="100%" bgcolor="#012456" cellpadding="2" cellspacing="0">
+<tr><td bgcolor="#012456">
+<table width="100%" bgcolor="#e4f2ff" cellpadding="8" cellspacing="0">
 <tr>
     <td width="100%" bgcolor="#e4f2ff">
       <samp>
@@ -170,9 +208,12 @@ DriftLedger detects requirement drift from client messages and turns scope chang
     </td>
   </tr>
 </table>
+</td></tr>
+</table>
 
 <h1><samp>PS&gt; Get-GitHubStats</samp></h1>
 
 <p align="center">
-  <img alt="GitHub stats card for muneeb-anjum0" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muneeb-anjum0&amp;theme=transparent" width="100%" height="200">
+  <img alt="GitHub stats card for muneeb-anjum0" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muneeb-anjum0&amp;theme=transparent" width="49%" height="200">
+  <img alt="Repository language stats card for muneeb-anjum0" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muneeb-anjum0&amp;theme=transparent" width="49%" height="200">
 </p>
