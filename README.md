@@ -1,11 +1,8 @@
 <h1><samp>PS C:\Users\Public&gt; .\MUNEEB.ps1</samp></h1>
 
 <table>
-  <tr>
-    <td width="100%" bgcolor="#dff1ff"><samp>&nbsp;</samp></td>
-  </tr>
-  <tr>
-    <td width="100%" bgcolor="#f6fbff">
+<tr>
+    <td width="100%" bgcolor="#e4f2ff">
       <samp>
         Loading identity profile...<br>
         Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: MUNEEB<br>
@@ -17,11 +14,8 @@
 </table>
 
 <table>
-  <tr>
-    <td width="100%" bgcolor="#dff1ff"><samp>&nbsp;</samp></td>
-  </tr>
-  <tr>
-    <td width="100%" bgcolor="#f6fbff">
+<tr>
+    <td width="100%" bgcolor="#e4f2ff">
       <samp>
         PS C:\Users\MUNEEB&gt; whoami<br>
         Applied AI Developer<br><br>
@@ -51,11 +45,8 @@
 <h1><samp>PS&gt; Get-Profile</samp></h1>
 
 <table>
-  <tr>
-    <td width="100%" bgcolor="#dff1ff"><samp>&nbsp;</samp></td>
-  </tr>
-  <tr>
-    <td width="100%" bgcolor="#f6fbff">
+<tr>
+    <td width="100%" bgcolor="#e4f2ff">
       <samp>
         PS C:\Users\MUNEEB&gt; Get-Profile | Select-Object Focus, Output&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
         Focus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Output<br>
@@ -74,11 +65,8 @@
 <h1><samp>PS&gt; Get-LatestPush</samp></h1>
 
 <table>
-  <tr>
-    <td width="100%" bgcolor="#dff1ff"><samp>&nbsp;</samp></td>
-  </tr>
-  <tr>
-    <td width="100%" bgcolor="#f6fbff">
+<tr>
+    <td width="100%" bgcolor="#e4f2ff">
       <samp>
         PS C:\Users\MUNEEB&gt; Get-Repositories |<br>
         &gt;&gt; Where-Object Name -ne "muneeb-anjum0" |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
@@ -94,10 +82,7 @@
 
 <table>
   <tr>
-    <td width="100%" bgcolor="#dff1ff"><samp>&nbsp;</samp></td>
-  </tr>
-  <tr>
-    <td width="100%" bgcolor="#f6fbff"><samp>PS&nbsp;C:\Users\MUNEEB&gt;&nbsp;Open&#8209;FaultLine&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></td>
+    <td width="100%" bgcolor="#e4f2ff"><samp>PS&nbsp;C:\Users\MUNEEB&gt;&nbsp;Open&#8209;FaultLine&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></td>
   </tr>
 </table>
 
@@ -109,10 +94,7 @@ Recently updated project repository.
 
 <table>
   <tr>
-    <td width="100%" bgcolor="#dff1ff"><samp>&nbsp;</samp></td>
-  </tr>
-  <tr>
-    <td width="100%" bgcolor="#f6fbff"><samp>PS&nbsp;C:\Users\MUNEEB&gt;&nbsp;Open&#8209;GradeScope&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></td>
+    <td width="100%" bgcolor="#e4f2ff"><samp>PS&nbsp;C:\Users\MUNEEB&gt;&nbsp;Open&#8209;GradeScope&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></td>
   </tr>
 </table>
 
@@ -124,10 +106,7 @@ A local academic analytics dashboard for SZABIST students, built to transform ZA
 
 <table>
   <tr>
-    <td width="100%" bgcolor="#dff1ff"><samp>&nbsp;</samp></td>
-  </tr>
-  <tr>
-    <td width="100%" bgcolor="#f6fbff"><samp>PS&nbsp;C:\Users\MUNEEB&gt;&nbsp;Open&#8209;Drift&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></td>
+    <td width="100%" bgcolor="#e4f2ff"><samp>PS&nbsp;C:\Users\MUNEEB&gt;&nbsp;Open&#8209;Drift&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></td>
   </tr>
 </table>
 
@@ -139,11 +118,8 @@ DriftLedger detects requirement drift from client messages and turns scope chang
 <h1><samp>PS&gt; Get-Stack</samp></h1>
 
 <table>
-  <tr>
-    <td width="100%" bgcolor="#dff1ff"><samp>&nbsp;</samp></td>
-  </tr>
-  <tr>
-    <td width="100%" bgcolor="#f6fbff">
+<tr>
+    <td width="100%" bgcolor="#e4f2ff">
       <samp>
         PS C:\Users\MUNEEB&gt; Get-Stack -Grouped<br><br>
         AI/Data&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PyTorch, Hugging Face, Qwen, LoRA, QLoRA, RAG, pgvector&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
@@ -160,11 +136,8 @@ DriftLedger detects requirement drift from client messages and turns scope chang
 <h1><samp>PS&gt; Get-Rules</samp></h1>
 
 <table>
-  <tr>
-    <td width="100%" bgcolor="#dff1ff"><samp>&nbsp;</samp></td>
-  </tr>
-  <tr>
-    <td width="100%" bgcolor="#f6fbff">
+<tr>
+    <td width="100%" bgcolor="#e4f2ff">
       <samp>
         PS C:\Users\MUNEEB&gt; Get-Rules<br><br>
         [1] Build the dataset before trusting the model.<br>
