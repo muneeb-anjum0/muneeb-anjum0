@@ -53,9 +53,11 @@ def tag(label: str, value: str | int) -> str:
 def command_panel(command: str) -> str:
     return "\n".join(
         [
-            "<pre><samp>",
-            f"PS C:\\Users\\MUNEEB&gt; {command}",
-            "</samp></pre>",
+            "<table>",
+            "  <tr>",
+            f"    <td width=\"100%\"><samp>PS C:\\Users\\MUNEEB&gt; {command}</samp></td>",
+            "  </tr>",
+            "</table>",
         ]
     )
 
