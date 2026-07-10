@@ -174,5 +174,5 @@ DriftLedger detects requirement drift from client messages and turns scope chang
 <h1><samp>PS&gt; Get-GitHubStats</samp></h1>
 
 <p align="center">
-  <img alt="GitHub stats card for muneeb-anjum0" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muneeb-anjum0&amp;theme=transparent" width="100%">
+  <img alt="GitHub stats card for muneeb-anjum0" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muneeb-anjum0&amp;theme=transparent" width="100%" height="200">
 </p>
