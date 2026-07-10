@@ -154,10 +154,6 @@ DriftLedger detects requirement drift from client messages and turns scope chang
 
 <h1><samp>PS&gt; Get-ContributionActivity</samp></h1>
 
-<p align="center">
-  <img alt="GitHub stats card for muneeb-anjum0" src="https://github-readme-stats.vercel.app/api?username=muneeb-anjum0&amp;custom_title=GitHub%20Stats&amp;show_icons=true&amp;rank_icon=github&amp;hide_border=false&amp;border_color=8bd5ff&amp;bg_color=012456&amp;title_color=8bd5ff&amp;text_color=d7e9ff&amp;icon_color=8bd5ff" width="58%">
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=muneeb-anjum0&amp;custom_title=Contribution%20Activity&amp;hide_border=true&amp;bg_color=012456&amp;color=d7e9ff&amp;line=8bd5ff&amp;point=ffffff&amp;area=true&amp;area_color=0b63ce">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=muneeb-anjum0&amp;custom_title=Contribution%20Activity&amp;hide_border=true&amp;bg_color=00000000&amp;color=012456&amp;line=0b63ce&amp;point=012456&amp;area=true&amp;area_color=8bd5ff">
@@ -174,3 +170,9 @@ DriftLedger detects requirement drift from client messages and turns scope chang
     </td>
   </tr>
 </table>
+
+<h1><samp>PS&gt; Get-GitHubStats</samp></h1>
+
+<p align="center">
+  <img alt="GitHub stats card for muneeb-anjum0" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muneeb-anjum0&amp;theme=github_dark" width="45%">
+</p>
