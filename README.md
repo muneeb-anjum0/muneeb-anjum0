@@ -1,6 +1,6 @@
 <h1><samp>PS C:\Users\Public&gt; .\MUNEEB.ps1</samp></h1>
 
-<table>
+<table border="2" bordercolor="#012456">
 <tr>
     <td width="100%" bgcolor="#e4f2ff">
       <samp>
@@ -13,7 +13,7 @@
   </tr>
 </table>
 
-<table>
+<table border="2" bordercolor="#012456">
 <tr>
     <td width="100%" bgcolor="#e4f2ff">
       <samp>
@@ -46,7 +46,7 @@
 
 <h1><samp>PS&gt; Get-Profile</samp></h1>
 
-<table>
+<table border="2" bordercolor="#012456">
 <tr>
     <td width="100%" bgcolor="#e4f2ff">
       <samp>
@@ -66,7 +66,7 @@
 
 <h1><samp>PS&gt; Get-LatestPush</samp></h1>
 
-<table>
+<table border="2" bordercolor="#012456">
 <tr>
     <td width="100%" bgcolor="#e4f2ff">
       <samp>
@@ -82,7 +82,7 @@
 <!-- latest-projects:start -->
 ### [FaultLine](https://github.com/muneeb-anjum0/FaultLine)
 
-<table>
+<table border="2" bordercolor="#012456">
   <tr>
     <td width="100%" bgcolor="#e4f2ff"><samp>PS&nbsp;C:\Users\MUNEEB&gt;&nbsp;Open&#8209;FaultLine&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></td>
   </tr>
@@ -94,7 +94,7 @@ Recently updated project repository.
 
 ### [GradeScope](https://github.com/muneeb-anjum0/GradeScope)
 
-<table>
+<table border="2" bordercolor="#012456">
   <tr>
     <td width="100%" bgcolor="#e4f2ff"><samp>PS&nbsp;C:\Users\MUNEEB&gt;&nbsp;Open&#8209;GradeScope&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></td>
   </tr>
@@ -106,7 +106,7 @@ A local academic analytics dashboard for SZABIST students, built to transform ZA
 
 ### [Drift](https://github.com/muneeb-anjum0/Drift)
 
-<table>
+<table border="2" bordercolor="#012456">
   <tr>
     <td width="100%" bgcolor="#e4f2ff"><samp>PS&nbsp;C:\Users\MUNEEB&gt;&nbsp;Open&#8209;Drift&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></td>
   </tr>
@@ -119,7 +119,7 @@ DriftLedger detects requirement drift from client messages and turns scope chang
 
 <h1><samp>PS&gt; Get-Stack</samp></h1>
 
-<table>
+<table border="2" bordercolor="#012456">
 <tr>
     <td width="100%" bgcolor="#e4f2ff">
       <samp>
@@ -137,7 +137,7 @@ DriftLedger detects requirement drift from client messages and turns scope chang
 
 <h1><samp>PS&gt; Get-Rules</samp></h1>
 
-<table>
+<table border="2" bordercolor="#012456">
 <tr>
     <td width="100%" bgcolor="#e4f2ff">
       <samp>
@@ -160,7 +160,7 @@ DriftLedger detects requirement drift from client messages and turns scope chang
   <img alt="Contribution activity graph for muneeb-anjum0" src="https://github-readme-activity-graph.vercel.app/graph?username=muneeb-anjum0&amp;custom_title=Contribution%20Activity&amp;hide_border=true&amp;bg_color=00000000&amp;color=012456&amp;line=0b63ce&amp;point=012456&amp;area=true&amp;area_color=8bd5ff" width="100%">
 </picture>
 
-<table>
+<table border="2" bordercolor="#012456">
 <tr>
     <td width="100%" bgcolor="#e4f2ff">
       <samp>
