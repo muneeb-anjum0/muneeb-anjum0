@@ -7,7 +7,7 @@
         Loading identity profile...<br>
         Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: MUNEEB<br>
         Mode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Applied AI Developer<br>
-        Status&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: building from dataset -&gt; model -&gt; evaluation -&gt; product
+        Status&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: building from dataset -&gt; model -&gt; evaluation -&gt; product&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </samp>
     </td>
   </tr>
@@ -22,7 +22,7 @@
         PS C:\Users\MUNEEB&gt; Get-Location<br>
         Islamabad, Pakistan<br><br>
         PS C:\Users\MUNEEB&gt; Get-Mission<br>
-        Build AI systems from dataset -&gt; model -&gt; evaluation -&gt; product.
+        Build AI systems from dataset -&gt; model -&gt; evaluation -&gt; product.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </samp>
     </td>
   </tr>
@@ -48,7 +48,7 @@
   <tr>
     <td width="100%">
       <samp>
-        PS C:\Users\MUNEEB&gt; Get-Profile | Select-Object Focus, Output<br><br>
+        PS C:\Users\MUNEEB&gt; Get-Profile | Select-Object Focus, Output&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
         Focus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Output<br>
         -----&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;------<br>
         Dataset engineering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;clean training and evaluation data<br>
@@ -69,7 +69,7 @@
     <td width="100%">
       <samp>
         PS C:\Users\MUNEEB&gt; Get-Repositories |<br>
-        &gt;&gt; Where-Object Name -ne "muneeb-anjum0" |<br>
+        &gt;&gt; Where-Object Name -ne "muneeb-anjum0" |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
         &gt;&gt; Sort-Object PushedAt -Descending |<br>
         &gt;&gt; Select-Object -First 3
       </samp>
@@ -122,7 +122,7 @@ DriftLedger detects requirement drift from client messages and turns scope chang
     <td width="100%">
       <samp>
         PS C:\Users\MUNEEB&gt; Get-Stack -Grouped<br><br>
-        AI/Data&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PyTorch, Hugging Face, Qwen, LoRA, QLoRA, RAG, pgvector<br>
+        AI/Data&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PyTorch, Hugging Face, Qwen, LoRA, QLoRA, RAG, pgvector&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
         Inference&nbsp;&nbsp;&nbsp;&nbsp;Ollama, llama.cpp, GGUF, local-first model routing<br>
         Web/API&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;React, Next.js, TypeScript, FastAPI, Flask, Go, Gin<br>
         Storage&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PostgreSQL, MongoDB, Firestore, Redis, SQLite<br>
@@ -143,7 +143,7 @@ DriftLedger detects requirement drift from client messages and turns scope chang
         [1] Build the dataset before trusting the model.<br>
         [2] Measure failure cases, not vibes.<br>
         [3] Keep inference replaceable.<br>
-        [4] Protect credentials and user data by default.<br>
+        [4] Protect credentials and user data by default.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
         [5] Ship the smallest useful system.
       </samp>
     </td>
