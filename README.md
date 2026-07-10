@@ -1,4 +1,11 @@
-# MUNEEB
+<h1><samp>PS C:\Users\Public&gt; .\MUNEEB.ps1</samp></h1>
+
+```powershell
+Loading identity profile...
+Name        : MUNEEB
+Mode        : Applied AI Developer
+Status      : building from dataset -> model -> evaluation -> product
+```
 
 ```powershell
 PS C:\Users\MUNEEB> whoami
@@ -11,9 +18,13 @@ PS C:\Users\MUNEEB> Get-Mission
 Build AI systems from dataset -> model -> evaluation -> product.
 ```
 
-[Portfolio](https://muneeb-anjum.vercel.app/) |
-[LinkedIn](https://linkedin.com/in/muneebanjum335) |
-[Email](mailto:muneeb.anjum0@gmail.com)
+<p>
+  <a href="https://personalwebbie.web.app/"><samp>Start-Process Portfolio</samp></a>
+  &nbsp;|&nbsp;
+  <a href="https://linkedin.com/in/muneebanjum335"><samp>Connect-LinkedIn</samp></a>
+  &nbsp;|&nbsp;
+  <a href="mailto:muneeb.anjum0@gmail.com"><samp>Send-Mail</samp></a>
+</p>
 
 <h1><samp>PS&gt; Get-Profile</samp></h1>
 
