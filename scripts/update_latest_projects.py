@@ -51,11 +51,12 @@ def tag(label: str, value: str | int) -> str:
 
 
 def command_panel(command: str) -> str:
+    spacer = "&nbsp;" * 96
     return "\n".join(
         [
             "<table>",
             "  <tr>",
-            f"    <td width=\"100%\"><samp>PS C:\\Users\\MUNEEB&gt; {command}</samp></td>",
+            f"    <td width=\"100%\"><samp>PS C:\\Users\\MUNEEB&gt; {command}{spacer}</samp></td>",
             "  </tr>",
             "</table>",
         ]
