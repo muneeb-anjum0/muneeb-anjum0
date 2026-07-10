@@ -15,7 +15,7 @@ Build AI systems from dataset -> model -> evaluation -> product.
 [LinkedIn](https://linkedin.com/in/muneebanjum335) |
 [Email](mailto:muneeb.anjum0@gmail.com)
 
-# <kbd><b>Get-Profile</b></kbd>
+<h1><samp>PS&gt; Get-Profile</samp></h1>
 
 ```powershell
 PS C:\Users\MUNEEB> Get-Profile | Select-Object Focus, Output
@@ -30,7 +30,7 @@ Product engineering           APIs, dashboards, auth, automation
 Systems fundamentals          C++, OpenGL, Java, algorithms
 ```
 
-# <kbd><b>Get-LatestPush</b></kbd>
+<h1><samp>PS&gt; Get-LatestPush</samp></h1>
 
 ```powershell
 PS C:\Users\MUNEEB> Get-Repositories |
@@ -71,7 +71,7 @@ DriftLedger detects requirement drift from client messages and turns scope chang
 <kbd><b>Language: TypeScript</b></kbd> <kbd><b>Commits: 92</b></kbd> <kbd><b>PRs: 8</b></kbd> <kbd><b>Last pushed: 2026-07-08</b></kbd>
 <!-- latest-projects:end -->
 
-# <kbd><b>Get-Stack</b></kbd>
+<h1><samp>PS&gt; Get-Stack</samp></h1>
 
 ```powershell
 PS C:\Users\MUNEEB> Get-Stack -Grouped
@@ -84,7 +84,7 @@ Quality      Playwright, pytest, Vitest, evaluation gates, CI checks
 Native       C++, OpenGL, Dear ImGui, Java
 ```
 
-# <kbd><b>Get-Rules</b></kbd>
+<h1><samp>PS&gt; Get-Rules</samp></h1>
 
 ```powershell
 PS C:\Users\MUNEEB> Get-Rules
@@ -96,7 +96,7 @@ PS C:\Users\MUNEEB> Get-Rules
 [5] Ship the smallest useful system.
 ```
 
-# <kbd><b>Get-ContributionActivity</b></kbd>
+<h1><samp>PS&gt; Get-ContributionActivity</samp></h1>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=muneeb-anjum0&amp;custom_title=Contribution%20Activity&amp;hide_border=true&amp;bg_color=012456&amp;color=d7e9ff&amp;line=8bd5ff&amp;point=ffffff&amp;area=true&amp;area_color=0b63ce">
