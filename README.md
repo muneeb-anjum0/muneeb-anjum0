@@ -28,7 +28,8 @@
   </tr>
 </table>
 
-<table width="100%">
+<div align="center">
+<table>
   <tr>
     <td align="center">
       <a href="https://personalwebbie.web.app/"><samp><b>PS&gt; Start-Process Portfolio</b></samp></a>
@@ -41,6 +42,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 <h1><samp>PS&gt; Get-Profile</samp></h1>
 
