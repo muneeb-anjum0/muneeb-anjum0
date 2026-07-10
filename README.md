@@ -39,17 +39,16 @@ PS C:\Users\MUNEEB> Get-Repositories |
 >> Select-Object -First 3
 ```
 
+<!-- latest-projects:start -->
 ### [FaultLine](https://github.com/muneeb-anjum0/FaultLine)
 
 ```powershell
 PS C:\Users\MUNEEB> Open-FaultLine
 ```
 
-Release-risk intelligence that turns support signals into structured incident
-data, then checks them against modules, services, releases, and similar issues.
+Recently updated project repository.
 
-`Python` `stars 0` `forks 0` `pushed 2026-07-09` `Qwen 3 8B`
-`QLoRA` `RAG` `pgvector` `FastAPI` `Next.js` `Docker`
+<kbd><b>Language: Python</b></kbd> <kbd><b>Commits: 21</b></kbd> <kbd><b>PRs: 0</b></kbd> <kbd><b>Last pushed: 2026-07-09</b></kbd>
 
 ### [GradeScope](https://github.com/muneeb-anjum0/GradeScope)
 
@@ -57,11 +56,9 @@ data, then checks them against modules, services, releases, and similar issues.
 PS C:\Users\MUNEEB> Open-GradeScope
 ```
 
-Local academic analytics dashboard that syncs portal data and turns attendance,
-marks, GPA, and subject risk into one readable workspace.
+A local academic analytics dashboard for SZABIST students, built to transform ZABDESK attendance, marks, GPA, and subject risk data into clear insights, charts, and action plans.
 
-`Python` `stars 0` `forks 0` `pushed 2026-07-09` `FastAPI`
-`React` `Vite` `Playwright` `Pandas` `portal sync`
+<kbd><b>Language: Python</b></kbd> <kbd><b>Commits: 23</b></kbd> <kbd><b>PRs: 0</b></kbd> <kbd><b>Last pushed: 2026-07-09</b></kbd>
 
 ### [Drift](https://github.com/muneeb-anjum0/Drift)
 
@@ -69,11 +66,10 @@ marks, GPA, and subject risk into one readable workspace.
 PS C:\Users\MUNEEB> Open-Drift
 ```
 
-Requirements-drift control system that compares approved scope against changing
-client intent and turns the difference into reviewable decisions.
+DriftLedger detects requirement drift from client messages and turns scope changes into reviewable project decisions.
 
-`TypeScript` `stars 0` `forks 0` `pushed 2026-07-08` `Qwen 2.5 7B`
-`LoRA` `GGUF` `llama.cpp` `Go/Gin` `FastAPI` `MongoDB` `Docker`
+<kbd><b>Language: TypeScript</b></kbd> <kbd><b>Commits: 92</b></kbd> <kbd><b>PRs: 8</b></kbd> <kbd><b>Last pushed: 2026-07-08</b></kbd>
+<!-- latest-projects:end -->
 
 ## Get-Stack
 
