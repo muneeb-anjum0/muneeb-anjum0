@@ -51,7 +51,7 @@ def tag(label: str, value: str | int) -> str:
 
 
 def command_panel(command: str) -> str:
-    spacer = "&nbsp;" * 96
+    spacer = "&nbsp;" * 48
     prompt = "PS&nbsp;C:\\Users\\MUNEEB&gt;&nbsp;"
     command_text = command.replace("-", "&#8209;")
     return "\n".join(
