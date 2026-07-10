@@ -18,13 +18,19 @@ PS C:\Users\MUNEEB> Get-Mission
 Build AI systems from dataset -> model -> evaluation -> product.
 ```
 
-<p>
-  <a href="https://personalwebbie.web.app/"><samp>Start-Process Portfolio</samp></a>
-  &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/muneebanjum335"><samp>Connect-LinkedIn</samp></a>
-  &nbsp;|&nbsp;
-  <a href="mailto:muneeb.anjum0@gmail.com"><samp>Send-Mail</samp></a>
-</p>
+<table width="100%">
+  <tr>
+    <td align="center">
+      <a href="https://personalwebbie.web.app/"><samp><b>PS&gt; Start-Process Portfolio</b></samp></a>
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/muneebanjum335"><samp><b>PS&gt; Connect-LinkedIn</b></samp></a>
+    </td>
+    <td align="center">
+      <a href="mailto:muneeb.anjum0@gmail.com"><samp><b>PS&gt; Send-Mail</b></samp></a>
+    </td>
+  </tr>
+</table>
 
 <h1><samp>PS&gt; Get-Profile</samp></h1>
 
@@ -53,7 +59,7 @@ PS C:\Users\MUNEEB> Get-Repositories |
 <!-- latest-projects:start -->
 ### [FaultLine](https://github.com/muneeb-anjum0/FaultLine)
 
-<table>
+<table width="100%">
   <tr>
     <td><samp>PS C:\Users\MUNEEB&gt; Open-FaultLine</samp></td>
   </tr>
@@ -65,7 +71,7 @@ Recently updated project repository.
 
 ### [GradeScope](https://github.com/muneeb-anjum0/GradeScope)
 
-<table>
+<table width="100%">
   <tr>
     <td><samp>PS C:\Users\MUNEEB&gt; Open-GradeScope</samp></td>
   </tr>
@@ -77,7 +83,7 @@ A local academic analytics dashboard for SZABIST students, built to transform ZA
 
 ### [Drift](https://github.com/muneeb-anjum0/Drift)
 
-<table>
+<table width="100%">
   <tr>
     <td><samp>PS C:\Users\MUNEEB&gt; Open-Drift</samp></td>
   </tr>
