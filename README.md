@@ -210,10 +210,3 @@ DriftLedger detects requirement drift from client messages and turns scope chang
 </table>
 </td></tr>
 </table>
-
-<h1><samp>PS&gt; Get-GitHubStats</samp></h1>
-
-<p align="center">
-  <img alt="GitHub stats card for muneeb-anjum0" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muneeb-anjum0&amp;theme=transparent" width="49%" height="200">
-  <img alt="Repository language stats card for muneeb-anjum0" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muneeb-anjum0&amp;theme=transparent" width="49%" height="200">
-</p>
