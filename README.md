@@ -32,13 +32,13 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://personalwebbie.web.app/"><samp><b>PS&gt; Start-Portfolio</b></samp></a>
+      <a href="https://personalwebbie.web.app/"><samp><b>PS&gt; Start-Portfolio&nbsp;</b></samp></a>
     </td>
     <td align="center">
       <a href="https://linkedin.com/in/muneebanjum335"><samp><b>PS&gt; Connect-LinkedIn</b></samp></a>
     </td>
     <td align="center">
-      <a href="mailto:muneeb.anjum0@gmail.com"><samp><b>PS&gt; Send-Mail</b></samp></a>
+      <a href="mailto:muneeb.anjum0@gmail.com"><samp><b>&nbsp;&nbsp;&nbsp;PS&gt; Send-Mail&nbsp;&nbsp;&nbsp;&nbsp;</b></samp></a>
     </td>
   </tr>
 </table>
@@ -160,7 +160,13 @@ DriftLedger detects requirement drift from client messages and turns scope chang
   <img alt="Contribution activity graph for muneeb-anjum0" src="https://github-readme-activity-graph.vercel.app/graph?username=muneeb-anjum0&amp;custom_title=Contribution%20Activity&amp;hide_border=true&amp;bg_color=00000000&amp;color=012456&amp;line=0b63ce&amp;point=012456&amp;area=true&amp;area_color=8bd5ff" width="100%">
 </picture>
 
-```powershell
-PS C:\Users\MUNEEB> exit
-build the data; test the model; ship the system
-```
+<table>
+<tr>
+    <td width="100%" bgcolor="#e4f2ff">
+      <samp>
+        PS C:\Users\MUNEEB&gt; exit<br>
+        build the data; test the model; ship the system&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </samp>
+    </td>
+  </tr>
+</table>
