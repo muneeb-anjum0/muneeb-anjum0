@@ -19,6 +19,7 @@ PROFILE_REPO = os.environ.get("PROFILE_REPO", "muneeb-anjum0")
 README = Path(os.environ.get("README_PATH", "README.md"))
 START = "<!-- latest-projects:start -->"
 END = "<!-- latest-projects:end -->"
+PANEL_EXTRA_PADDING = 48
 
 
 def api_json(path: str):
@@ -50,8 +51,8 @@ def tag(label: str, value: str | int) -> str:
     return f"<kbd><b>{label}: {value}</b></kbd>"
 
 
-def command_panel(command: str) -> str:
-    spacer = "&nbsp;" * 48
+def command_panel(command: str, target_length: int) -> str:
+    spacer = "&nbsp;" * max(0, target_length - len(command))
     prompt = "PS&nbsp;C:\\Users\\MUNEEB&gt;&nbsp;"
     command_text = command.replace("-", "&#8209;")
     return "\n".join(
@@ -92,7 +93,7 @@ def fetch_latest_repos() -> list[dict]:
     return projects[:3]
 
 
-def render_project(repo: dict) -> str:
+def render_project(repo: dict, target_command_length: int) -> str:
     name = repo["name"]
     default_branch = repo.get("default_branch") or "main"
     language = repo.get("language") or "Mixed"
@@ -113,7 +114,7 @@ def render_project(repo: dict) -> str:
         [
             f"### [{name}]({repo['html_url']})",
             "",
-            command_panel(f"Open-{name}"),
+            command_panel(f"Open-{name}", target_command_length),
             "",
             repo_description(repo),
             "",
@@ -128,7 +129,12 @@ def main() -> int:
         if len(projects) < 3:
             raise RuntimeError("Expected at least three project repositories.")
 
-        generated = "\n\n".join(render_project(repo) for repo in projects)
+        commands = [f"Open-{repo['name']}" for repo in projects]
+        target_command_length = max(len(command) for command in commands)
+        target_command_length += PANEL_EXTRA_PADDING
+        generated = "\n\n".join(
+            render_project(repo, target_command_length) for repo in projects
+        )
         replacement = f"{START}\n{generated}\n{END}"
 
         readme = README.read_text(encoding="utf-8")
