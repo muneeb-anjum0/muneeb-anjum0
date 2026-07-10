@@ -60,7 +60,10 @@ def command_panel(command: str, target_length: int) -> str:
         [
             "<table>",
             "  <tr>",
-            f"    <td width=\"100%\"><samp>{prompt}{command_text}{spacer}</samp></td>",
+            "    <td width=\"100%\" bgcolor=\"#dff1ff\"><samp>&nbsp;</samp></td>",
+            "  </tr>",
+            "  <tr>",
+            f"    <td width=\"100%\" bgcolor=\"#f6fbff\"><samp>{prompt}{command_text}{spacer}</samp></td>",
             "  </tr>",
             "</table>",
         ]
