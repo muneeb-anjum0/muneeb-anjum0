@@ -33,39 +33,60 @@ Systems fundamentals          C++, OpenGL, Java, algorithms
 ## Get-Projects
 
 ```powershell
-PS C:\Users\MUNEEB> Get-Projects -Featured
+PS C:\Users\MUNEEB> Get-Projects -Featured | Group-Object System
 ```
 
-- `Open-FaultLine`
-  [FaultLine](https://github.com/muneeb-anjum0/FaultLine) turns support signals
-  into release-risk intelligence with Qwen 3 8B, QLoRA datasets, RAG, pgvector,
-  FastAPI, Next.js, PostgreSQL, Redis, and Docker. Fine-tuned models stay
-  inactive until they beat the base model in evaluation.
+### AI systems
 
-- `Open-AudioAware`
-  [AudioAware](https://github.com/muneeb-anjum0/AudioAware) screens local audio
-  with WavLM, AST, WebRTC VAD, PyTorch, Hugging Face, FastAPI, and React. Speech
-  and environmental audio route through different model branches.
+```powershell
+PS C:\Users\MUNEEB> Get-Project FaultLine, AudioAware, Drift
 
-- `Open-Drift`
-  [Drift](https://github.com/muneeb-anjum0/Drift) compares approved requirements
-  with changing client intent using Qwen 2.5 7B, LoRA, GGUF, llama.cpp, Go/Gin,
-  FastAPI, React, MongoDB, and Docker.
+Name        What it proves
+----        --------------
+FaultLine   dataset engineering, QLoRA, RAG, evaluation-gated activation
+AudioAware  local multimodal inference with speech/environment routing
+Drift       local LLM scope control with GGUF, llama.cpp, Go, and FastAPI
+```
 
-- `Open-ClassWire`
-  [ClassWire](https://github.com/muneeb-anjum0/ClassWire) automates Gmail
-  timetables with Google OAuth, Flask, React, Firestore, encrypted credentials,
-  signed HTTP-only sessions, and CI security checks.
+- [FaultLine](https://github.com/muneeb-anjum0/FaultLine): release-risk
+  intelligence with Qwen 3 8B, custom datasets, pgvector, PostgreSQL, Redis,
+  FastAPI, Next.js, and Docker.
+- [AudioAware](https://github.com/muneeb-anjum0/AudioAware): audio-authenticity
+  screening with WavLM, AST, WebRTC VAD, PyTorch, Hugging Face, FastAPI, React.
+- [Drift](https://github.com/muneeb-anjum0/Drift): requirements-drift decisions
+  with Qwen 2.5 7B, LoRA, GGUF, llama.cpp, Go/Gin, React, MongoDB, Docker.
 
-- `Open-NorthGrid`
-  [North-Grid](https://github.com/muneeb-anjum0/North-Grid) is a SaaS operations
-  dashboard built with Next.js, TypeScript, Tailwind, Zod, React Hook Form,
-  Recharts, Vitest, and Playwright.
+### Product systems
 
-- `Open-PathFinder`
-  [Path-Finder](https://github.com/muneeb-anjum0/Path-Finder) visualizes maze
-  generation and pathfinding in C++ with OpenGL, Dear ImGui, DFS, BFS, Dijkstra,
-  A*, Prim, Kruskal, and DSU.
+```powershell
+PS C:\Users\MUNEEB> Get-Project ClassWire, North-Grid
+
+Name        What it proves
+----        --------------
+ClassWire   secure automation around Gmail, OAuth, sessions, and Firestore
+North-Grid  connected SaaS workflows, dashboards, forms, charts, tests
+```
+
+- [ClassWire](https://github.com/muneeb-anjum0/ClassWire): timetable automation
+  with Google OAuth, Flask, React, Firestore, encrypted credentials, signed
+  HTTP-only sessions, and CI security checks.
+- [North-Grid](https://github.com/muneeb-anjum0/North-Grid): SaaS operations
+  dashboard with Next.js, TypeScript, Tailwind, Zod, React Hook Form, Recharts,
+  Vitest, and Playwright.
+
+### Native systems
+
+```powershell
+PS C:\Users\MUNEEB> Get-Project Path-Finder
+
+Name         What it proves
+----         --------------
+Path-Finder  algorithm visualization with C++, OpenGL, ImGui, DFS/BFS/Dijkstra/A*
+```
+
+- [Path-Finder](https://github.com/muneeb-anjum0/Path-Finder): maze generation
+  and pathfinding with C++, OpenGL, Dear ImGui, DFS, BFS, Dijkstra, A*, Prim,
+  Kruskal, and Disjoint Set Union.
 
 ## Get-Stack
 
