@@ -53,9 +53,7 @@ PS C:\Users\MUNEEB> Get-Repositories |
 <!-- latest-projects:start -->
 ### [FaultLine](https://github.com/muneeb-anjum0/FaultLine)
 
-```powershell
-PS C:\Users\MUNEEB> Open-FaultLine
-```
+<samp>PS C:\Users\MUNEEB&gt; Open-FaultLine</samp>
 
 Recently updated project repository.
 
@@ -63,9 +61,7 @@ Recently updated project repository.
 
 ### [GradeScope](https://github.com/muneeb-anjum0/GradeScope)
 
-```powershell
-PS C:\Users\MUNEEB> Open-GradeScope
-```
+<samp>PS C:\Users\MUNEEB&gt; Open-GradeScope</samp>
 
 A local academic analytics dashboard for SZABIST students, built to transform ZABDESK attendance, marks, GPA, and subject risk data into clear insights, charts, and action plans.
 
@@ -73,9 +69,7 @@ A local academic analytics dashboard for SZABIST students, built to transform ZA
 
 ### [Drift](https://github.com/muneeb-anjum0/Drift)
 
-```powershell
-PS C:\Users\MUNEEB> Open-Drift
-```
+<samp>PS C:\Users\MUNEEB&gt; Open-Drift</samp>
 
 DriftLedger detects requirement drift from client messages and turns scope changes into reviewable project decisions.
 

@@ -98,9 +98,7 @@ def render_project(repo: dict) -> str:
         [
             f"### [{name}]({repo['html_url']})",
             "",
-            "```powershell",
-            f"PS C:\\Users\\MUNEEB> Open-{name}",
-            "```",
+            f"<samp>PS C:\\Users\\MUNEEB&gt; Open-{name}</samp>",
             "",
             repo_description(repo),
             "",
