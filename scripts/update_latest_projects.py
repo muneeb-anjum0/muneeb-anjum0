@@ -19,7 +19,8 @@ PROFILE_REPO = os.environ.get("PROFILE_REPO", "muneeb-anjum0")
 README = Path(os.environ.get("README_PATH", "README.md"))
 START = "<!-- latest-projects:start -->"
 END = "<!-- latest-projects:end -->"
-PANEL_EXTRA_PADDING = 48
+PANEL_TARGET_WIDTH = 118
+PANEL_PROMPT = "PS C:\\Users\\MUNEEB> "
 
 
 def api_json(path: str):
@@ -52,7 +53,7 @@ def tag(label: str, value: str | int) -> str:
 
 
 def command_panel(command: str, target_length: int) -> str:
-    spacer = "&nbsp;" * max(0, target_length - len(command))
+    spacer = "&nbsp;" * max(0, target_length - len(PANEL_PROMPT) - len(command))
     prompt = "PS&nbsp;C:\\Users\\MUNEEB&gt;&nbsp;"
     command_text = command.replace("-", "&#8209;")
     return "\n".join(
@@ -130,8 +131,10 @@ def main() -> int:
             raise RuntimeError("Expected at least three project repositories.")
 
         commands = [f"Open-{repo['name']}" for repo in projects]
-        target_command_length = max(len(command) for command in commands)
-        target_command_length += PANEL_EXTRA_PADDING
+        target_command_length = max(
+            PANEL_TARGET_WIDTH,
+            max(len(command) for command in commands),
+        )
         generated = "\n\n".join(
             render_project(repo, target_command_length) for repo in projects
         )
