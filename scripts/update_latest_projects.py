@@ -50,6 +50,18 @@ def tag(label: str, value: str | int) -> str:
     return f"<kbd><b>{label}: {value}</b></kbd>"
 
 
+def command_panel(command: str) -> str:
+    return "\n".join(
+        [
+            "<table>",
+            "  <tr>",
+            f"    <td><samp>PS C:\\Users\\MUNEEB&gt; {command}</samp></td>",
+            "  </tr>",
+            "</table>",
+        ]
+    )
+
+
 def repo_description(repo: dict) -> str:
     description = (repo.get("description") or "").strip()
     if description:
@@ -98,7 +110,7 @@ def render_project(repo: dict) -> str:
         [
             f"### [{name}]({repo['html_url']})",
             "",
-            f"<samp>PS C:\\Users\\MUNEEB&gt; Open-{name}</samp>",
+            command_panel(f"Open-{name}"),
             "",
             repo_description(repo),
             "",
