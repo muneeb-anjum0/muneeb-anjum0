@@ -58,11 +58,8 @@ def command_panel(command: str, target_length: int) -> str:
     command_text = command.replace("-", "&#8209;")
     return "\n".join(
         [
-            "<table>",
-            "  <tr>",
-            f"    <td width=\"100%\" bgcolor=\"#e4f2ff\"><samp>{prompt}{command_text}{spacer}</samp></td>",
-            "  </tr>",
-            "</table>",
+            "> [!NOTE]",
+            f"> <samp>{prompt}{command_text}{spacer}</samp>",
         ]
     )
 
