@@ -19,6 +19,7 @@ PROFILE_REPO = os.environ.get("PROFILE_REPO", "muneeb-anjum0")
 README = Path(os.environ.get("README_PATH", "README.md"))
 START = "<!-- latest-projects:start -->"
 END = "<!-- latest-projects:end -->"
+PANEL_TARGET_WIDTH = 118
 PANEL_PROMPT = "PS C:\\Users\\MUNEEB> "
 
 
@@ -51,14 +52,15 @@ def tag(label: str, value: str | int) -> str:
     return f"<kbd><b>{label}: {value}</b></kbd>"
 
 
-def command_panel(command: str) -> str:
+def command_panel(command: str, target_length: int) -> str:
+    spacer = "&nbsp;" * max(0, target_length - len(PANEL_PROMPT) - len(command))
     prompt = "PS&nbsp;C:\\Users\\MUNEEB&gt;&nbsp;"
     command_text = command.replace("-", "&#8209;")
     return "\n".join(
         [
-            "<table width=\"100%\" bgcolor=\"#012456\" cellpadding=\"6\" cellspacing=\"2\">",
+            "<table width=\"100%\" bgcolor=\"#012456\" cellpadding=\"8\" cellspacing=\"2\">",
             "  <tr>",
-            f"    <td width=\"100%\" bgcolor=\"#e4f2ff\"><samp>{prompt}{command_text}</samp></td>",
+            f"    <td width=\"100%\" bgcolor=\"#e4f2ff\"><samp>{prompt}{command_text}{spacer}</samp></td>",
             "  </tr>",
             "</table>",
         ]
@@ -92,7 +94,7 @@ def fetch_latest_repos() -> list[dict]:
     return projects[:3]
 
 
-def render_project(repo: dict) -> str:
+def render_project(repo: dict, target_command_length: int) -> str:
     name = repo["name"]
     default_branch = repo.get("default_branch") or "main"
     language = repo.get("language") or "Mixed"
@@ -113,7 +115,7 @@ def render_project(repo: dict) -> str:
         [
             f"### [{name}]({repo['html_url']})",
             "",
-            command_panel(f"Open-{name}"),
+            command_panel(f"Open-{name}", target_command_length),
             "",
             repo_description(repo),
             "",
@@ -128,8 +130,13 @@ def main() -> int:
         if len(projects) < 3:
             raise RuntimeError("Expected at least three project repositories.")
 
+        commands = [f"Open-{repo['name']}" for repo in projects]
+        target_command_length = max(
+            PANEL_TARGET_WIDTH,
+            max(len(command) for command in commands),
+        )
         generated = "\n\n".join(
-            render_project(repo) for repo in projects
+            render_project(repo, target_command_length) for repo in projects
         )
         replacement = f"{START}\n{generated}\n{END}"
 
