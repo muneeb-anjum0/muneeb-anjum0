@@ -80,6 +80,18 @@
 </table>
 
 <!-- latest-projects:start -->
+### [Drift](https://github.com/muneeb-anjum0/Drift)
+
+<table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
+  <tr>
+    <td width="100%" bgcolor="#e4f2ff"><samp>PS&nbsp;C:\Users\MUNEEB&gt;&nbsp;Open&#8209;Drift&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></td>
+  </tr>
+</table>
+
+DriftLedger detects requirement drift from client messages and turns scope changes into reviewable project decisions.
+
+<kbd><b>Language: TypeScript</b></kbd> <kbd><b>Commits: 97</b></kbd> <kbd><b>PRs: 8</b></kbd> <kbd><b>Last pushed: 2026-07-14</b></kbd>
+
 ### [SnakeGame](https://github.com/muneeb-anjum0/SnakeGame)
 
 <table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
@@ -103,18 +115,6 @@ A feature-rich Java Swing Snake game with Normal and Endless modes, dynamic diff
 A local academic analytics dashboard for SZABIST students, built to transform ZABDESK attendance, marks, GPA, and subject risk data into clear insights, charts, and action plans.
 
 <kbd><b>Language: Python</b></kbd> <kbd><b>Commits: 23</b></kbd> <kbd><b>PRs: 0</b></kbd> <kbd><b>Last pushed: 2026-07-09</b></kbd>
-
-### [Drift](https://github.com/muneeb-anjum0/Drift)
-
-<table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
-  <tr>
-    <td width="100%" bgcolor="#e4f2ff"><samp>PS&nbsp;C:\Users\MUNEEB&gt;&nbsp;Open&#8209;Drift&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></td>
-  </tr>
-</table>
-
-DriftLedger detects requirement drift from client messages and turns scope changes into reviewable project decisions.
-
-<kbd><b>Language: TypeScript</b></kbd> <kbd><b>Commits: 92</b></kbd> <kbd><b>PRs: 8</b></kbd> <kbd><b>Last pushed: 2026-07-08</b></kbd>
 <!-- latest-projects:end -->
 
 <h1><samp>PS&gt; Get-Stack</samp></h1>
