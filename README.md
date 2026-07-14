@@ -90,7 +90,7 @@
 
 Recently updated project repository.
 
-<kbd><b>Language: Mixed</b></kbd> <kbd><b>Commits: 1</b></kbd> <kbd><b>PRs: 0</b></kbd> <kbd><b>Last pushed: 2026-07-14</b></kbd>
+<kbd><b>Language: Python</b></kbd> <kbd><b>Commits: 4</b></kbd> <kbd><b>PRs: 0</b></kbd> <kbd><b>Last pushed: 2026-07-14</b></kbd>
 
 ### [Raqm](https://github.com/muneeb-anjum0/Raqm)
 
