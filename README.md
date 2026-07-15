@@ -80,6 +80,18 @@
 </table>
 
 <!-- latest-projects:start -->
+### [NOPE](https://github.com/muneeb-anjum0/NOPE)
+
+<table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
+  <tr>
+    <td width="100%" bgcolor="#e4f2ff"><samp>PS&nbsp;C:\Users\MUNEEB&gt;&nbsp;Open&#8209;NOPE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></td>
+  </tr>
+</table>
+
+NOPE. is a rules-first, AI-assisted security review platform that scans uploaded apps and repositories, maps findings to evidence, and helps teams understand whether an application is safe to ship.
+
+<kbd><b>Language: Python</b></kbd> <kbd><b>Commits: 17</b></kbd> <kbd><b>PRs: 0</b></kbd> <kbd><b>Last pushed: 2026-07-15</b></kbd>
+
 ### [Gpa-Tracker](https://github.com/muneeb-anjum0/Gpa-Tracker)
 
 <table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
@@ -91,18 +103,6 @@
 Minimal Firebase-powered GPA tracker with email/password auth, manual Firestore saves, semester analytics, and a clean dock-based interface.
 
 <kbd><b>Language: JavaScript</b></kbd> <kbd><b>Commits: 17</b></kbd> <kbd><b>PRs: 0</b></kbd> <kbd><b>Last pushed: 2026-07-15</b></kbd>
-
-### [NOPE](https://github.com/muneeb-anjum0/NOPE)
-
-<table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
-  <tr>
-    <td width="100%" bgcolor="#e4f2ff"><samp>PS&nbsp;C:\Users\MUNEEB&gt;&nbsp;Open&#8209;NOPE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></td>
-  </tr>
-</table>
-
-NOPE. is a rules-first, AI-assisted security review platform that scans uploaded apps and repositories, maps findings to evidence, and helps teams understand whether an application is safe to ship.
-
-<kbd><b>Language: Python</b></kbd> <kbd><b>Commits: 12</b></kbd> <kbd><b>PRs: 0</b></kbd> <kbd><b>Last pushed: 2026-07-15</b></kbd>
 
 ### [Raqm](https://github.com/muneeb-anjum0/Raqm)
 
