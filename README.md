@@ -90,7 +90,7 @@
 
 Local-first AppSec review workbench for authorized repository and URL scans, with deterministic scanners, evidence-gated findings, reports, drift, and optional local Qwen explanations.
 
-<kbd><b>Language: Python</b></kbd> <kbd><b>Commits: 91</b></kbd> <kbd><b>PRs: 0</b></kbd> <kbd><b>Last pushed: 2026-07-19</b></kbd>
+<kbd><b>Language: Python</b></kbd> <kbd><b>Commits: 97</b></kbd> <kbd><b>PRs: 0</b></kbd> <kbd><b>Last pushed: 2026-07-19</b></kbd>
 
 ### [Gpa-Tracker](https://github.com/muneeb-anjum0/Gpa-Tracker)
 
