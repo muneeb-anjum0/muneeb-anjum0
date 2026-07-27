@@ -80,6 +80,18 @@
 </table>
 
 <!-- latest-projects:start -->
+### [ClassWire](https://github.com/muneeb-anjum0/ClassWire)
+
+<table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
+  <tr>
+    <td width="100%" bgcolor="#e4f2ff"><samp>PS&nbsp;C:\Users\MUNEEB&gt;&nbsp;Open&#8209;ClassWire&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></td>
+  </tr>
+</table>
+
+Inbox2table extracts class schedule emails from Gmail, parses timetable information, and displays organized schedules with semester filtering and multi-user persistence. Built with Flask, React, and Supabase.
+
+<kbd><b>Language: Python</b></kbd> <kbd><b>Commits: 126</b></kbd> <kbd><b>PRs: 28</b></kbd> <kbd><b>Last pushed: 2026-07-27</b></kbd>
+
 ### [the-interview](https://github.com/muneeb-anjum0/the-interview)
 
 <table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
@@ -91,18 +103,6 @@
 Recently updated project repository.
 
 <kbd><b>Language: C++</b></kbd> <kbd><b>Commits: 3</b></kbd> <kbd><b>PRs: 0</b></kbd> <kbd><b>Last pushed: 2026-07-20</b></kbd>
-
-### [ClassWire](https://github.com/muneeb-anjum0/ClassWire)
-
-<table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
-  <tr>
-    <td width="100%" bgcolor="#e4f2ff"><samp>PS&nbsp;C:\Users\MUNEEB&gt;&nbsp;Open&#8209;ClassWire&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></td>
-  </tr>
-</table>
-
-Inbox2table extracts class schedule emails from Gmail, parses timetable information, and displays organized schedules with semester filtering and multi-user persistence. Built with Flask, React, and Supabase.
-
-<kbd><b>Language: Python</b></kbd> <kbd><b>Commits: 126</b></kbd> <kbd><b>PRs: 27</b></kbd> <kbd><b>Last pushed: 2026-07-20</b></kbd>
 
 ### [NOPE](https://github.com/muneeb-anjum0/NOPE)
 
