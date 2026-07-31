@@ -80,6 +80,18 @@
 </table>
 
 <!-- latest-projects:start -->
+### [personal-error-101](https://github.com/muneeb-anjum0/personal-error-101)
+
+<table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
+  <tr>
+    <td width="100%" bgcolor="#e4f2ff"><samp>PS&nbsp;C:\Users\MUNEEB&gt;&nbsp;Open&#8209;personal&#8209;error&#8209;101&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></td>
+  </tr>
+</table>
+
+Recently updated project repository.
+
+<kbd><b>Language: Mixed</b></kbd> <kbd><b>Commits: 1</b></kbd> <kbd><b>PRs: 0</b></kbd> <kbd><b>Last pushed: 2026-07-30</b></kbd>
+
 ### [NOPE](https://github.com/muneeb-anjum0/NOPE)
 
 <table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
@@ -103,18 +115,6 @@ Local-first AppSec review workbench for authorized repository and URL scans, wit
 Inbox2table extracts class schedule emails from Gmail, parses timetable information, and displays organized schedules with semester filtering and multi-user persistence. Built with Flask, React, and Supabase.
 
 <kbd><b>Language: Python</b></kbd> <kbd><b>Commits: 126</b></kbd> <kbd><b>PRs: 28</b></kbd> <kbd><b>Last pushed: 2026-07-27</b></kbd>
-
-### [the-interview](https://github.com/muneeb-anjum0/the-interview)
-
-<table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
-  <tr>
-    <td width="100%" bgcolor="#e4f2ff"><samp>PS&nbsp;C:\Users\MUNEEB&gt;&nbsp;Open&#8209;the&#8209;interview&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></td>
-  </tr>
-</table>
-
-Recently updated project repository.
-
-<kbd><b>Language: C++</b></kbd> <kbd><b>Commits: 3</b></kbd> <kbd><b>PRs: 0</b></kbd> <kbd><b>Last pushed: 2026-07-20</b></kbd>
 <!-- latest-projects:end -->
 
 <h1><samp>PS&gt; Get-Stack</samp></h1>
