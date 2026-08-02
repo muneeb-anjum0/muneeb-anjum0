@@ -90,7 +90,7 @@
 
 Local-first AppSec review workbench for authorized repository and URL scans, with deterministic scanners, evidence-gated findings, reports, drift, and optional local Qwen explanations.
 
-<kbd><b>Language: Python</b></kbd> <kbd><b>Commits: 109</b></kbd> <kbd><b>PRs: 0</b></kbd> <kbd><b>Last pushed: 2026-08-02</b></kbd>
+<kbd><b>Language: Python</b></kbd> <kbd><b>Commits: 109</b></kbd> <kbd><b>PRs: 1</b></kbd> <kbd><b>Last pushed: 2026-08-02</b></kbd>
 
 ### [personal-error-101](https://github.com/muneeb-anjum0/personal-error-101)
 
