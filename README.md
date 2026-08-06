@@ -80,6 +80,18 @@
 </table>
 
 <!-- latest-projects:start -->
+### [Lyst](https://github.com/muneeb-anjum0/Lyst)
+
+<table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
+  <tr>
+    <td width="100%" bgcolor="#e4f2ff"><samp>PS&nbsp;C:\Users\MUNEEB&gt;&nbsp;Open&#8209;Lyst&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></td>
+  </tr>
+</table>
+
+Recently updated project repository.
+
+<kbd><b>Language: JavaScript</b></kbd> <kbd><b>Commits: 2</b></kbd> <kbd><b>PRs: 0</b></kbd> <kbd><b>Last pushed: 2026-08-06</b></kbd>
+
 ### [personal-error-101](https://github.com/muneeb-anjum0/personal-error-101)
 
 <table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
@@ -103,18 +115,6 @@ Recently updated project repository.
 Local-first AppSec review workbench for authorized repository and URL scans, with deterministic scanners, evidence-gated findings, reports, drift, and optional local Qwen explanations.
 
 <kbd><b>Language: Python</b></kbd> <kbd><b>Commits: 109</b></kbd> <kbd><b>PRs: 1</b></kbd> <kbd><b>Last pushed: 2026-08-02</b></kbd>
-
-### [ClassWire](https://github.com/muneeb-anjum0/ClassWire)
-
-<table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
-  <tr>
-    <td width="100%" bgcolor="#e4f2ff"><samp>PS&nbsp;C:\Users\MUNEEB&gt;&nbsp;Open&#8209;ClassWire&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></td>
-  </tr>
-</table>
-
-Inbox2table extracts class schedule emails from Gmail, parses timetable information, and displays organized schedules with semester filtering and multi-user persistence. Built with Flask, React, and Supabase.
-
-<kbd><b>Language: Python</b></kbd> <kbd><b>Commits: 126</b></kbd> <kbd><b>PRs: 28</b></kbd> <kbd><b>Last pushed: 2026-07-27</b></kbd>
 <!-- latest-projects:end -->
 
 <h1><samp>PS&gt; Get-Stack</samp></h1>
