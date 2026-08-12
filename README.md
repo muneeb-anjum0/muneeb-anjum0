@@ -90,7 +90,7 @@
 
 Minimal offline-first list app with natural language parsing and AI-assisted list generation.
 
-<kbd><b>Language: JavaScript</b></kbd> <kbd><b>Commits: 15</b></kbd> <kbd><b>PRs: 0</b></kbd> <kbd><b>Last pushed: 2026-08-10</b></kbd>
+<kbd><b>Language: JavaScript</b></kbd> <kbd><b>Commits: 20</b></kbd> <kbd><b>PRs: 2</b></kbd> <kbd><b>Last pushed: 2026-08-12</b></kbd>
 
 ### [personal-error-101](https://github.com/muneeb-anjum0/personal-error-101)
 
