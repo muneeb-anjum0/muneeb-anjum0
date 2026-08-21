@@ -80,6 +80,18 @@
 </table>
 
 <!-- latest-projects:start -->
+### [NOPE](https://github.com/muneeb-anjum0/NOPE)
+
+<table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
+  <tr>
+    <td width="100%" bgcolor="#e4f2ff"><samp>PS&nbsp;C:\Users\MUNEEB&gt;&nbsp;Open&#8209;NOPE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></td>
+  </tr>
+</table>
+
+Local-first AppSec review workbench for authorized repository and URL scans, with deterministic scanners, evidence-gated findings, reports, drift, and optional local Qwen explanations.
+
+<kbd><b>Language: Python</b></kbd> <kbd><b>Commits: 111</b></kbd> <kbd><b>PRs: 1</b></kbd> <kbd><b>Last pushed: 2026-08-21</b></kbd>
+
 ### [personal-error-101](https://github.com/muneeb-anjum0/personal-error-101)
 
 <table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
@@ -103,18 +115,6 @@ Recently updated project repository.
 Minimal offline-first list app with natural language parsing and AI-assisted list generation.
 
 <kbd><b>Language: JavaScript</b></kbd> <kbd><b>Commits: 30</b></kbd> <kbd><b>PRs: 7</b></kbd> <kbd><b>Last pushed: 2026-08-21</b></kbd>
-
-### [NOPE](https://github.com/muneeb-anjum0/NOPE)
-
-<table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
-  <tr>
-    <td width="100%" bgcolor="#e4f2ff"><samp>PS&nbsp;C:\Users\MUNEEB&gt;&nbsp;Open&#8209;NOPE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></td>
-  </tr>
-</table>
-
-Local-first AppSec review workbench for authorized repository and URL scans, with deterministic scanners, evidence-gated findings, reports, drift, and optional local Qwen explanations.
-
-<kbd><b>Language: Python</b></kbd> <kbd><b>Commits: 109</b></kbd> <kbd><b>PRs: 1</b></kbd> <kbd><b>Last pushed: 2026-08-02</b></kbd>
 <!-- latest-projects:end -->
 
 <h1><samp>PS&gt; Get-Stack</samp></h1>
