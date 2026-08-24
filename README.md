@@ -80,6 +80,18 @@
 </table>
 
 <!-- latest-projects:start -->
+### [personal-error-101](https://github.com/muneeb-anjum0/personal-error-101)
+
+<table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
+  <tr>
+    <td width="100%" bgcolor="#e4f2ff"><samp>PS&nbsp;C:\Users\MUNEEB&gt;&nbsp;Open&#8209;personal&#8209;error&#8209;101&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></td>
+  </tr>
+</table>
+
+Recently updated project repository.
+
+<kbd><b>Language: TypeScript</b></kbd> <kbd><b>Commits: 33</b></kbd> <kbd><b>PRs: 37</b></kbd> <kbd><b>Last pushed: 2026-08-24</b></kbd>
+
 ### [NOPE](https://github.com/muneeb-anjum0/NOPE)
 
 <table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
@@ -91,18 +103,6 @@
 Local-first AppSec review workbench for authorized repository and URL scans, with deterministic scanners, evidence-gated findings, reports, drift, and optional local Qwen explanations.
 
 <kbd><b>Language: Python</b></kbd> <kbd><b>Commits: 112</b></kbd> <kbd><b>PRs: 1</b></kbd> <kbd><b>Last pushed: 2026-08-21</b></kbd>
-
-### [personal-error-101](https://github.com/muneeb-anjum0/personal-error-101)
-
-<table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
-  <tr>
-    <td width="100%" bgcolor="#e4f2ff"><samp>PS&nbsp;C:\Users\MUNEEB&gt;&nbsp;Open&#8209;personal&#8209;error&#8209;101&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></td>
-  </tr>
-</table>
-
-Recently updated project repository.
-
-<kbd><b>Language: TypeScript</b></kbd> <kbd><b>Commits: 33</b></kbd> <kbd><b>PRs: 32</b></kbd> <kbd><b>Last pushed: 2026-08-21</b></kbd>
 
 ### [Lyst](https://github.com/muneeb-anjum0/Lyst)
 
