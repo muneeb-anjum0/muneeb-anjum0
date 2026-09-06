@@ -88,9 +88,9 @@
   </tr>
 </table>
 
-Recently updated project repository.
+A comic-styled personal and household ledger for giving every rupee a job.
 
-<kbd><b>Language: JavaScript</b></kbd> <kbd><b>Commits: 48</b></kbd> <kbd><b>PRs: 0</b></kbd> <kbd><b>Last pushed: 2026-09-05</b></kbd>
+<kbd><b>Language: JavaScript</b></kbd> <kbd><b>Commits: 56</b></kbd> <kbd><b>PRs: 0</b></kbd> <kbd><b>Last pushed: 2026-09-06</b></kbd>
 
 ### [personal-error-101](https://github.com/muneeb-anjum0/personal-error-101)
 
