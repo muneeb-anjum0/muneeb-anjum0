@@ -90,7 +90,7 @@
 
 A comic-styled personal and household ledger for giving every rupee a job.
 
-<kbd><b>Language: JavaScript</b></kbd> <kbd><b>Commits: 87</b></kbd> <kbd><b>PRs: 0</b></kbd> <kbd><b>Last pushed: 2026-09-09</b></kbd>
+<kbd><b>Language: JavaScript</b></kbd> <kbd><b>Commits: 95</b></kbd> <kbd><b>PRs: 0</b></kbd> <kbd><b>Last pushed: 2026-09-10</b></kbd>
 
 ### [microsoft-office-install-guide](https://github.com/muneeb-anjum0/microsoft-office-install-guide)
 
