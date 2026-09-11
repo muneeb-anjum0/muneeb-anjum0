@@ -80,6 +80,18 @@
 </table>
 
 <!-- latest-projects:start -->
+### [Lyst](https://github.com/muneeb-anjum0/Lyst)
+
+<table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
+  <tr>
+    <td width="100%" bgcolor="#e4f2ff"><samp>PS&nbsp;C:\Users\MUNEEB&gt;&nbsp;Open&#8209;Lyst&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></td>
+  </tr>
+</table>
+
+Minimal offline-first list app with natural language parsing and AI-assisted list generation.
+
+<kbd><b>Language: JavaScript</b></kbd> <kbd><b>Commits: 34</b></kbd> <kbd><b>PRs: 9</b></kbd> <kbd><b>Last pushed: 2026-09-11</b></kbd>
+
 ### [hisabKitab](https://github.com/muneeb-anjum0/hisabKitab)
 
 <table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
@@ -103,18 +115,6 @@ A comic-styled personal and household ledger for giving every rupee a job.
 Recently updated project repository.
 
 <kbd><b>Language: TypeScript</b></kbd> <kbd><b>Commits: 33</b></kbd> <kbd><b>PRs: 49</b></kbd> <kbd><b>Last pushed: 2026-09-11</b></kbd>
-
-### [microsoft-office-install-guide](https://github.com/muneeb-anjum0/microsoft-office-install-guide)
-
-<table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
-  <tr>
-    <td width="100%" bgcolor="#e4f2ff"><samp>PS&nbsp;C:\Users\MUNEEB&gt;&nbsp;Open&#8209;microsoft&#8209;office&#8209;install&#8209;guide&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></td>
-  </tr>
-</table>
-
-Download and install Microsoft Office (Microsoft 365) on Windows using the Office Deployment Tool. Includes custom app selection, XML configuration, and step-by-step setup instructions.
-
-<kbd><b>Language: Mixed</b></kbd> <kbd><b>Commits: 5</b></kbd> <kbd><b>PRs: 0</b></kbd> <kbd><b>Last pushed: 2026-09-08</b></kbd>
 <!-- latest-projects:end -->
 
 <h1><samp>PS&gt; Get-Stack</samp></h1>
