@@ -80,6 +80,18 @@
 </table>
 
 <!-- latest-projects:start -->
+### [Pane](https://github.com/muneeb-anjum0/Pane)
+
+<table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
+  <tr>
+    <td width="100%" bgcolor="#e4f2ff"><samp>PS&nbsp;C:\Users\MUNEEB&gt;&nbsp;Open&#8209;Pane&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></td>
+  </tr>
+</table>
+
+Recently updated project repository.
+
+<kbd><b>Language: Mixed</b></kbd> <kbd><b>Commits: 1</b></kbd> <kbd><b>PRs: 0</b></kbd> <kbd><b>Last pushed: 2026-09-12</b></kbd>
+
 ### [Lyst](https://github.com/muneeb-anjum0/Lyst)
 
 <table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
@@ -90,7 +102,7 @@
 
 Minimal offline-first list app with natural language parsing and AI-assisted list generation.
 
-<kbd><b>Language: JavaScript</b></kbd> <kbd><b>Commits: 64</b></kbd> <kbd><b>PRs: 24</b></kbd> <kbd><b>Last pushed: 2026-09-12</b></kbd>
+<kbd><b>Language: JavaScript</b></kbd> <kbd><b>Commits: 66</b></kbd> <kbd><b>PRs: 25</b></kbd> <kbd><b>Last pushed: 2026-09-12</b></kbd>
 
 ### [hisabKitab](https://github.com/muneeb-anjum0/hisabKitab)
 
@@ -103,18 +115,6 @@ Minimal offline-first list app with natural language parsing and AI-assisted lis
 A comic-styled personal and household ledger for giving every rupee a job.
 
 <kbd><b>Language: JavaScript</b></kbd> <kbd><b>Commits: 102</b></kbd> <kbd><b>PRs: 0</b></kbd> <kbd><b>Last pushed: 2026-09-11</b></kbd>
-
-### [personal-error-101](https://github.com/muneeb-anjum0/personal-error-101)
-
-<table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
-  <tr>
-    <td width="100%" bgcolor="#e4f2ff"><samp>PS&nbsp;C:\Users\MUNEEB&gt;&nbsp;Open&#8209;personal&#8209;error&#8209;101&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></td>
-  </tr>
-</table>
-
-Recently updated project repository.
-
-<kbd><b>Language: TypeScript</b></kbd> <kbd><b>Commits: 33</b></kbd> <kbd><b>PRs: 49</b></kbd> <kbd><b>Last pushed: 2026-09-11</b></kbd>
 <!-- latest-projects:end -->
 
 <h1><samp>PS&gt; Get-Stack</samp></h1>
