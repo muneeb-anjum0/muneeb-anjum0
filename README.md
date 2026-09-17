@@ -80,6 +80,18 @@
 </table>
 
 <!-- latest-projects:start -->
+### [ClassWire](https://github.com/muneeb-anjum0/ClassWire)
+
+<table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
+  <tr>
+    <td width="100%" bgcolor="#e4f2ff"><samp>PS&nbsp;C:\Users\MUNEEB&gt;&nbsp;Open&#8209;ClassWire&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></td>
+  </tr>
+</table>
+
+Inbox2table extracts class schedule emails from Gmail, parses timetable information, and displays organized schedules with semester filtering and multi-user persistence. Built with Flask, React, and Supabase.
+
+<kbd><b>Language: Python</b></kbd> <kbd><b>Commits: 127</b></kbd> <kbd><b>PRs: 29</b></kbd> <kbd><b>Last pushed: 2026-09-17</b></kbd>
+
 ### [hisabKitab](https://github.com/muneeb-anjum0/hisabKitab)
 
 <table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
@@ -90,7 +102,7 @@
 
 A comic-styled personal and household ledger for giving every rupee a job.
 
-<kbd><b>Language: JavaScript</b></kbd> <kbd><b>Commits: 153</b></kbd> <kbd><b>PRs: 0</b></kbd> <kbd><b>Last pushed: 2026-09-17</b></kbd>
+<kbd><b>Language: JavaScript</b></kbd> <kbd><b>Commits: 156</b></kbd> <kbd><b>PRs: 0</b></kbd> <kbd><b>Last pushed: 2026-09-17</b></kbd>
 
 ### [Lyst](https://github.com/muneeb-anjum0/Lyst)
 
@@ -103,18 +115,6 @@ A comic-styled personal and household ledger for giving every rupee a job.
 Minimal offline-first list app with natural language parsing and AI-assisted list generation.
 
 <kbd><b>Language: JavaScript</b></kbd> <kbd><b>Commits: 68</b></kbd> <kbd><b>PRs: 26</b></kbd> <kbd><b>Last pushed: 2026-09-15</b></kbd>
-
-### [personal-error-101](https://github.com/muneeb-anjum0/personal-error-101)
-
-<table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
-  <tr>
-    <td width="100%" bgcolor="#e4f2ff"><samp>PS&nbsp;C:\Users\MUNEEB&gt;&nbsp;Open&#8209;personal&#8209;error&#8209;101&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></td>
-  </tr>
-</table>
-
-Recently updated project repository.
-
-<kbd><b>Language: TypeScript</b></kbd> <kbd><b>Commits: 33</b></kbd> <kbd><b>PRs: 53</b></kbd> <kbd><b>Last pushed: 2026-09-14</b></kbd>
 <!-- latest-projects:end -->
 
 <h1><samp>PS&gt; Get-Stack</samp></h1>
