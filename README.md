@@ -90,7 +90,7 @@
 
 A comic-styled personal and household ledger for giving every rupee a job.
 
-<kbd><b>Language: JavaScript</b></kbd> <kbd><b>Commits: 110</b></kbd> <kbd><b>PRs: 0</b></kbd> <kbd><b>Last pushed: 2026-09-15</b></kbd>
+<kbd><b>Language: JavaScript</b></kbd> <kbd><b>Commits: 140</b></kbd> <kbd><b>PRs: 0</b></kbd> <kbd><b>Last pushed: 2026-09-17</b></kbd>
 
 ### [Lyst](https://github.com/muneeb-anjum0/Lyst)
 
