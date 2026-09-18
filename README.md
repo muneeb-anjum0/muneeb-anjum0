@@ -90,7 +90,7 @@
 
 Inbox2table extracts class schedule emails from Gmail, parses timetable information, and displays organized schedules with semester filtering and multi-user persistence. Built with Flask, React, and Supabase.
 
-<kbd><b>Language: Python</b></kbd> <kbd><b>Commits: 127</b></kbd> <kbd><b>PRs: 29</b></kbd> <kbd><b>Last pushed: 2026-09-17</b></kbd>
+<kbd><b>Language: Python</b></kbd> <kbd><b>Commits: 130</b></kbd> <kbd><b>PRs: 32</b></kbd> <kbd><b>Last pushed: 2026-09-17</b></kbd>
 
 ### [hisabKitab](https://github.com/muneeb-anjum0/hisabKitab)
 
