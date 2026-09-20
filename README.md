@@ -88,9 +88,9 @@
   </tr>
 </table>
 
-ClassWire extracts class schedule emails from Gmail, parses timetable information, and displays organized schedules with semester filtering and multi-user persistence. Built with Flask, React, and Supabase.
+Search SZABIST timetables, class schedules, courses, sections, and faculty availability from Gmail using React, Flask, Firestore, and Google OAuth.
 
-<kbd><b>Language: Python</b></kbd> <kbd><b>Commits: 137</b></kbd> <kbd><b>PRs: 39</b></kbd> <kbd><b>Last pushed: 2026-09-20</b></kbd>
+<kbd><b>Language: Python</b></kbd> <kbd><b>Commits: 140</b></kbd> <kbd><b>PRs: 42</b></kbd> <kbd><b>Last pushed: 2026-09-20</b></kbd>
 
 ### [hisabKitab](https://github.com/muneeb-anjum0/hisabKitab)
 
