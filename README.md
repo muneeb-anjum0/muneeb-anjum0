@@ -80,18 +80,6 @@
 </table>
 
 <!-- latest-projects:start -->
-### [ClassWire](https://github.com/muneeb-anjum0/ClassWire)
-
-<table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
-  <tr>
-    <td width="100%" bgcolor="#e4f2ff"><samp>PS&nbsp;C:\Users\MUNEEB&gt;&nbsp;Open&#8209;ClassWire&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></td>
-  </tr>
-</table>
-
-Search SZABIST timetables, class schedules, courses, sections, and faculty availability from Gmail using React, Flask, Firestore, and Google OAuth.
-
-<kbd><b>Language: Python</b></kbd> <kbd><b>Commits: 174</b></kbd> <kbd><b>PRs: 84</b></kbd> <kbd><b>Last pushed: 2026-09-25</b></kbd>
-
 ### [personal-error-101](https://github.com/muneeb-anjum0/personal-error-101)
 
 <table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
@@ -102,7 +90,19 @@ Search SZABIST timetables, class schedules, courses, sections, and faculty avail
 
 Recently updated project repository.
 
-<kbd><b>Language: TypeScript</b></kbd> <kbd><b>Commits: 33</b></kbd> <kbd><b>PRs: 56</b></kbd> <kbd><b>Last pushed: 2026-09-21</b></kbd>
+<kbd><b>Language: TypeScript</b></kbd> <kbd><b>Commits: 33</b></kbd> <kbd><b>PRs: 59</b></kbd> <kbd><b>Last pushed: 2026-09-28</b></kbd>
+
+### [ClassWire](https://github.com/muneeb-anjum0/ClassWire)
+
+<table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
+  <tr>
+    <td width="100%" bgcolor="#e4f2ff"><samp>PS&nbsp;C:\Users\MUNEEB&gt;&nbsp;Open&#8209;ClassWire&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></td>
+  </tr>
+</table>
+
+Search SZABIST timetables, class schedules, courses, sections, and faculty availability from Gmail using React, Flask, Firestore, and Google OAuth.
+
+<kbd><b>Language: Python</b></kbd> <kbd><b>Commits: 174</b></kbd> <kbd><b>PRs: 94</b></kbd> <kbd><b>Last pushed: 2026-09-28</b></kbd>
 
 ### [hisabKitab](https://github.com/muneeb-anjum0/hisabKitab)
 
