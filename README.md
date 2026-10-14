@@ -80,17 +80,17 @@
 </table>
 
 <!-- latest-projects:start -->
-### [ClassWire](https://github.com/muneeb-anjum0/ClassWire)
+### [ClassWire-SZABIST-ISB](https://github.com/muneeb-anjum0/ClassWire-SZABIST-ISB)
 
 <table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
   <tr>
-    <td width="100%" bgcolor="#e4f2ff"><samp>PS&nbsp;C:\Users\MUNEEB&gt;&nbsp;Open&#8209;ClassWire&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></td>
+    <td width="100%" bgcolor="#e4f2ff"><samp>PS&nbsp;C:\Users\MUNEEB&gt;&nbsp;Open&#8209;ClassWire&#8209;SZABIST&#8209;ISB&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></td>
   </tr>
 </table>
 
-Search SZABIST timetables, class schedules, courses, sections, and faculty availability from Gmail using React, Flask, Firestore, and Google OAuth.
+SZABIST Islamabad timetable and ZABDESK schedule search for classes, courses, sections, faculty availability, and clash-aware planning.
 
-<kbd><b>Language: Python</b></kbd> <kbd><b>Commits: 176</b></kbd> <kbd><b>PRs: 96</b></kbd> <kbd><b>Last pushed: 2026-10-13</b></kbd>
+<kbd><b>Language: Python</b></kbd> <kbd><b>Commits: 182</b></kbd> <kbd><b>PRs: 96</b></kbd> <kbd><b>Last pushed: 2026-10-14</b></kbd>
 
 ### [Drift](https://github.com/muneeb-anjum0/Drift)
 
