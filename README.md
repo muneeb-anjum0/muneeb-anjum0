@@ -80,6 +80,18 @@
 </table>
 
 <!-- latest-projects:start -->
+### [ClassWire-SZABIST-ISB](https://github.com/muneeb-anjum0/ClassWire-SZABIST-ISB)
+
+<table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
+  <tr>
+    <td width="100%" bgcolor="#e4f2ff"><samp>PS&nbsp;C:\Users\MUNEEB&gt;&nbsp;Open&#8209;ClassWire&#8209;SZABIST&#8209;ISB&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></td>
+  </tr>
+</table>
+
+SZABIST Islamabad timetable and ZABDESK schedule search for classes, courses, sections, faculty availability, and clash-aware planning.
+
+<kbd><b>Language: Python</b></kbd> <kbd><b>Commits: 183</b></kbd> <kbd><b>PRs: 97</b></kbd> <kbd><b>Last pushed: 2026-10-21</b></kbd>
+
 ### [personal-error-101](https://github.com/muneeb-anjum0/personal-error-101)
 
 <table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
@@ -91,18 +103,6 @@
 Recently updated project repository.
 
 <kbd><b>Language: TypeScript</b></kbd> <kbd><b>Commits: 33</b></kbd> <kbd><b>PRs: 67</b></kbd> <kbd><b>Last pushed: 2026-10-20</b></kbd>
-
-### [ClassWire-SZABIST-ISB](https://github.com/muneeb-anjum0/ClassWire-SZABIST-ISB)
-
-<table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
-  <tr>
-    <td width="100%" bgcolor="#e4f2ff"><samp>PS&nbsp;C:\Users\MUNEEB&gt;&nbsp;Open&#8209;ClassWire&#8209;SZABIST&#8209;ISB&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></td>
-  </tr>
-</table>
-
-SZABIST Islamabad timetable and ZABDESK schedule search for classes, courses, sections, faculty availability, and clash-aware planning.
-
-<kbd><b>Language: Python</b></kbd> <kbd><b>Commits: 182</b></kbd> <kbd><b>PRs: 96</b></kbd> <kbd><b>Last pushed: 2026-10-14</b></kbd>
 
 ### [Drift](https://github.com/muneeb-anjum0/Drift)
 
