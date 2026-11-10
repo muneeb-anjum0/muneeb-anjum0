@@ -80,6 +80,18 @@
 </table>
 
 <!-- latest-projects:start -->
+### [Drift](https://github.com/muneeb-anjum0/Drift)
+
+<table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
+  <tr>
+    <td width="100%" bgcolor="#e4f2ff"><samp>PS&nbsp;C:\Users\MUNEEB&gt;&nbsp;Open&#8209;Drift&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></td>
+  </tr>
+</table>
+
+Drift detects requirement drift from client messages and turns scope changes into reviewable project decisions.
+
+<kbd><b>Language: Python</b></kbd> <kbd><b>Commits: 243</b></kbd> <kbd><b>PRs: 28</b></kbd> <kbd><b>Last pushed: 2026-11-10</b></kbd>
+
 ### [personal-error-101](https://github.com/muneeb-anjum0/personal-error-101)
 
 <table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
@@ -103,18 +115,6 @@ Recently updated project repository.
 SZABIST Islamabad timetable and ZABDESK schedule search for classes, courses, sections, faculty availability, and clash-aware planning.
 
 <kbd><b>Language: Python</b></kbd> <kbd><b>Commits: 185</b></kbd> <kbd><b>PRs: 99</b></kbd> <kbd><b>Last pushed: 2026-10-22</b></kbd>
-
-### [Drift](https://github.com/muneeb-anjum0/Drift)
-
-<table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
-  <tr>
-    <td width="100%" bgcolor="#e4f2ff"><samp>PS&nbsp;C:\Users\MUNEEB&gt;&nbsp;Open&#8209;Drift&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></td>
-  </tr>
-</table>
-
-Drift detects requirement drift from client messages and turns scope changes into reviewable project decisions.
-
-<kbd><b>Language: Python</b></kbd> <kbd><b>Commits: 231</b></kbd> <kbd><b>PRs: 25</b></kbd> <kbd><b>Last pushed: 2026-10-12</b></kbd>
 <!-- latest-projects:end -->
 
 <h1><samp>PS&gt; Get-Stack</samp></h1>
