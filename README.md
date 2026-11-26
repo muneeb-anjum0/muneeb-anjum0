@@ -80,6 +80,18 @@
 </table>
 
 <!-- latest-projects:start -->
+### [hisabKitab](https://github.com/muneeb-anjum0/hisabKitab)
+
+<table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
+  <tr>
+    <td width="100%" bgcolor="#e4f2ff"><samp>PS&nbsp;C:\Users\MUNEEB&gt;&nbsp;Open&#8209;hisabKitab&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></td>
+  </tr>
+</table>
+
+A comic-styled personal and household ledger for giving every rupee a job.
+
+<kbd><b>Language: JavaScript</b></kbd> <kbd><b>Commits: 169</b></kbd> <kbd><b>PRs: 0</b></kbd> <kbd><b>Last pushed: 2026-11-26</b></kbd>
+
 ### [personal-error-101](https://github.com/muneeb-anjum0/personal-error-101)
 
 <table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
@@ -90,7 +102,7 @@
 
 Recently updated project repository.
 
-<kbd><b>Language: TypeScript</b></kbd> <kbd><b>Commits: 33</b></kbd> <kbd><b>PRs: 77</b></kbd> <kbd><b>Last pushed: 2026-11-25</b></kbd>
+<kbd><b>Language: TypeScript</b></kbd> <kbd><b>Commits: 34</b></kbd> <kbd><b>PRs: 77</b></kbd> <kbd><b>Last pushed: 2026-11-26</b></kbd>
 
 ### [Drift](https://github.com/muneeb-anjum0/Drift)
 
@@ -103,18 +115,6 @@ Recently updated project repository.
 Drift detects requirement drift from client messages and turns scope changes into reviewable project decisions.
 
 <kbd><b>Language: Python</b></kbd> <kbd><b>Commits: 255</b></kbd> <kbd><b>PRs: 32</b></kbd> <kbd><b>Last pushed: 2026-11-23</b></kbd>
-
-### [ClassWire-SZABIST-ISB](https://github.com/muneeb-anjum0/ClassWire-SZABIST-ISB)
-
-<table width="100%" bgcolor="#012456" cellpadding="8" cellspacing="2">
-  <tr>
-    <td width="100%" bgcolor="#e4f2ff"><samp>PS&nbsp;C:\Users\MUNEEB&gt;&nbsp;Open&#8209;ClassWire&#8209;SZABIST&#8209;ISB&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></td>
-  </tr>
-</table>
-
-SZABIST Islamabad timetable and ZABDESK schedule search for classes, courses, sections, faculty availability, and clash-aware planning.
-
-<kbd><b>Language: Python</b></kbd> <kbd><b>Commits: 186</b></kbd> <kbd><b>PRs: 100</b></kbd> <kbd><b>Last pushed: 2026-11-22</b></kbd>
 <!-- latest-projects:end -->
 
 <h1><samp>PS&gt; Get-Stack</samp></h1>
