@@ -90,7 +90,7 @@
 
 A comic-styled personal and household ledger for giving every rupee a job.
 
-<kbd><b>Language: JavaScript</b></kbd> <kbd><b>Commits: 171</b></kbd> <kbd><b>PRs: 0</b></kbd> <kbd><b>Last pushed: 2026-11-27</b></kbd>
+<kbd><b>Language: JavaScript</b></kbd> <kbd><b>Commits: 174</b></kbd> <kbd><b>PRs: 0</b></kbd> <kbd><b>Last pushed: 2026-11-27</b></kbd>
 
 ### [personal-error-101](https://github.com/muneeb-anjum0/personal-error-101)
 
